@@ -2,7 +2,7 @@
 author = "Simon Guest"
 title = "Peace and Provision"
 date = "2021-02-11"
-description = "A prayer as it begins."
+description = "A prayer as it begins"
 tags = [
     "prayer",
 ]
