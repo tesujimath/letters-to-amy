@@ -7,7 +7,7 @@ tags = [
     "trust",
 ]
 image = "joe-johannes-qVcs4k1H_4k-unsplash.jpg"
-license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by Joe Johannes on Unsplash"
+license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Joe Johannes on Unsplash](https://unsplash.com/photos/qVcs4k1H_4k)"
 +++
 
 Just wondering how you are coping with the heat over there, Amy. And that made me think of this.

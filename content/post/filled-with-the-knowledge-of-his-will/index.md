@@ -7,7 +7,7 @@ tags = [
     "fruit", "prayer"
 ]
 image = "jonny-james-TE0leJlNX8Y-unsplash.jpg"
-license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by Jonny James on Unsplash"
+license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Jonny James on Unsplash](https://unsplash.com/photos/TE0leJlNX8Y)"
 +++
 
 Dear Amy,

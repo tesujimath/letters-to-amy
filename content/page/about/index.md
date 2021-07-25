@@ -3,7 +3,7 @@ title: About
 description: Letters to Amy
 date: "2021-07-21"
 image: "river.jpg"
-license: Text by Simon Guest CC BY-NC-ND 4.0, Photo by Amy, Avatar by John Jennings on Unsplash
+license: Text by Simon Guest CC BY-NC-ND 4.0, Photo by Amy, Avatar by [John Jennings on Unsplash](https://unsplash.com/photos/I_kGNSAqD-8)
 lastmod: "2021-07-21"
 menu:
     main: 

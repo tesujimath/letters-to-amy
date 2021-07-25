@@ -1,6 +1,6 @@
 baseurl: https://letterstoamy.tesujimath.org
 languageCode: en-gb
-theme: hugo-theme-stack-2.6.0
+theme: hugo-theme-stack
 paginate: 5
 title: Letters to Amy
 
