@@ -3,9 +3,7 @@ author = "Simon Guest"
 title = "Peace and Provision"
 date = "2021-02-11"
 description = "A prayer as it begins"
-tags = [
-    "prayer",
-]
+tags = [ "prayer" ]
 image = "raimond-klavins-DDwOFA_9LiY-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Raimond Klavins on Unsplash](https://unsplash.com/photos/DDwOFA_9LiY)"
 +++

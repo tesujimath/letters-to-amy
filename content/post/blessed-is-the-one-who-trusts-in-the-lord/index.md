@@ -3,9 +3,7 @@ author = "Simon Guest"
 title = "Blessed is the one who trusts in the Lord"
 date = "2021-02-17"
 description = "An encouragement from Jeremiah"
-tags = [
-    "trust",
-]
+tags = [ "trust" ]
 image = "joe-johannes-qVcs4k1H_4k-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Joe Johannes on Unsplash](https://unsplash.com/photos/qVcs4k1H_4k)"
 +++
