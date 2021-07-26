@@ -1,6 +1,6 @@
 +++
 author = "Simon Guest"
-title = "The Pharisaical Heart"
+title = "The Pharisaical heart"
 date = "2021-05-26"
 description = "A lesson from Les Misérables"
 tags = [ "redemption", "grace", "judgment", "unforgiveness" ]

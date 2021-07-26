@@ -1,6 +1,6 @@
 +++
 author = "Simon Guest"
-title = "Changing the Past"
+title = "Changing the past"
 date = "2021-05-19"
 description = "Learning to live with a mistake"
 tags = [ "forgiveness", "regret" ]

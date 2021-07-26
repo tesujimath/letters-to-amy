@@ -1,6 +1,6 @@
 +++
 author = "Simon Guest"
-title = "Peace and Provision"
+title = "Peace and provision"
 date = "2021-02-11"
 description = "A prayer as it begins"
 tags = [ "prayer" ]

@@ -1,6 +1,6 @@
 +++
 author = "Simon Guest"
-title = "Covid Prayer"
+title = "Covid prayer"
 date = "2021-03-31"
 description = "Do not let your hearts be troubled"
 tags = [ "prayer" ]
