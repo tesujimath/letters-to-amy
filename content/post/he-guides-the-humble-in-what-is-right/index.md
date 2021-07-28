@@ -1,7 +1,7 @@
 +++
 author = "Simon Guest"
 title = "He guides the humble in what is right"
-date = "2021-03-03"
+date = "2021-03-03T06:49:00+13:00"
 description = "The path of humility"
 tags = [ "humility" ]
 image = "claudio-carrozzo-fCtvc5eFcqk-unsplash.jpg"

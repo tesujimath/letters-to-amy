@@ -1,7 +1,7 @@
 +++
 author = "Simon Guest"
 title = "Peace and provision"
-date = "2021-02-11"
+date = "2021-02-11T07:21:00+13:00"
 description = "A prayer as it begins"
 tags = [ "prayer" ]
 image = "raimond-klavins-DDwOFA_9LiY-unsplash.jpg"

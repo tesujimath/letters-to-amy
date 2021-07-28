@@ -1,7 +1,7 @@
 +++
 author = "Simon Guest"
 title = "Perfect love drives out fear"
-date = "2021-04-14"
+date = "2021-04-14T06:48:00+12:00"
 description = "How does that work?"
 tags = [ "fear", "love" ]
 image = "josue-michel-xCU7nCMNfI8-unsplash.jpg"

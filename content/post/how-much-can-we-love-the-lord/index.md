@@ -1,7 +1,7 @@
 +++
 author = "Simon Guest"
 title = "How much can we love the Lord?"
-date = "2021-04-28"
+date = "2021-04-28T06:45:00+12:00"
 description = "Holding nothing back"
 tags = [ "love" ]
 image = "aldebaran-s-uXchDIKs4qI-unsplash.jpg"

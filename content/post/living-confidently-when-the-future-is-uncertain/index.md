@@ -1,7 +1,7 @@
 +++
 author = "Simon Guest"
 title = "Living confidently when the future is uncertain"
-date = "2021-06-09"
+date = "2021-06-09T06:48:00+12:00"
 description = "The Lord delights in those who fear him"
 tags = [ "faith", "trust", "commitment" ]
 image = "arthur-ogleznev-rWDumHFt8E8-unsplash.jpg"

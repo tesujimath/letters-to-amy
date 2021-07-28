@@ -1,7 +1,7 @@
 +++
 author = "Simon Guest"
 title = "How can we love the Lord this much?"
-date = "2021-05-05"
+date = "2021-05-05T06:45:00+12:00"
 description = "Feed and water our love with praise"
 tags = [ "love" ]
 image = "nikola-jovanovic-OBok3F8buKY-unsplash.jpg"

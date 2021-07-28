@@ -1,7 +1,7 @@
 +++
 author = "Simon Guest"
 title = "Covid prayer"
-date = "2021-03-31"
+date = "2021-03-31T06:47:00+13:00"
 description = "Do not let your hearts be troubled"
 tags = [ "prayer" ]
 image = "yannis-h-zpSXcUpmhNc-unsplash.jpg"

@@ -1,7 +1,7 @@
 +++
 author = "Simon Guest"
 title = "Forgiveness and purification"
-date = "2021-03-24"
+date = "2021-03-24T06:44:00+13:00"
 description = "A well-loved verse"
 tags = [ "forgiveness" ]
 image = "nega-YdyhHbWZ1V0-unsplash.jpg"

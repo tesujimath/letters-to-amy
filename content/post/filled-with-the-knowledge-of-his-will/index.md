@@ -1,7 +1,7 @@
 +++
 author = "Simon Guest"
 title = "Filled with the knowledge of his will"
-date = "2021-02-25"
+date = "2021-02-25T06:47:00+13:00"
 description = "A prayer from Paul's letter to the Colossians"
 tags = [ "fruit", "prayer" ]
 image = "jonny-james-TE0leJlNX8Y-unsplash.jpg"

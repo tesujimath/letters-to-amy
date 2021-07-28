@@ -1,7 +1,7 @@
 +++
 author = "Simon Guest"
 title = "On being vulnerable"
-date = "2021-06-02"
+date = "2021-06-02T06:48:00+12:00"
 description = "Why is this so important?"
 tags = [ "vulnerability", "reputation" ]
 image = "vitaliy-zalishchyker-3Ank_q_qVtE-unsplash.jpg"

@@ -1,7 +1,7 @@
 +++
 author = "Simon Guest"
 title = "Why is life so hard?"
-date = "2021-05-12"
+date = "2021-05-12T06:48:00+12:00"
 description = "Longing for deliverance"
 tags = [ "pain", "waiting", "expectancy" ]
 image = "hugo-jehanne-LOHVrTsdvzY-unsplash.jpg"

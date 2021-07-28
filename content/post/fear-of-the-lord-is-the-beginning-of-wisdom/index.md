@@ -1,7 +1,7 @@
 +++
 author = "Simon Guest"
 title = "Fear of the Lord is the beginning of wisdom"
-date = "2021-03-10"
+date = "2021-03-10T06:43:00+13:00"
 description = "How can we know the will of the Lord?"
 tags = [ "fear of the Lord" ]
 image = "greg-rakozy-oMpAz-DN-9I-unsplash.jpg"

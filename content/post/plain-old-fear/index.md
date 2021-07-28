@@ -1,7 +1,7 @@
 +++
 author = "Simon Guest"
 title = "Plain old fear"
-date = "2021-04-07"
+date = "2021-04-07T06:45:00+12:00"
 description = "How does fear begin?"
 tags = [ "fear", "lies" ]
 image = "simon-berger-rydQVdwcgUQ-unsplash.jpg"

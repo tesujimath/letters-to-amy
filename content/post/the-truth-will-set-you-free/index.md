@@ -1,7 +1,7 @@
 +++
 author = "Simon Guest"
 title = "The truth will set you free"
-date = "2021-04-21"
+date = "2021-04-21T06:42:00+12:00"
 description = "How can we know the truth?"
 tags = [ "truth", "obedience" ]
 image = "aaron-burden-TNlHf4m4gpI-unsplash.jpg"

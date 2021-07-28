@@ -1,7 +1,7 @@
 +++
 author = "Simon Guest"
 title = "The heavens declare the glory of God"
-date = "2021-06-30"
+date = "2021-06-30T06:26:00+12:00"
 description = "Big things and small ones"
 tags = [ "creation" ]
 image = "martin-jernberg-UdURxHDhrgY-unsplash.jpg"

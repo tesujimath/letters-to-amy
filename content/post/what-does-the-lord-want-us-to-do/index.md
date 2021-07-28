@@ -1,7 +1,7 @@
 +++
 author = "Simon Guest"
 title = "What does the Lord want us to do?"
-date = "2021-07-07"
+date = "2021-07-07T06:51:00+12:00"
 description = "Believe in the one he has sent"
 tags = [ "guidance", "love" ]
 image = "robert-nyman--ysyCHixMHU-unsplash.jpg"

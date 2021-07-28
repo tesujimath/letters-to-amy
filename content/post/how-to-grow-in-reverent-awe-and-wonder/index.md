@@ -1,7 +1,7 @@
 +++
 author = "Simon Guest"
 title = "How to grow in reverent awe and wonder"
-date = "2021-03-17"
+date = "2021-03-17T06:33:00+13:00"
 description = "I run in the path of your commands, for you have set my heart free"
 tags = [ "fear of the Lord" ]
 image = "atharva-tulsi-2jA_YoQuvaA-unsplash.jpg"
