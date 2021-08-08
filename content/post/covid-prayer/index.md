@@ -10,7 +10,7 @@ license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Yannis H on Unsplash](
 
 Dear God, my God,
 
-You are the Lord of all creation, majestic, sovereign, good, and wise beyond our understanding. Praise your holy name! I lift up to you the situation in Amy's village, with Covid having arrived, and along with it, fear. Forgive us when we doubt your goodness or your sovereignty. I pray the people there would hear Jesus speaking, "Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid." (John 14:27). Please keep Amy safe and well, and may she be a beacon of hope for those who may be losing theirs, pointing to Jesus and trusting him.
+You are the Lord of all creation, majestic, sovereign, good, and wise beyond our understanding. Praise your holy name! I lift up to you the situation in Amy's village, with Covid having arrived, and along with it, fear. Forgive us when we doubt your goodness or your sovereignty. I pray the people there would hear Jesus speaking, "Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid." (John 14:27). Please keep Amy safe and well, and may she be a beacon of hope for those who may be losing theirs, pointing to Jesus and trusting him.
 🙏
 
 Cc: Amy, with love

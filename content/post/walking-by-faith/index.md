@@ -12,9 +12,9 @@ Dear Amy,
 
 What happens when we walk by faith?
 
-Perhaps the greatest example we have is Abraham. He didn't always get it right, nor did he manage always to trust, as shown by his shabby little misdeed with Hagar. Evidently not super-human then! But the Lord called him again out of that particular failure thirteen years later, out of the absolute mess he had made (“walk before me and be blameless” - Gen 17:1), after he had been waiting for the fulfillment of the Lord's promise to him for 25 years. Twenty-five years!
+Perhaps the greatest example we have is Abraham. He didn't always get it right, nor did he manage always to trust, as shown by his shabby little misdeed with Hagar. Evidently not super-human then! But the Lord called him again out of that particular failure thirteen years later, out of the absolute mess he had made (“walk before me and be blameless” - Gen 17:1), after he had been waiting for the fulfillment of the Lord's promise to him for 25 years. Twenty-five years!
 
-Paul's account in Romans 4 manages to overlook Abraham's shameful failure (oh the grace of God!), and we find this: Yet Abraham did not waver through unbelief regarding the promise of God, but was strengthened in his faith and gave glory to God, being fully persuaded that God had power to do what he had promised (Rom 4:20-21).
+Paul's account in Romans 4 manages to overlook Abraham's shameful failure (oh the grace of God!), and we find this: Yet Abraham did not waver through unbelief regarding the promise of God, but was strengthened in his faith and gave glory to God, being fully persuaded that God had power to do what he had promised (Rom 4:20-21).
 
 He believed again, and walked by faith. What then happened? He was strengthened in his faith. Notice what happened here. He believed. He exercised faith. Just enough. Perhaps barely enough, but enough all the same. And the Lord strengthened him in that faith. And it was God who was thus glorified, not Abraham.
 
