@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "The Pharisaical heart"
 date = "2021-05-26T06:46:00+12:00"
 description = "A lesson from Les Misérables"
-tags = [ "redemption", "grace", "judgment", "unforgiveness" ]
+tags = [ "unforgiveness", "judgment", "redemption", "grace" ]
 image = "tamara-gore-P4mxBJtINCw-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Tamara Gore on Unsplash](https://unsplash.com/photos/P4mxBJtINCw)"
 +++

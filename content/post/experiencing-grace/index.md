@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "Experiencing grace"
 date = "2021-06-23T06:32:00+12:00"
 description = "How can we better perceive the Lord's grace in all we experience?"
-tags = [ "grace", "disappointment", "sovereignty" ]
+tags = [ "disappointment", "sovereignty", "grace" ]
 image = "denise-jans-IJy2ZUex0-Y-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Denise Jans on Unsplash](https://unsplash.com/photos/IJy2ZUex0-Y)"
 +++

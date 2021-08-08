@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "Living confidently in the Lord's love"
 date = "2021-07-14T06:38:00+12:00"
 description = "Be strong and take heart and wait for the Lord"
-tags = [ "faith", "trust", "waiting" ]
+tags = [ "waiting", "faith", "trust" ]
 image = "melissa-askew-8n00CqwnqO8-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Melissa Askew on Unsplash](https://unsplash.com/photos/8n00CqwnqO8)"
 +++
