@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "Faith that changes the course of nations"
 date = "2021-09-01T06:45:00+12:00"
 description = "And the Lord's plans and purposes which rest on that faith"
-tags = [ "faith", "miracles" ]
+tags = [ "faith", "obedience", "miracles" ]
 image = "vladislav-klapin-YeO44yVTl20-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Vladislav Klapin on Unsplash](https://unsplash.com/photos/YeO44yVTl20)"
 +++
