@@ -1,6 +1,6 @@
 +++
 author = "Simon Guest"
-title = "Desert Island"
+title = "Desert island"
 date = "2021-09-08T06:43:00+12:00"
 description = "What would you take?"
 tags = [ "knowing God" ]
