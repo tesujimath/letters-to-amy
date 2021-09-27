@@ -18,8 +18,6 @@ In an alternate reality, the Lord could have dealt with our sin as he did, and s
 
 We have redemption _through his blood_. The cost was enormous. The love that paid this price, unfathomable. The forgiveness of sins and restoration of relationship with our heavenly father, beyond all worth. And the revelation of this mystery, according to his good pleasure.
 
-Do we understand what has been done for us, and why? The Lord desires that we do.
-
-(I notice there's still plenty of treasure from this chapter to be unearthed, so we're not about to escape from this desert island just yet!)
+Do we understand what has been done for us, and why? The Lord desires that we do. If we really grasp this, won't it magnify our love for him a hundredfold?
 
 Know the mystery, Amy, and love the author of the mystery who has made it known! 🙏
