@@ -4,8 +4,8 @@ title = "A mystery revealed"
 date = "2021-09-29T06:38:00+13:00"
 description = "Fuel for grateful hearts"
 tags = [ "mystery", "revelation", "grace" ]
-image = "justin-kauffman-TtH6cX-4cc8-unsplash.jpg"
-license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Justin Kauffman on Unsplash](https://unsplash.com/photos/TtH6cX-4cc8)"
+image = "david-clode-EDfZ0Sjmp_w-unsplash.jpg"
+license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [David Clode on Unsplash](https://unsplash.com/photos/EDfZ0Sjmp_w)"
 +++
 
 Dear Amy,
