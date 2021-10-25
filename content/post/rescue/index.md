@@ -18,7 +18,7 @@ To be honest, my Bible actually says this:
 
 > “Because he loves me,” says the LORD, “I will rescue him”
 
-But the gender is of no consequence. What matters is this: the pronoun is singular.
+But gender is of no consequence here. What matters is this: the pronoun is singular.
 
 Some think the only rescue is the body-and-blood-of-Christ one that saves us from our sin and brings us into relationship with our Heavenly Father. But that's just the start! Notice this: “Because she loves me,” says the LORD, “I will rescue her”.  This is someone who is _already in relationship_. The rescue is ongoing!
 
