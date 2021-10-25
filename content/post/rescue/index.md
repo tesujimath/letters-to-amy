@@ -20,7 +20,7 @@ To be honest, my Bible actually says this:
 
 But gender is of no consequence here. What matters is this: the pronoun is singular.
 
-Some think the only rescue is the body-and-blood-of-Christ one that saves us from our sin and brings us into relationship with our Heavenly Father. But that's just the start! Notice this: “Because she loves me,” says the LORD, “I will rescue her”.  This is someone who is _already in relationship_. The rescue is ongoing!
+Some think the only rescue is the body-and-blood-of-Christ one that saves us from our sin and brings us into relationship with our Heavenly Father. But that's just the beginning. Notice this: “Because she loves me,” says the LORD, “I will rescue her”.  This is someone who is _already in relationship_. The rescue is ongoing!
 
 The Fourth of July this year should have been the last day of my life. I was in Rarotonga, in a kayak, in a place I shouldn't have been on that monster-surf day, caught in a rip in the Avaavaroa Passage. The waves were pounding on the exposed reef, and after ten minutes, two capsizes, and exhaustion, I knew I was going to die. I cried out to God.
 
