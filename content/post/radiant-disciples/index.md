@@ -2,7 +2,7 @@
 author = "Simon Guest"
 title = "Radiant disciples"
 date = "2021-11-03T06:29:00+13:00"
-description = "And the source of our radiance"
+description = "And the source of their radiance"
 tags = [ "forgiveness", "hope", "joy", "love" ]
 image = "autumn-goodman-vTL_qy03D1I-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Autumn Goodman on Unsplash](https://unsplash.com/photos/vTL_qy03D1I)"
