@@ -12,11 +12,11 @@ Dear Amy,
 
 What is it about those who love the Lord with all of their heart, soul, mind and strength which is so profoundly attractive?
 
-> Those who look to him are radiant; their faces are never covered with shame (Psalm 34:5)
+> Those who look to him are radiant; their faces are never covered with shame. (Psalm 34:5)
 
 When John had a vision on the island of Patmos of the risen Lord Jesus, he tried to describe the indescribable for us, concluding:
 
-> His face was like the sun shining in all its brilliance (Revelation 1:16)
+> His face was like the sun shining in all its brilliance. (Revelation 1:16)
 
 You can't look at the sun, it's far too bright. Any attempt even to look nearby overloads our retina, so all else fades into nothing. And so it is with the Lord.
 
