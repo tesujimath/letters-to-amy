@@ -12,7 +12,9 @@ Dear Amy,
 
 Here's a well loved verse from John's first letter, that we may be in danger of reading too quickly and missing the most important word.
 
-> If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness. (1 Jn 1:9)
+{{< quote source="1 John 1:9" >}}
+If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness.
+{{< /quote >}}
 
 There are some important words here. Confess. Sins. And some wonderful, lifting words. Faithful. Forgive. Purify. But what am I referring to? Here's what. *Just*.
 

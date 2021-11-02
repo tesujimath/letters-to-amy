@@ -14,7 +14,9 @@ How can we know for sure that all we are hoping for in eternity is real, and tha
 
 I think I'm just about ready to leave this desert island, and I see a boat on the horizon (yay!), but first let's look into Ephesians 1 for one last time.
 
-> And you also were included in Christ when you heard the message of truth, the gospel of your salvation. When you believed, you were marked in him with a seal, the promised Holy Spirit, who is a deposit guaranteeing our inheritance until the redemption of those who are God’s possession — to the praise of his glory (Ephesians 1:13-14).
+{{< quote source="Ephesians 1:13-14" >}}
+And you also were included in Christ when you heard the message of truth, the gospel of your salvation. When you believed, you were marked in him with a seal, the promised Holy Spirit, who is a deposit guaranteeing our inheritance until the redemption of those who are God’s possession — to the praise of his glory.
+{{< /quote >}}
 
 There are some really significant points to note here.
 
@@ -28,6 +30,8 @@ There are some really significant points to note here.
 
 The Holy Spirit living in us not only proves our adoption by the Lord, but gives us power to live victoriously, a foretaste of what is certain, of what is promised and true. A deposit guaranteeing our inheritance! Now we can truly say this:
 
-> Praise be to the God and Father of our Lord Jesus Christ, who has blessed us in the heavenly realms with every spiritual blessing in Christ (v3).
+{{< quote source="Ephesians 1:3" >}}
+Praise be to the God and Father of our Lord Jesus Christ, who has blessed us in the heavenly realms with every spiritual blessing in Christ.
+{{< /quote >}}
 
 Praise him, Amy, for such blessing as this! 🙏

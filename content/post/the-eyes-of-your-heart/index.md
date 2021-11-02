@@ -14,7 +14,9 @@ What are the eyes of our heart for?
 
 I'm still stuck on this desert island, reading Ephesians 1. It is not a bad place to be! Consider what Paul writes about the eyes of our heart. (The heart is the seat of life and strength, the centre of one's will. That is mind, soul, spirit, one's entire emotional nature and understanding.)  Paul writes:
 
-> I pray also that the eyes of your heart may be enlightened in order that you may know the hope to which he has called you, the riches of his glorious inheritance in the saints, and his incomparably great power for us who believe. That power is like the working of his mighty strength, which he exerted in Christ when he raised him from the dead and seated him at his right hand in the heavenly realms (Eph 1:18-20).
+{{< quote source="Ephesians 1:18-20" >}}
+I pray also that the eyes of your heart may be enlightened in order that you may know the hope to which he has called you, the riches of his glorious inheritance in the saints, and his incomparably great power for us who believe. That power is like the working of his mighty strength, which he exerted in Christ when he raised him from the dead and seated him at his right hand in the heavenly realms.
+{{< /quote >}}
 
 This is a prayer. Paul asks for enlightening of the eyes of our heart. We must ask for this thing that otherwise we may miss. Notice that what the enlightened eyes of our heart do is to _know_. Merely seeing is curiosity. Knowing is life-changing. What is there to know? Three things.
 
