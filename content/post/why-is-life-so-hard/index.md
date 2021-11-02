@@ -18,7 +18,10 @@ Some of this may be a consequence of trying to live apart from the Lord, or simp
 
 Paul writes about this in Romans 8:18-27, in a passage sandwiched between two rather better known and loved celebrations of victory. If you possibly can, read it in The Message. Here's an extract.
 
-> The difficult times of pain throughout the world are simply birth pangs. But it’s not only around us; it’s within us. ... These sterile and barren bodies of ours are yearning for full deliverance. That is why waiting does not diminish us, any more than waiting diminishes a pregnant mother. We are enlarged in the waiting. ... the longer we wait, the larger we become, and the more joyful our expectancy. (Rom 8:22-25)
+{{< quote source="Romans 8:22-25" >}}
+The difficult times of pain throughout the world are simply birth pangs. But it’s not only around us; it’s within us. ... These sterile and barren bodies of ours are yearning for full deliverance. That is why waiting does not diminish us, any more than waiting diminishes a pregnant mother. We are enlarged in the waiting. ... the longer we wait, the larger we become, and the more joyful our expectancy.
+{{< /quote >}}
+
 
 There's much in this world that is anaesthetic. Beware! It may dull the pain, but it will also dull the joyful expectancy. Perhaps only when we bear some pain ourselves can we be of any real use in the Kingdom. It need not be our own, but then it's not too hard to find someone else's, and wait with them in that. These are the places where God's grace is most evident.
 

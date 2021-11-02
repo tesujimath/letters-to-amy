@@ -14,7 +14,9 @@ How can we obey a command if we don't know what it means?
 
 Obviously we can't, it's a rhetorical question. What of this then?
 
-> Taste and see that the LORD is good (Psalm 34:8)
+{{< quote source="Psalm 34:8" >}}
+Taste and see that the LORD is good.
+{{< /quote >}}
 
 This is clearly an instruction to do something. It's a command. Notice that David could have written, Behold! The Lord is good (because he is). That's a true statement, but it's not what he wrote. What he wrote, rather, is something we are commanded to do. Taste! And see! Let's think about this.
 

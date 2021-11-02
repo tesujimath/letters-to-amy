@@ -12,7 +12,9 @@ Dear Amy,
 
 How can we know a mystery?
 
-> In him we have redemption through his blood, the forgiveness of sins, in accordance with the riches of God’s grace that he lavished on us. With all wisdom and understanding, he made known to us the mystery of his will according to his good pleasure, which he purposed in Christ (Ephesians 1:7-9).
+{{< quote source="Ephesians 1:7-9" >}}
+In him we have redemption through his blood, the forgiveness of sins, in accordance with the riches of God’s grace that he lavished on us. With all wisdom and understanding, he made known to us the mystery of his will according to his good pleasure, which he purposed in Christ.
+{{< /quote >}}
 
 In an alternate reality, the Lord could have dealt with our sin as he did, and simply told us, it's ok, we can be friends again, I've sorted it out. But in our reality, _with all wisdom and understanding, he made known to us the mystery of his will_. He desires us to know just what our rescue cost him, and what it cost his only son, as he lavished his grace on us. As he continues to lavish it.
 

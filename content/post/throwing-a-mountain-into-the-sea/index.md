@@ -14,7 +14,9 @@ How can we throw a mountain into the sea?
 
 What a ridiculous question! It's clearly impossible. And yet, Jesus said,
 
-> “Truly I tell you, if anyone says to this mountain, ‘Go, throw yourself into the sea,’ and does not doubt in their heart but believes that what they say will happen, it will be done for them.” (Mk 11:23)
+{{< quote source="Mark 11:23" >}}
+“Truly I tell you, if anyone says to this mountain, ‘Go, throw yourself into the sea,’ and does not doubt in their heart but believes that what they say will happen, it will be done for them.”
+{{< /quote >}}
 
 Why would Jesus say such a thing? Is he mocking us? Is he exaggerating? Is he lying, even?
 
@@ -24,7 +26,9 @@ After so many years, I have learnt that I can trust Jesus absolutely. I'm quite 
 
 Jesus said a similar thing to his disciples at the Last Supper.
 
-> “You may ask me for anything in my name, and I will do it.” (Jn 14:14)
+{{< quote source="John 14:14" >}}
+“You may ask me for anything in my name, and I will do it.”
+{{< /quote >}}
 
 But here we have the caveat, “in my name”. I can only ask for something in Jesus' name if he would have asked for the same. That's a wonderful guideline for praying in power, and it defines my own expectation in prayer.
 
