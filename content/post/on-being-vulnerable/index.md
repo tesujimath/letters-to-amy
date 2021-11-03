@@ -12,7 +12,11 @@ Dear Amy,
 
 Why is it so important to be vulnerable?
 
-Our every instinct is to protect and defend, to justify ourselves, and yet we must not do it!  Why is this?  Paul wrote to the Corinthians about his vision and the thorn in his flesh (2 Cor 12:1-10), concluding: the Lord said to me, “My grace is sufficient for you, for my power is made perfect in weakness.” Therefore I will boast all the more gladly about my weaknesses, so that Christ’s power may rest on me ... I delight in weaknesses ... for when I am weak, then I am strong.
+Our every instinct is to protect and defend, to justify ourselves, and yet we must not do it!  Why is this?  Paul wrote to the Corinthians about his vision and the thorn in his flesh, concluding:
+
+{{< quote source="2 Corinthians 12:9, 10" >}}
+The Lord said to me, “My grace is sufficient for you, for my power is made perfect in weakness.” Therefore I will boast all the more gladly about my weaknesses, so that Christ’s power may rest on me ... I delight in weaknesses ... for when I am weak, then I am strong.
+{{< /quote >}}
 
 What does this look like?
 

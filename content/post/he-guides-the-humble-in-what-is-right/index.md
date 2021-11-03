@@ -10,7 +10,11 @@ license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Claudio Carrozzo on Un
 
 Dear Amy,
 
-Here is Psalm 25:8-9 for you:  Good and upright is the LORD; therefore he instructs sinners in his ways. He guides the humble in what is right and teaches them his way.
+Here are a couple of verses from Psalm 25 for you:
+
+{{< quote source="Psalm 25:8-9" >}}
+Good and upright is the LORD; therefore he instructs sinners in his ways. He guides the humble in what is right and teaches them his way.
+{{< /quote >}}
 
 Notice the therefore. Meditate on it. Revel in it. See how the Lord desires for us to be holy and blameless, and yet he does not wait for that to be so, to instruct us.
 

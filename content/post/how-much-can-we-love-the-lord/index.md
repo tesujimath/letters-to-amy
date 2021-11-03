@@ -12,7 +12,11 @@ Dear Amy,
 
 How much can we love the Lord?
 
-Recently in church we were invited to speak out our praise to God. Woefully, every single prayer was me and us. What self-obsession! Is there any deliverance from this? Wonderfully there is, and it's to be found in Revelation, chapters 4 and 5. Lose yourself in that for a while. Hear a hundred million angels singing, “Worthy is the Lamb, who was slain, to receive power and wealth and wisdom and strength and honour and glory and praise!” (Rev 5:12), and every creature too.
+Recently in church we were invited to speak out our praise to God. Woefully, every single prayer was me and us. What self-obsession! Is there any deliverance from this? Wonderfully there is, and it's to be found in Revelation, chapters 4 and 5. Lose yourself in that for a while. Hear a hundred million angels and every creature singing:
+
+{{< quote source="Revelation 5:12" >}}
+“Worthy is the Lamb, who was slain, to receive power and wealth and wisdom and strength and honour and glory and praise!”
+{{< /quote >}}
 
 Are any thinking about themselves, even for a moment? Not remotely! They are wholly captivated by the presence of the risen Lord Jesus, his glory and his power, and his irresistible love.
 
