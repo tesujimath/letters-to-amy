@@ -12,7 +12,13 @@ Dear Amy,
 
 What does it mean to receive the kingdom of God like a little child?
 
-What a vital question!  Jesus himself said, “Truly I tell you, anyone who will not receive the kingdom of God like a little child will never enter it” (Luke 18:17). We must fathom this then!  Let's consider three aspects of a little child's relationship with their earthly parents, and infer how to receive from our heavenly father.
+What a vital question!  Jesus himself said:
+
+{{< quote source="Luke 18:17" >}}
+“Truly I tell you, anyone who will not receive the kingdom of God like a little child will never enter it.”
+{{< /quote >}}
+
+We must fathom this then!  Let's consider three aspects of a little child's relationship with their earthly parents, and infer how to receive from our heavenly father.
 
 Firstly, the little child trusts, absolutely. When the parent says it is so, or tells of something they will do, the child never doubts for a moment. The child wastes no energy at all worrying about it. They count on it, as if it were already so.
 

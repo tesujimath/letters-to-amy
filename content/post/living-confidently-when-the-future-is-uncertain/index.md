@@ -16,7 +16,11 @@ There are so many things we would like to know. What will I do with my life? Wil
 
 In general, the Lord does not tell us such things ahead of time, and nor should we expect it. If he does reveal something, as he occasionally does, even an incredible and specific promise, it is unlikely to be how or when. What is my part then? What must I do? I must trust him, and I must live for him with my whole heart.
 
-Remember the first thing I wrote to you Amy, back in February, from Psalm 147:1, “The LORD delights in those who fear him, who put their hope in his unfailing love.”
+Remember the first thing I wrote to you Amy, back in February.
+
+{{< quote source="Psalm 147:1" >}}
+The LORD delights in those who fear him, who put their hope in his unfailing love.
+{{< /quote >}}
 
 By choosing to trust, to walk by faith, with all of our hope in the Lord's unfailing love, we can delight him. I will say it again. We can delight him! Without uncertainty there can be no faith, so let us embrace it, and show the Lord that we really can walk by faith. What an opportunity to show him that! There is no risk, really. Read Psalm 145 again, and believe it.
 

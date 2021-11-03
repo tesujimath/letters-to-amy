@@ -14,7 +14,11 @@ What does the Lord want us to do?
 
 Surely there must be some special work that he's calling us to. Something that we have to carefully and prayerfully uncover, so we can live the life he has planned, and do the work he has for us. Surely?
 
-Jesus was once asked exactly this. “What must we do to do the works God requires?”  Jesus answered, “The work of God is this: to believe in the one he has sent.” (John 6:28-29)
+Jesus was once asked exactly this.
+
+{{< quote source="John 6:28-29" >}}
+“What must we do to do the works God requires?”  Jesus answered, “The work of God is this: to believe in the one he has sent.”
+{{< /quote >}}
 
 That's a little enigmatic, don't you think? Or is it? Perhaps it's actually really straightforward! What would that look like? To believe in the one the Lord has sent?
 
