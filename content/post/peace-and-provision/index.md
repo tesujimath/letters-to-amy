@@ -10,7 +10,7 @@ license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Raimond Klavins on Uns
 
 May you know peace from the Lord, and his provision for you, Amy, as you wait on him, and especially when things don't turn out as you expected or hoped. Know that the Lord's plans prevail, and:
 
-{{< quote source=" Psalm 147:11" >}}
+{{< quote source="Psalm 147:11" >}}
 The LORD delights in those who fear him, who put their hope in his unfailing love.
 {{< /quote >}}
 
