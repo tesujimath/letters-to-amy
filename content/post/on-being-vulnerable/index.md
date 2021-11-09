@@ -22,7 +22,7 @@ What does this look like?
 
 When I am judged, even when the judgment is as ignorant as it is harsh, I choose not to defend myself. How easy is it to do this? It is the hardest thing! It is dying to self. (But, my integrity is not defined by what others think of me.)
 
-Reputation is the idol of our age, both within and without the church, maybe the greatest barrier to the gospel, to the transforming power of the Holy Spirit, and to us honouring the Lord with our whole lives. Here are the four most oppressive words, that empty us of the Lord's power and make us utterly useless for him: what will they think?
+Reputation is the idol of our age, both within and without the church, maybe the greatest barrier to the gospel, to the transforming power of the Holy Spirit, and to us honouring the Lord with our whole lives. Here are the four most oppressive words, that empty us of the Lord's power and make us utterly useless for him: _what will they think?_
 
 What will they think of me? I choose not to care! And here is the reason to be vulnerable, to not care about this. Suddenly I can share the gospel with great power, and absolute confidence. I am invincible, because what defines me is unassailable! (2 Cor 5:17, Col 3:3)
 
