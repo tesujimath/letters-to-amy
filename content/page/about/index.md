@@ -6,9 +6,10 @@ image: "river.jpg"
 license: Text by Simon Guest CC BY-NC-ND 4.0, Photo by Amy, Avatar by [John Jennings on Unsplash](https://unsplash.com/photos/I_kGNSAqD-8)
 lastmod: "2021-07-21"
 menu:
-    main: 
+    main:
         weight: -90
-        pre: user
+        params:
+            icon: user
 ---
 
 Amy is a young woman faithfully serving the Lord through a teaching ministry in a jungle village in Papua New Guinea.
