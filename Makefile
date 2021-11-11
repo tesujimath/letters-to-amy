@@ -1,7 +1,10 @@
-.PHONY: docs localhost sabaki
+.PHONY: docs clean localhost sabaki
 
 docs:
 	hugo -d docs --buildFuture
+
+clean:
+	rm -rf docs
 
 localhost:
 	hugo server --baseURL http://localhost:1313 --disableFastRender --buildFuture
