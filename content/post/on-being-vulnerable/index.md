@@ -5,6 +5,7 @@ date = "2021-06-02T06:48:00+12:00"
 description = "Why is this so important?"
 tags = [ "vulnerability", "reputation", "rescue" ]
 image = "vitaliy-zalishchyker-3Ank_q_qVtE-unsplash.jpg"
+image_anchor = "Center"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Vitaliy Zalishchyker on Unsplash](https://unsplash.com/photos/3Ank_q_qVtE)"
 +++
 
