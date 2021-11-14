@@ -32,7 +32,7 @@ Again, in his final exhortations to the Philippians:
 Rejoice in the Lord always. I will say it again: Rejoice! Let your gentleness be evident to all. The Lord is near.
 {{< /quote >}}
 
-The Lord is near, and what is the thing that really matters (besides rejoicing)? Our _gentleness_. It is no different than what we see in Jesus himself. See how prominent is gentleness in his characterization, both in prophecy, and by and of himself.
+The Lord is near, and what is the thing that really matters (besides rejoicing)? Our _gentleness_. We see this in Jesus himself. How prominently is his gentleness described, both in prophecy, and by and of himself.
 
 {{< quote source="Zechariah 9:9" >}}
 Rejoice greatly, O Daughter of Zion! Shout, Daughter of Jerusalem! See, your king comes to you, righteous and having salvation, gentle and riding on a donkey, on a colt, the foal of a donkey.
