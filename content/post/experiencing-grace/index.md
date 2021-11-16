@@ -12,7 +12,7 @@ Dear Amy,
 
 How can we better perceive the Lord's grace in all we experience, and what would that mean?
 
-Life is full of frustrations and disappointments. Even for the Christian seeking the Lord with all of our heart, living a surrendered life, putting him first in everything, things may not turn out as we would have wished. And that's not just small things. The whole course of one's life could turn out to be so different from what was desired. Where is our loving heavenly father in this? Does he not want to bless his children? Absolutely he does! So what is going on?
+Life is full of frustrations and disappointments. Even for the Christian seeking the Lord with all of our heart, living a surrendered life, putting him first in everything, things may not turn out as we would have wished. And that's not just small things. The whole course of one's life could turn out to be so different from what was desired. Where is our loving Heavenly Father in this? Does he not want to bless his children? Absolutely he does! So what is going on?
 
 Paul wrote to the Romans this oft-quoted verse:
 
