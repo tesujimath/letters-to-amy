@@ -18,7 +18,7 @@ In him we have redemption through his blood, the forgiveness of sins, in accorda
 
 In an alternate reality, the Lord could have dealt with our sin as he did, and simply told us, it's ok, we can be friends again, I've sorted it out. But in our reality, _with all wisdom and understanding, he made known to us the mystery of his will_. He desires us to know just what our rescue cost him, and what it cost his only son, as he lavished his grace on us. As he continues to lavish it.
 
-We have redemption _through his blood_. The cost was enormous. The love that paid this price, unfathomable. The forgiveness of sins and restoration of relationship with our heavenly father, beyond all worth. And the revelation of this mystery, according to his good pleasure.
+We have redemption _through his blood_. The cost was enormous. The love that paid this price, unfathomable. The forgiveness of sins and restoration of relationship with our Heavenly Father, beyond all worth. And the revelation of this mystery, according to his good pleasure.
 
 Do we understand what has been done for us, and why? The Lord desires that we do. If we really grasp this, won't it magnify our love for him a hundredfold?
 
