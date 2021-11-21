@@ -36,7 +36,7 @@ After a miraculous escape from being drowned at birth, Moses had a privileged up
 Now Moses was a very humble man, more humble than anyone else on the face of the earth.
 {{< /quote >}}
 
-During those forty years the Lord wrought some fundamental changes in Moses' heart. Where else did that humility come from? In that waiting time, Moses learnt to rely on the Lord rather than on his own strength and ability. He had been completely transformed by the waiting, had undergone incredible spiritual growth, and was finally ready to be used by the Lord.
+During those forty years the Lord wrought some fundamental changes in Moses' heart. Where else did that humility come from? In that waiting time, Moses had been completely transformed, and was finally ready to be used by the Lord.
 
 Waiting may feel like death, but in fact it can be a path to abundant life, to the mother lode of spiritual blessing and joy. It is a powerful agency of the Lord to change our heart and grow each one of us into someone who can be of some use in the Kingdom. If we can notice this happening in ourselves as it unfolds, that may help us to wait with patience, and to wait well.
 
