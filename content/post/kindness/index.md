@@ -28,7 +28,7 @@ Kindness is remarkably prominent don't you think? And the Lord delights in it! A
 When the kindness and love of God our Saviour appeared, he saved us
 {{< /quote >}}
 
-What better way is there to bless our adversaries and those who aggravate and exasperate than with kindness? There's real power in this, power to heal, and power to save. It is a work of the Holy Spirit that we can live like this, in giving rather than receiving.
+Consider those who hurt us, and don't even know they have.  What better way is there to bless than with kindness? There's real power in this, power to heal, and power to save. It is a work of the Holy Spirit that we can live like this, in giving rather than receiving.
 
 {{< quote source="Colossians 3:12" >}}
 As God’s chosen people, holy and dearly loved, clothe yourselves with ... kindness
