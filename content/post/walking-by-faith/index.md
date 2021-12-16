@@ -22,7 +22,11 @@ Yet Abraham did not waver through unbelief regarding the promise of God, but was
 
 He believed again, and walked by faith. What then happened? He was strengthened in his faith. Notice what happened here. He believed. He exercised faith. Just enough. Perhaps barely enough, but enough all the same. And the Lord strengthened him in that faith. And it was God who was thus glorified, not Abraham.
 
-But the most striking consequence is found just before this, in v18: Against all hope, Abraham in hope believed and so became the father of many nations.
+But the most striking consequence is found just before this.
+
+{{< quote source="Romans 4:18" >}}
+Against all hope, Abraham in hope believed and so became the father of many nations.
+{{< /quote >}}
 
 Notice that little word, so. What was the reason Abraham became the father of many nations? Because he believed.
 
