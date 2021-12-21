@@ -1,7 +1,7 @@
 +++
 author = "Simon Guest"
 title = "Integrity and uprightness"
-date = "2021-12-22T06:25:00+13:00"
+date = "2021-12-22T06:27:00+13:00"
 description = "That which protects"
 tags = [ "goodness", "fruit" ]
 image = "chris-brignola-X2CxUXFqKcM-unsplash.jpg"
