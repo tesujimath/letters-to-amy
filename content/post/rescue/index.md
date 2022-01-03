@@ -30,7 +30,7 @@ The Fourth of July this year should have been the last day of my life. I was in 
 
 A huge wave rolled in, picked me up, and carried me on the boiling white-water all the way to the inside, a hundred metres or so, to the calm water in the lagoon, with the only thought in my head being, “Why am I not capsizing? This is impossible!” And it was.
 
-I had been a silly boy, but there was no judgment from the Lord. All I received was this.
+I had been a silly boy, but there was no judgement from the Lord. All I received was this.
 
 > “Because he loves me,” says the LORD, “I will rescue him”
 

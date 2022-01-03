@@ -21,7 +21,7 @@ The Lord said to me, “My grace is sufficient for you, for my power is made per
 
 What does this look like?
 
-When I am judged, even when the judgment is as ignorant as it is harsh, I choose not to defend myself. How easy is it to do this? It is the hardest thing! It is dying to self. (But, my integrity is not defined by what others think of me.)
+When I am judged, even when the judgement is as ignorant as it is harsh, I choose not to defend myself. How easy is it to do this? It is the hardest thing! It is dying to self. (But, my integrity is not defined by what others think of me.)
 
 Reputation is the idol of our age, both within and without the church, maybe the greatest barrier to the gospel, to the transforming power of the Holy Spirit, and to us honouring the Lord with our whole lives. Here are the four most oppressive words, that empty us of the Lord's power and make us utterly useless for him: _what will they think?_
 
