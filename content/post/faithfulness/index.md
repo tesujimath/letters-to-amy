@@ -5,6 +5,7 @@ date = "2022-01-05T08:00:00+13:00"
 description = "And what fuels it"
 tags = [ "faith", "faithfulness" ]
 image = "sean-benesh-VnmbcgAfL3Q-unsplash.jpg"
+image_anchor = "Center"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Sean Benesh on Unsplash](https://unsplash.com/photos/VnmbcgAfL3Q)"
 +++
 
