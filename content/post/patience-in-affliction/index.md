@@ -20,7 +20,7 @@ the capacity to accept or tolerate delay, problems, or suffering without becomin
 
 There most certainly is! What of patience in affliction then?
 
-Job is an interesting book. Mostly we find mysteries are revealed at the end of a story, but with Job that is not so. There is no explanation when the Lord finally appears. We could summarise Job 38-42 like this: “I am the LORD Most High, Creator of heaven and earth. Who are you?”
+Job is an interesting book. Mostly we find mysteries are revealed at the end of a story, but with Job that is not so. There is no explanation when the Lord finally appears. We could summarise Job 38-42 like this: “I am the LORD Most High, Creator of Heaven and Earth. Who are you?”
 
 The explanation rather is where the story begins.
 

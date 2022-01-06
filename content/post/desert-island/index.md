@@ -22,7 +22,7 @@ How would you complete that prayer?
 
 In fact, none of these! Paul asks this of the Lord so that you “... may know him better.”
 
-That you may know the Lord better! This is what the Spirit of wisdom and revelation is for. That I may know him better. To know and be known, this is the ultimate in relationship. But how can we possibly know the infinite, everlasting, majestic God, Creator of the ends of the earth, of the universe? It's impossible to know such a one, surely, with our finite minds, with our sinful hearts. And yet, the Spirit of wisdom and revelation makes the impossible, possible.
+That you may know the Lord better! This is what the Spirit of wisdom and revelation is for. That I may know him better. To know and be known, this is the ultimate in relationship. But how can we possibly know the infinite, everlasting, majestic God, creator of the ends of the earth, of the universe? It's impossible to know such a one, surely, with our finite minds, with our sinful hearts. And yet, the Spirit of wisdom and revelation makes the impossible, possible.
 
 As we marvel at this, let us notice that this is not a small thing Paul asks for. He *keeps asking*, persisting in prayer for the stuff that really matters. Keep asking, Amy, for the stuff that matters.
 
