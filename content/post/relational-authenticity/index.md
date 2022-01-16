@@ -46,7 +46,7 @@ How this challenges ego!  But could we live like this? The prize is glorious!
 In him the whole building is joined together and rises to become a holy temple in the Lord. And in him you too are being built together to become a dwelling in which God lives by his Spirit.
 {{< /quote >}}
 
-As we develop relational authenticity, this is what we find: all of us, together, a holy temple in the Lord!
+As we develop relational authenticity, this is what we will find: all of us, together, a holy temple in the Lord!
 
 Let us not overlook that this is the fruit of the Spirit. We grow in this as the Lord does his work of transforming grace in our lives. In my life. In yours. Softening our hearts, enabling us to love, and making us more like Christ.
 
