@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "Running with perseverance"
 date = "2022-01-26T06:30:00+13:00"
 description = "Avoiding growing weary and losing heart"
-tags = [ "perseverance", "power", "reality" ]
+tags = [ "perseverance", "joy" ]
 image = "cameron-venti-I1EWTM5mFEM-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Cameron Venti on Unsplash](https://unsplash.com/photos/I1EWTM5mFEM)"
 +++
