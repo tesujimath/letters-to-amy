@@ -5,7 +5,7 @@ date = "2021-07-07T06:51:00+12:00"
 description = "Believe in the one he has sent"
 tags = [ "guidance", "love" ]
 image = "robert-nyman--ysyCHixMHU-unsplash.jpg"
-license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Robert Nyman on Unsplash](https://unsplash.com/photos/-ysyCHixMHU)"
+license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Robert Nyman, previously on Unsplash](https://unsplash.com/@robertnyman)"
 +++
 
 Dear Amy,
