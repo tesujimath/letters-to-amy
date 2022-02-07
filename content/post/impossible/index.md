@@ -40,9 +40,9 @@ The Bible itself teaches that we are to understand it in terms of our own experi
 We must pray for the faith and for the experiences that would enable us to believe that _such things could happen to us_. Only then will we be able to recognize, accept and dwell in them when they come.
 {{< /quote >}}
 
-How then can we receive it when God speaks the impossible? It is in fact a high honour, an invitation to demonstrate radical faith, and to grow in that faith. Perhaps God reserves such things for those for whom he has great plans, which will require great faith. (That's a little scary, isn't it?)
+How then can we receive it when God speaks the impossible? It is in fact a high honour, an invitation to demonstrate radical faith, and to grow in that faith. Perhaps God reserves such things for those for whom he has great plans, which will require great faith. (That's a little scary, isn't it?)  No-one starts with such faith, but the Lord in his wisdom knows what he is doing.  Again, consider Abraham.
 
-I hold on to this verse, which has kept me going for some years, and was itself given to me in a miraculous way.
+And so I hold on to this verse, which has kept me going for some years, and was itself given to me in a miraculous way.
 
 {{< quote source="Numbers 23:19" >}}
 God is not a man, that he should lie, nor a son of man, that he should change his mind. Does he speak and then not act? Does he promise and not fulfill?
