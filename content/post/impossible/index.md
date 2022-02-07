@@ -24,7 +24,7 @@ As if it had already happened! Joshua had to act on the basis that something imp
 
 Arguably Abraham had it even harder. He had to wait on an impossible promise, for twenty-five years! Waiting is perhaps harder than doing. And waiting for twenty-five years?!
 
-There are other examples in the Bible of God speaking the impossible. But here's the thing: _he is still doing it today!_
+There are other examples in the Bible of God speaking the impossible. But here's the thing: _he is still doing it today._
 
 {{< quote source="Malachi 3:6a" >}}
 “I the LORD do not change.”
