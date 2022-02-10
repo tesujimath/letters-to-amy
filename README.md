@@ -4,4 +4,4 @@ Feel free to share them with anyone for these reasons.
 
 Please pray for Amy, for her ministry, and for those for whom she is devoting this period of her life.  May the Lord she loves and serves bless her richly.
 
-These letters are published at [Letters to Amy](https://letterstoamy.tesujimath.org/).
+These letters are published at [Letters to Amy](https://letterstoamy.org/).
