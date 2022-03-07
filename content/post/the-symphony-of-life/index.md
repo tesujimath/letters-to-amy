@@ -28,7 +28,7 @@ Pray continually
 “You may ask me for anything in my name, and I will do it.”
 {{< /quote >}}
 
-Let's imagine then. The Lord who created music has himself written the greatest work of all, The Symphony of Life, in 8 billion parts. He is both the composer, and the conductor for its debut and only performance. It is a glorious, majestic work featuring players both unwilling and willing, with plunging depths and soaring heights, human folly and heavenly beneficence, sorrow and joy.  It is a love story, the greatest of them all, a story of rescue and redemption of a wayward people, pieced together from fragments of ruined lives made whole.
+Let's imagine then. The Lord who created music has himself written the greatest work of all, the Symphony of Life, in 8 billion parts. He is both the composer, and the conductor for its debut and only performance. It is a glorious, majestic work featuring players both unwilling and willing, with plunging depths and soaring heights, human folly and heavenly beneficence, sorrow and joy.  It is a love story, the greatest of them all, a story of rescue and redemption of a wayward people, pieced together from fragments of ruined lives made whole.
 
 As the billions of orchestral members play their parts with quite some improvising, the Lord hears the prayers of the saints, our prayers, and delights to weave them in to the score, making amendments and annotations with his divine pencil even as the music unfolds, taking our imperfect petitions and making them part of his perfect plans and purposes, as it pleases him. And with each, smiling down on his beloved ones with such affection, like a proud father. Smiling on us, who are contributing somehow to his glorious work.
 
