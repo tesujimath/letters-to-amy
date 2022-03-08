@@ -1,7 +1,7 @@
 +++
 author = "Simon Guest"
 title = "The Symphony of Life"
-date = "2022-03-09T06:25:00+13:00"
+date = "2022-03-09T06:31:00+13:00"
 description = "A magnificent opus in 8 billion parts"
 tags = [ "prayer", "sovereignty" ]
 image = "jack-finnigan-aEkk0KxvPpg-unsplash.jpg"
