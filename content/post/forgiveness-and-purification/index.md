@@ -5,6 +5,7 @@ date = "2021-03-24T06:44:00+13:00"
 description = "A well-loved verse"
 tags = [ "forgiveness" ]
 image = "nega-YdyhHbWZ1V0-unsplash.jpg"
+image_anchor = "Center"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [nega on Unsplash](https://unsplash.com/photos/YdyhHbWZ1V0)"
 +++
 
