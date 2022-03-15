@@ -2,19 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://letterstoamy.org/casting-off-shame/</loc>
+    <lastmod>2022-03-16T06:27:00+13:00</lastmod>
+  </url><url>
+    <loc>https://letterstoamy.org/tags/forgiveness/</loc>
+    <lastmod>2022-03-16T06:27:00+13:00</lastmod>
+  </url><url>
     <loc>https://letterstoamy.org/</loc>
-    <lastmod>2022-03-09T06:31:00+13:00</lastmod>
+    <lastmod>2022-03-16T06:27:00+13:00</lastmod>
   </url><url>
     <loc>https://letterstoamy.org/post/</loc>
-    <lastmod>2022-03-09T06:31:00+13:00</lastmod>
+    <lastmod>2022-03-16T06:27:00+13:00</lastmod>
+  </url><url>
+    <loc>https://letterstoamy.org/tags/shame/</loc>
+    <lastmod>2022-03-16T06:27:00+13:00</lastmod>
+  </url><url>
+    <loc>https://letterstoamy.org/tags/</loc>
+    <lastmod>2022-03-16T06:27:00+13:00</lastmod>
   </url><url>
     <loc>https://letterstoamy.org/tags/prayer/</loc>
     <lastmod>2022-03-09T06:31:00+13:00</lastmod>
   </url><url>
     <loc>https://letterstoamy.org/tags/sovereignty/</loc>
-    <lastmod>2022-03-09T06:31:00+13:00</lastmod>
-  </url><url>
-    <loc>https://letterstoamy.org/tags/</loc>
     <lastmod>2022-03-09T06:31:00+13:00</lastmod>
   </url><url>
     <loc>https://letterstoamy.org/the-symphony-of-life/</loc>
@@ -143,9 +152,6 @@
     <loc>https://letterstoamy.org/the-rescued-life/</loc>
     <lastmod>2021-11-10T06:28:00+13:00</lastmod>
   </url><url>
-    <loc>https://letterstoamy.org/tags/forgiveness/</loc>
-    <lastmod>2021-11-03T06:29:00+13:00</lastmod>
-  </url><url>
     <loc>https://letterstoamy.org/tags/hope/</loc>
     <lastmod>2021-11-03T06:29:00+13:00</lastmod>
   </url><url>
@@ -237,9 +243,6 @@
     <lastmod>2021-08-18T06:45:00+12:00</lastmod>
   </url><url>
     <loc>https://letterstoamy.org/tags/redemption/</loc>
-    <lastmod>2021-08-11T06:24:00+12:00</lastmod>
-  </url><url>
-    <loc>https://letterstoamy.org/tags/shame/</loc>
     <lastmod>2021-08-11T06:24:00+12:00</lastmod>
   </url><url>
     <loc>https://letterstoamy.org/the-thorn-in-pauls-flesh/</loc>
