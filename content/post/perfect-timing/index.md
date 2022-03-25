@@ -28,7 +28,7 @@ On his arrival, Jesus found that Lazarus had already been in the tomb for four d
 “Lord,” Martha said to Jesus, “if you had been here, my brother would not have died.”
 {{< /quote >}}
 
-Imagine for a moment you don't know what happens next—in our own lives that is certainly the case. If we are to learn anything here, we have to enter into the story, and right now it looks like callous disregard by Jesus for the ones who love and trust him.
+Imagine for a moment you don't know what happens next — in our own lives that is certainly the case. If we are to learn anything here, we have to enter into the story, and right now it looks like callous disregard by Jesus for the ones who love and trust him.
 
 But what it looks like and what it actually is are poles apart, here and so often in our own lives. What have we missed? Here's what.
 
