@@ -16,7 +16,7 @@ Have you ever come to realise something about the Lord which completely blew you
 We love because he first loved us.
 {{< /quote >}}
 
-Now let's consider just one aspect of the nature of that love.
+Now let's consider just one aspect of the nature of God's love.
 
 My life group is working its way through Jim Packer's book, _Knowing God_. Last week we came upon just such a realisation. I can't do better than to share the extract which had this effect on me.
 
