@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://letterstoamy.org/</loc>
+    <lastmod>2022-03-30T06:27:00+13:00</lastmod>
+  </url><url>
+    <loc>https://letterstoamy.org/tags/love/</loc>
+    <lastmod>2022-03-30T06:27:00+13:00</lastmod>
+  </url><url>
+    <loc>https://letterstoamy.org/post/</loc>
+    <lastmod>2022-03-30T06:27:00+13:00</lastmod>
+  </url><url>
+    <loc>https://letterstoamy.org/tags/</loc>
+    <lastmod>2022-03-30T06:27:00+13:00</lastmod>
+  </url><url>
+    <loc>https://letterstoamy.org/the-love-of-god/</loc>
+    <lastmod>2022-03-30T06:27:00+13:00</lastmod>
+  </url><url>
     <loc>https://letterstoamy.org/tags/dependence/</loc>
     <lastmod>2022-03-23T06:26:00+13:00</lastmod>
   </url><url>
-    <loc>https://letterstoamy.org/</loc>
-    <lastmod>2022-03-23T06:26:00+13:00</lastmod>
-  </url><url>
     <loc>https://letterstoamy.org/perfect-timing/</loc>
-    <lastmod>2022-03-23T06:26:00+13:00</lastmod>
-  </url><url>
-    <loc>https://letterstoamy.org/post/</loc>
-    <lastmod>2022-03-23T06:26:00+13:00</lastmod>
-  </url><url>
-    <loc>https://letterstoamy.org/tags/</loc>
     <lastmod>2022-03-23T06:26:00+13:00</lastmod>
   </url><url>
     <loc>https://letterstoamy.org/tags/trust/</loc>
@@ -90,9 +96,6 @@
     <lastmod>2022-01-26T06:30:00+13:00</lastmod>
   </url><url>
     <loc>https://letterstoamy.org/tags/fruit/</loc>
-    <lastmod>2022-01-19T06:30:00+13:00</lastmod>
-  </url><url>
-    <loc>https://letterstoamy.org/tags/love/</loc>
     <lastmod>2022-01-19T06:30:00+13:00</lastmod>
   </url><url>
     <loc>https://letterstoamy.org/relational-authenticity/</loc>
