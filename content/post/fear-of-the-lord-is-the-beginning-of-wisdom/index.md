@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "Fear of the Lord is the beginning of wisdom"
 date = "2021-03-10T06:43:00+13:00"
 description = "How can we know the will of the Lord?"
-tags = [ "fear of the Lord" ]
+tags = [ "fear of the Lord", "wisdom" ]
 image = "greg-rakozy-oMpAz-DN-9I-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Greg Rakozy on Unsplash](https://unsplash.com/photos/oMpAz-DN-9I)"
 +++
