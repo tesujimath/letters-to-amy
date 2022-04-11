@@ -4,7 +4,7 @@ title = "Sacrifice"
 date = "2022-04-13T06:25:00+12:00"
 description = "Emptied himself of all but love"
 tags = [ "atonement", "rescue" ]
-image = "Crucifixus.jpg"
+image = "Crucifixus-cropped.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, [Crucifixus (The Naked Son of Man) by Ramone Romero](http://art-for-jesus.blogspot.com/2008/04/crucifixus-naked-son-of-man.html)"
 +++
 
