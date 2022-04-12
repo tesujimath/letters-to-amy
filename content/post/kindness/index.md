@@ -25,7 +25,7 @@ How easy this is to overlook. Could I be overstating its importance though? I th
 Kindness is remarkably prominent don't you think? And the Lord delights in it! And what of this, which characterizes Jesus as the embodiment of kindness and love?
 
 {{< quote source="Titus 3:4-5" >}}
-When the kindness and love of God our Saviour appeared, he saved us
+When the kindness and love of God our Saviour appeared, he saved us ...
 {{< /quote >}}
 
 Consider those who hurt us, and don't even know they have.  What better way is there to bless than with kindness? There's real power in this, power to heal, and power to save. It is a work of the Holy Spirit that we can live like this, in giving rather than receiving.
