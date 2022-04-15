@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "Two victories"
 date = "2022-04-19T07:30:00+12:00"
 description = "The first that led to the second"
-tags = [ "humility", "resurrection", "victory" ]
+tags = [ "atonement", "worship", "hope" ]
 image = "jordan-wozniak-xP_AGmeEa6s-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Jordan Wozniak on Unsplash](https://unsplash.com/photos/xP_AGmeEa6s)"
 +++
