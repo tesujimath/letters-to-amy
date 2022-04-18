@@ -20,7 +20,7 @@ Paul tells a similar tale in his letter to the Ephesians.
 For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms.
 {{< /quote >}}
 
-What an important lesson there is here. How often live can seem so adversarial, with obstacles being put in our way by people who are frankly, just so annoying! Aargh!
+What an important lesson there is here. How often life can seem so adversarial, with obstacles being put in our way by people who are frankly, just so annoying! Aargh!
 
 If instead we can step back and regain perspective, discerning who is the real enemy and recognising that we are in the middle of a spiritual battle in the heavenly realms, the Holy Spirit will be able to equip us with everything we need to face this. That is the only way to prevail in the spiritual battle.
 
