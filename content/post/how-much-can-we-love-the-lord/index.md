@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "How much can we love the Lord?"
 date = "2021-04-28T06:45:00+12:00"
 description = "Holding nothing back"
-tags = [ "love", "worship" ]
+tags = [ "love", "worship", "desiring God" ]
 image = "aldebaran-s-uXchDIKs4qI-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Aldebaran S on Unsplash](https://unsplash.com/photos/uXchDIKs4qI)"
 +++

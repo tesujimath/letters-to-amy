@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "How can we love the Lord this much?"
 date = "2021-05-05T06:45:00+12:00"
 description = "Feed and water our love with praise"
-tags = [ "love" ]
+tags = [ "love", "desiring God" ]
 image = "nikola-jovanovic-OBok3F8buKY-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Nikola Jovanovic on Unsplash](https://unsplash.com/photos/OBok3F8buKY)"
 +++
