@@ -12,7 +12,7 @@ Dear Amy,
 
 What does perfect timing look like?
 
-Some think it looks like that scene at Helm's Deep, where Aragon, Legolas and Gimli with some of the Rohirrim defend against an overwhelming army of orcs. They are expecting Gandalf to show up with the Riders of Rohan, but for so long he doesn't come. After the longest time, when it looks like all may be lost, finally he arrives, riding Shadowfax and wielding his staff with great power against the evil hordes. Victory is won and the friends are reunited.
+Some think it looks like that scene at Helm's Deep, where Aragorn, Legolas and Gimli with some of the Rohirrim defend against an overwhelming army of orcs. They are expecting Gandalf to show up with the Riders of Rohan, but for so long he doesn't come. After the longest time, when it looks like all may be lost, finally he arrives, riding Shadowfax and wielding his staff with great power against the evil hordes. Victory is won and the friends are reunited.
 
 But what if that doesn't happen? Consider this.
 
