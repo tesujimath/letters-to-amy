@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "An axe-head floats"
 date = "2022-05-04T06:24:00+12:00"
 description = "Insight into the Father-heart of God"
-tags = [ "grace", "dependence" ]
+tags = [ "grace", "dependence", "compassion" ]
 image = "hendrik-cornelissen-x59BNivBcQ8-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Hendrik Cornelissen on Unsplash](https://unsplash.com/photos/x59BNivBcQ8)"
 +++
