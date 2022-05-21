@@ -1,80 +1,130 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>prayer on Letters to Amy</title>
-    <link>https://letterstoamy.org/tags/prayer/</link>
-    <description>Recent content in prayer on Letters to Amy</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <lastBuildDate>Wed, 09 Mar 2022 06:31:00 +1300</lastBuildDate><atom:link href="https://letterstoamy.org/tags/prayer/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Symphony of Life</title>
-      <link>https://letterstoamy.org/the-symphony-of-life/</link>
-      <pubDate>Wed, 09 Mar 2022 06:31:00 +1300</pubDate>
-      
-      <guid>https://letterstoamy.org/the-symphony-of-life/</guid>
-      <description>Dear Amy,
-What happens when we pray? Can we actually change the Lord&amp;rsquo;s mind? How could we possibly improve upon his already perfect plans and purposes? Why even ask for anything in prayer then?
-These are huge questions, and I can&amp;rsquo;t possibly answer them adequately. But here&amp;rsquo;s a reflection on this, somewhat of an excursion into make-believe, which nevertheless may help to shed some light.
-Firstly, note that we are encouraged, nay commanded to pray, and to pray boldly.</description>
-    </item>
-    
-    <item>
-      <title>Unanswered prayer</title>
-      <link>https://letterstoamy.org/unanswered-prayer/</link>
-      <pubDate>Wed, 13 Oct 2021 06:31:00 +1300</pubDate>
-      
-      <guid>https://letterstoamy.org/unanswered-prayer/</guid>
-      <description>Dear Amy,
-How can we relate to our Heavenly Father when he leaves our most earnest and desperate prayers unanswered?
- [Jesus said] “Ask and it will be given to you &amp;hellip; how much more will your Father in heaven give good gifts to those who ask him!”
-― Matthew 7:7, 11  “You may ask me for anything in my name, and I will do it.”
-― John 14:14 But unanswered prayer is a real thing.</description>
-    </item>
-    
-    <item>
-      <title>Throwing a mountain into the sea</title>
-      <link>https://letterstoamy.org/throwing-a-mountain-into-the-sea/</link>
-      <pubDate>Wed, 04 Aug 2021 06:36:00 +1200</pubDate>
-      
-      <guid>https://letterstoamy.org/throwing-a-mountain-into-the-sea/</guid>
-      <description>Dear Amy,
-How can we throw a mountain into the sea?
-What a ridiculous question! It&amp;rsquo;s clearly impossible. And yet, Jesus said,
- “Truly I tell you, if anyone says to this mountain, ‘Go, throw yourself into the sea,’ and does not doubt in their heart but believes that what they say will happen, it will be done for them.”
-― Mark 11:23 Why would Jesus say such a thing? Is he mocking us?</description>
-    </item>
-    
-    <item>
-      <title>Covid prayer</title>
-      <link>https://letterstoamy.org/covid-prayer/</link>
-      <pubDate>Wed, 31 Mar 2021 06:47:00 +1300</pubDate>
-      
-      <guid>https://letterstoamy.org/covid-prayer/</guid>
-      <description>Dear God, my God,
-You are the Lord of all creation, majestic, sovereign, good, and wise beyond our understanding. Praise your holy name! I lift up to you the situation in Amy&amp;rsquo;s village, with Covid having arrived, and along with it, fear. Forgive us when we doubt your goodness or your sovereignty. I pray the people there would hear Jesus speaking, &amp;ldquo;Peace I leave with you; my peace I give you.</description>
-    </item>
-    
-    <item>
-      <title>Filled with the knowledge of his will</title>
-      <link>https://letterstoamy.org/filled-with-the-knowledge-of-his-will/</link>
-      <pubDate>Thu, 25 Feb 2021 06:47:00 +1300</pubDate>
-      
-      <guid>https://letterstoamy.org/filled-with-the-knowledge-of-his-will/</guid>
-      <description>Dear Amy,
-I ask God to fill you with the knowledge of his will through all the wisdom and understanding that the Spirit gives, so that you may live a life worthy of the Lord and please him in every way: bearing fruit in every good work, growing in the knowledge of God, being strengthened with all power according to his glorious might so that you may have great endurance and patience as you begin your teaching ministry there, and so that you increasingly rely on the Lord, who provides all these things [adapted from Colossians 1:9-11].</description>
-    </item>
-    
-    <item>
-      <title>Peace and provision</title>
-      <link>https://letterstoamy.org/peace-and-provision/</link>
-      <pubDate>Thu, 11 Feb 2021 07:21:00 +1300</pubDate>
-      
-      <guid>https://letterstoamy.org/peace-and-provision/</guid>
-      <description>May you know peace from the Lord, and his provision for you, Amy, as you wait on him, and especially when things don&amp;rsquo;t turn out as you expected or hoped. Know that the Lord&amp;rsquo;s plans prevail, and:
- The LORD delights in those who fear him, who put their hope in his unfailing love.
-― Psalm 147:11 🙏</description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>prayer on Letters to Amy</title>
+        <link>https://letterstoamy.org/tags/prayer/</link>
+        <description>Recent content in prayer on Letters to Amy</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-gb</language>
+        <lastBuildDate>Wed, 09 Mar 2022 06:31:00 +1300</lastBuildDate><atom:link href="https://letterstoamy.org/tags/prayer/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>The Symphony of Life</title>
+        <link>https://letterstoamy.org/the-symphony-of-life/</link>
+        <pubDate>Wed, 09 Mar 2022 06:31:00 +1300</pubDate>
+        
+        <guid>https://letterstoamy.org/the-symphony-of-life/</guid>
+        <description>&lt;img src="https://letterstoamy.org/the-symphony-of-life/jack-finnigan-aEkk0KxvPpg-unsplash.jpg" alt="Featured image of post The Symphony of Life" /&gt;&lt;p&gt;Dear Amy,&lt;/p&gt;
+&lt;p&gt;What happens when we pray? Can we actually change the Lord&amp;rsquo;s mind? How could we possibly improve upon his already perfect plans and purposes? Why even ask for anything in prayer then?&lt;/p&gt;
+&lt;p&gt;These are huge questions, and I can&amp;rsquo;t possibly answer them adequately. But here&amp;rsquo;s a reflection on this, somewhat of an excursion into make-believe, which nevertheless may help to shed some light.&lt;/p&gt;
+&lt;p&gt;Firstly, note that we are encouraged, nay commanded to pray, and to pray boldly.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Pray continually&lt;/p&gt;&lt;span class=&#34;cite&#34;&gt;&lt;span&gt;― &lt;/span&gt;&lt;cite&gt;1 Thessalonians 5:17&lt;/cite&gt;&lt;/span&gt;&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“If you believe, you will receive whatever you ask for in prayer.”&lt;/p&gt;&lt;span class=&#34;cite&#34;&gt;&lt;span&gt;― &lt;/span&gt;&lt;cite&gt;Matthew 21:22&lt;/cite&gt;&lt;/span&gt;&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“You may ask me for anything in my name, and I will do it.”&lt;/p&gt;&lt;span class=&#34;cite&#34;&gt;&lt;span&gt;― &lt;/span&gt;&lt;cite&gt;John 14:14&lt;/cite&gt;&lt;/span&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Let&amp;rsquo;s imagine then. The Lord who created music has himself written the greatest work of all, the Symphony of Life, in 8 billion parts. He is both the composer, and the conductor for its debut and only performance. It is a glorious, majestic work featuring players both unwilling and willing, with plunging depths and soaring heights, human folly and heavenly beneficence, sorrow and joy.  It is a love story, the greatest of them all, a story of rescue and redemption of a wayward people, pieced together from fragments of ruined lives made whole.&lt;/p&gt;
+&lt;p&gt;As the billions of orchestral members play their parts with quite some improvising, the Lord hears the prayers of the saints, our prayers, and delights to weave them in to the score, making amendments and annotations with his divine pencil even as the music unfolds, taking our imperfect petitions and making them part of his perfect plans and purposes, as it pleases him. And with each, smiling down on his beloved ones with such affection, like a proud father. Smiling on us, who are contributing somehow to his glorious work.&lt;/p&gt;
+&lt;p&gt;Marvel at the mystery of his ways, Amy, praising the Lord for his majesty, grace and kindness, and continue praying Kingdom prayers! 🙏❤️&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Unanswered prayer</title>
+        <link>https://letterstoamy.org/unanswered-prayer/</link>
+        <pubDate>Wed, 13 Oct 2021 06:31:00 +1300</pubDate>
+        
+        <guid>https://letterstoamy.org/unanswered-prayer/</guid>
+        <description>&lt;img src="https://letterstoamy.org/unanswered-prayer/sasha-freemind-nXo2ZsKHTHg-unsplash.jpg" alt="Featured image of post Unanswered prayer" /&gt;&lt;p&gt;Dear Amy,&lt;/p&gt;
+&lt;p&gt;How can we relate to our Heavenly Father when he leaves our most earnest and desperate prayers unanswered?&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;[Jesus said] “Ask and it will be given to you &amp;hellip; how much more will your Father in heaven give good gifts to those who ask him!”&lt;/p&gt;&lt;span class=&#34;cite&#34;&gt;&lt;span&gt;― &lt;/span&gt;&lt;cite&gt;Matthew 7:7, 11&lt;/cite&gt;&lt;/span&gt;&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“You may ask me for anything in my name, and I will do it.”&lt;/p&gt;&lt;span class=&#34;cite&#34;&gt;&lt;span&gt;― &lt;/span&gt;&lt;cite&gt;John 14:14&lt;/cite&gt;&lt;/span&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;But unanswered prayer is a real thing. How can we deal with it? Many have grappled with this, and much has been written. Some have said, the Lord always answers prayer: sometimes yes; sometimes no; sometimes not yet. I find this glib and unhelpful. Because sometimes there is silence.&lt;/p&gt;
+&lt;p&gt;Imagine a husband and father, let&amp;rsquo;s call him Mark, a faithful servant of the Lord, suffering with severe health issues for so many years, for whom we have been faithfully, earnestly praying, confident that the Lord hears and is powerful to heal. Except he doesn&amp;rsquo;t, and this man dies, leaving his grieving wife, Grace, and their eight-year-old son, Callum. And from the Lord, only silence. What kind of answer to prayer is that? How is that a reasonable response to desperate prayers offered from a broken heart?&lt;/p&gt;
+&lt;p&gt;There is another way to see this. Unanswered prayer is an &lt;em&gt;invitation into relationship&lt;/em&gt;. An invitation into intimacy. How does this work? Let&amp;rsquo;s imagine a conversation.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;You:&lt;/strong&gt; “Why did Mark have to die? Don&amp;rsquo;t you care?”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;God:&lt;/strong&gt; &lt;em&gt;silence&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;You:&lt;/strong&gt; “Couldn&amp;rsquo;t you have done something?”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;God:&lt;/strong&gt; &lt;em&gt;silence&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;You:&lt;/strong&gt; “He loved you, didn&amp;rsquo;t he? Did you love him? You did love him, didn&amp;rsquo;t you?”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;God:&lt;/strong&gt; &lt;em&gt;silence, then,&lt;/em&gt; “Yes, Amy, I loved him. I love him still.”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;You:&lt;/strong&gt; “What about Grace and little Callum? This is breaking my heart.”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;God:&lt;/strong&gt; &lt;em&gt;long pause, then,&lt;/em&gt; “Mine too, Amy. Let&amp;rsquo;s sit together for a while.”&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;intimate, healing silence&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Our Heavenly Father grieves over his broken world, and the suffering his people bear. Let&amp;rsquo;s sit with him, and grieve also, in the intimacy of his healing presence. And in the meantime,&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;I consider that our present sufferings are not worth comparing with the glory that will be revealed in us. For the creation waits in eager expectation for the children of God to be revealed. For the creation was subjected to frustration, not by its own choice, but by the will of the one who subjected it, in hope that the creation itself will be liberated from its bondage to decay and brought into the freedom and glory of the children of God.&lt;/p&gt;&lt;span class=&#34;cite&#34;&gt;&lt;span&gt;― &lt;/span&gt;&lt;cite&gt;Romans 8:18-21&lt;/cite&gt;&lt;/span&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Sit with the Lord in the silence of the unanswered prayer, Amy, in the intimacy of his healing presence 🙏&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Throwing a mountain into the sea</title>
+        <link>https://letterstoamy.org/throwing-a-mountain-into-the-sea/</link>
+        <pubDate>Wed, 04 Aug 2021 06:36:00 +1200</pubDate>
+        
+        <guid>https://letterstoamy.org/throwing-a-mountain-into-the-sea/</guid>
+        <description>&lt;img src="https://letterstoamy.org/throwing-a-mountain-into-the-sea/sulthan-auliya-WLORfDtl7oM-unsplash.jpg" alt="Featured image of post Throwing a mountain into the sea" /&gt;&lt;p&gt;Dear Amy,&lt;/p&gt;
+&lt;p&gt;How can we throw a mountain into the sea?&lt;/p&gt;
+&lt;p&gt;What a ridiculous question! It&amp;rsquo;s clearly impossible. And yet, Jesus said,&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“Truly I tell you, if anyone says to this mountain, ‘Go, throw yourself into the sea,’ and does not doubt in their heart but believes that what they say will happen, it will be done for them.”&lt;/p&gt;&lt;span class=&#34;cite&#34;&gt;&lt;span&gt;― &lt;/span&gt;&lt;cite&gt;Mark 11:23&lt;/cite&gt;&lt;/span&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Why would Jesus say such a thing? Is he mocking us? Is he exaggerating? Is he lying, even?&lt;/p&gt;
+&lt;p&gt;When someone tells us something that is hard to accept, how we receive it depends critically on who they are, and what we know of them. Can we trust? And what reason do we have for that?&lt;/p&gt;
+&lt;p&gt;After so many years, I have learnt that I can trust Jesus absolutely. I&amp;rsquo;m quite a slow learner, and have doubted in various ways for so much of my life, but no longer. I choose therefore to believe that Jesus was telling the truth when he said this impossible thing. What do I make of it then? I have to relate it to other things I know.&lt;/p&gt;
+&lt;p&gt;Jesus said a similar thing to his disciples at the Last Supper.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“You may ask me for anything in my name, and I will do it.”&lt;/p&gt;&lt;span class=&#34;cite&#34;&gt;&lt;span&gt;― &lt;/span&gt;&lt;cite&gt;John 14:14&lt;/cite&gt;&lt;/span&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;But here we have the caveat, “in my name”. I can only ask for something in Jesus&amp;rsquo; name if he would have asked for the same. That&amp;rsquo;s a wonderful guideline for praying in power, and it defines my own expectation in prayer.&lt;/p&gt;
+&lt;p&gt;So, I choose to believe Jesus. I can&amp;rsquo;t throw a mountain into the sea, only because I cannot escape my own doubt about that. I acknowledge that as the reason. If I didn&amp;rsquo;t doubt, it would be so. That is on me. Jesus is trustworthy and true, and he speaks truth. And there are so many other things I &lt;em&gt;can&lt;/em&gt; pray for, believing, not doubting. Impossible things, even. Praise him!&lt;/p&gt;
+&lt;p&gt;Pray in power, Amy, believing and not doubting! 🙏&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Covid prayer</title>
+        <link>https://letterstoamy.org/covid-prayer/</link>
+        <pubDate>Wed, 31 Mar 2021 06:47:00 +1300</pubDate>
+        
+        <guid>https://letterstoamy.org/covid-prayer/</guid>
+        <description>&lt;img src="https://letterstoamy.org/covid-prayer/yannis-h-zpSXcUpmhNc-unsplash.jpg" alt="Featured image of post Covid prayer" /&gt;&lt;p&gt;Dear God, my God,&lt;/p&gt;
+&lt;p&gt;You are the Lord of all creation, majestic, sovereign, good, and wise beyond our understanding. Praise your holy name! I lift up to you the situation in Amy&amp;rsquo;s village, with Covid having arrived, and along with it, fear. Forgive us when we doubt your goodness or your sovereignty. I pray the people there would hear Jesus speaking, &amp;ldquo;Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid.&amp;rdquo; (John 14:27). Please keep Amy safe and well, and may she be a beacon of hope for those who may be losing theirs, pointing to Jesus and trusting him.
+🙏&lt;/p&gt;
+&lt;p&gt;Cc: Amy, with love&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Filled with the knowledge of his will</title>
+        <link>https://letterstoamy.org/filled-with-the-knowledge-of-his-will/</link>
+        <pubDate>Thu, 25 Feb 2021 06:47:00 +1300</pubDate>
+        
+        <guid>https://letterstoamy.org/filled-with-the-knowledge-of-his-will/</guid>
+        <description>&lt;img src="https://letterstoamy.org/filled-with-the-knowledge-of-his-will/jonny-james-TE0leJlNX8Y-unsplash.jpg" alt="Featured image of post Filled with the knowledge of his will" /&gt;&lt;p&gt;Dear Amy,&lt;/p&gt;
+&lt;p&gt;I ask God to fill you with the knowledge of his will through all the wisdom and understanding that the Spirit gives, so that you may live a life worthy of the Lord and please him in every way: bearing fruit in every good work, growing in the knowledge of God, being strengthened with all power according to his glorious might so that you may have great endurance and patience as you begin your teaching ministry there, and so that you increasingly rely on the Lord, who provides all these things [adapted from Colossians 1:9-11].
+🙏&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Peace and provision</title>
+        <link>https://letterstoamy.org/peace-and-provision/</link>
+        <pubDate>Thu, 11 Feb 2021 07:21:00 +1300</pubDate>
+        
+        <guid>https://letterstoamy.org/peace-and-provision/</guid>
+        <description>&lt;img src="https://letterstoamy.org/peace-and-provision/raimond-klavins-DDwOFA_9LiY-unsplash.jpg" alt="Featured image of post Peace and provision" /&gt;&lt;p&gt;May you know peace from the Lord, and his provision for you, Amy, as you wait on him, and especially when things don&amp;rsquo;t turn out as you expected or hoped. Know that the Lord&amp;rsquo;s plans prevail, and:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;The LORD delights in those who fear him, who put their hope in his unfailing love.&lt;/p&gt;&lt;span class=&#34;cite&#34;&gt;&lt;span&gt;― &lt;/span&gt;&lt;cite&gt;Psalm 147:11&lt;/cite&gt;&lt;/span&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;🙏&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>
