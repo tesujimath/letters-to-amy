@@ -1,7 +1,7 @@
 +++
 author = "Simon Guest"
 title = "The tar pit"
-date = "2022-06-01T06:24:00+12:00"
+date = "2022-06-15T07:05:00+12:00"
 description = "Confronting the fact that I am a Pharisee"
 tags = [ "Pharisaical heart", "humility" ]
 image = "krystian-piatek-JUqXOPOYXEg-unsplash.jpg"
