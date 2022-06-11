@@ -11,3 +11,6 @@ localhost:
 
 sabaki:
 	hugo server --baseURL http://sabaki:1313 --bind 192.168.178.137 --disableFastRender --buildFuture
+
+aji:
+	hugo server --baseURL http://aji:1313 --bind 192.168.178.252 --disableFastRender --buildFuture
