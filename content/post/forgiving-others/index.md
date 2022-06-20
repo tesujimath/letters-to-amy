@@ -1,7 +1,7 @@
 +++
 author = "Simon Guest"
 title = "Forgiving others"
-date = "2022-06-22T06:24:00+12:00"
+date = "2022-06-22T08:00:00+12:00"
 description = "An ongoing journey, empowered by joy"
 tags = [ "forgiveness", "power", "joy" ]
 image = "madhu-shesharam-KQZZCVyEWVk-unsplash.jpg"
