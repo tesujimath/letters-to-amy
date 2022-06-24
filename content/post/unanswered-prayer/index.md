@@ -13,7 +13,9 @@ Dear Amy,
 How can we relate to our Heavenly Father when he leaves our most earnest and desperate prayers unanswered?
 
 {{< quote source="Matthew 7:7, 11" >}}
-[Jesus said] “Ask and it will be given to you ... how much more will your Father in heaven give good gifts to those who ask him!”
+[Jesus said] “Ask and it will be given to you;
+
+... how much more will your Father in heaven give good gifts to those who ask him!”
 {{< /quote >}}
 
 {{< quote source="John 14:14" >}}
