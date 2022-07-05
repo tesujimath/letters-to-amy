@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "Plain old fear"
 date = "2021-04-07T06:45:00+12:00"
 description = "How does fear begin?"
-tags = [ "fear", "lies" ]
+tags = [ "fear", "truth" ]
 image = "simon-berger-rydQVdwcgUQ-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Simon Berger on Unsplash](https://unsplash.com/photos/rydQVdwcgUQ)"
 +++
