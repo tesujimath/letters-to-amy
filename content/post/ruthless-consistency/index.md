@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "Ruthless consistency"
 date = "2022-05-25T06:23:00+12:00"
 description = "Transformed by the renewing of your mind"
-tags = [ "integrity", "transformation" ]
+tags = [ "integrity", "consistency", "transformation" ]
 image = "nick-fewings-4x9cfxaiBYQ-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Nick Fewings on Unsplash](https://unsplash.com/photos/4x9cfxaiBYQ)"
 +++
