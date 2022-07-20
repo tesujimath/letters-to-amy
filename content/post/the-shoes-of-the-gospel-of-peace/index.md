@@ -2,7 +2,7 @@
 author = "Simon Guest"
 title = "The shoes of the gospel of peace"
 date = "2022-07-20T06:25:00+12:00"
-description = "Ready for anything"
+description = "Compassion and readiness"
 tags = [ "spiritual warfare", "peace" ]
 image = "ben-weber-8W-p8SS6NJE-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Ben Weber on Unsplash](https://unsplash.com/photos/8W-p8SS6NJE)"
