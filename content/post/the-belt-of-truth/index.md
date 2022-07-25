@@ -5,7 +5,7 @@ date = "2022-07-06T06:24:00+12:00"
 description = "Why a belt?"
 tags = [ "truth", "spiritual warfare" ]
 image = "Roman_cingulum_1.jpg"
-license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Matthias Kabel on Wikimedia Commons](https://commons.m.wikimedia.org/wiki/File:Roman_cingulum_1.jpg)"
+license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Matthias Kabel on Wikimedia Commons CC BY-SA 3.0](https://commons.m.wikimedia.org/wiki/File:Roman_cingulum_1.jpg)"
 +++
 
 Dear Amy,

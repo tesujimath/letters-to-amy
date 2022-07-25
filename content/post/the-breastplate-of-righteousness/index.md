@@ -5,7 +5,7 @@ date = "2022-07-13T07:25:00+12:00"
 description = "Faith or works?"
 tags = [ "righteousness", "faith" ]
 image = "Lorica_segmentata.jpeg"
-license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Matthias Kabel on Wikimedia Commons](https://commons.m.wikimedia.org/wiki/File:Lorica_segmentata.JPG)"
+license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Matthias Kabel on Wikimedia Commons CC BY-SA 3.0](https://commons.m.wikimedia.org/wiki/File:Lorica_segmentata.JPG)"
 +++
 
 Dear Amy,
