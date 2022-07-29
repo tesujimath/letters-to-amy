@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "Predestination"
 date = "2021-09-15T06:45:00+12:00"
 description = "Whose choice is it anyway?"
-tags = [ "freedom", "sovereignty" ]
+tags = [ "freedom", "sovereignty", "salvation" ]
 image = "saiph-muhammad-CSs8aiN_LkI-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Saiph Muhammad on Unsplash](https://unsplash.com/photos/CSs8aiN_LkI)"
 +++
