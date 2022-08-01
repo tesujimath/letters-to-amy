@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "Hard teaching"
 date = "2021-07-28T06:39:00+12:00"
 description = "How should we approach difficult Bible verses?"
-tags = [ "integrity", "trust" ]
+tags = [ "integrity", "trust", "Bible" ]
 image = "maranda-vandergriff-9mqdPNk2Xwc-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Maranda Vandergriff on Unsplash](https://unsplash.com/photos/9mqdPNk2Xwc)"
 +++
