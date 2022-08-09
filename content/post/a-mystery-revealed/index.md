@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "A mystery revealed"
 date = "2021-09-29T06:38:00+13:00"
 description = "Fuel for grateful hearts"
-tags = [ "mystery", "revelation", "grace" ]
+tags = [ "mystery", "revelation", "grace", "Bible" ]
 image = "david-clode-EDfZ0Sjmp_w-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [David Clode on Unsplash](https://unsplash.com/photos/EDfZ0Sjmp_w)"
 +++
