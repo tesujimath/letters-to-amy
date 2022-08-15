@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "The master craftsman"
 date = "2022-04-06T06:25:00+12:00"
 description = "Trusting the one who knows his work"
-tags = [ "wisdom", "power", "surrender" ]
+tags = [ "wisdom", "power", "Holy Spirit" ]
 image = "jonny-gios-KGL7Rw_-YPY-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Jonny Gios on Unsplash](https://unsplash.com/photos/KGL7Rw_-YPY)"
 +++

@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "A deposit guaranteeing our inheritance"
 date = "2021-10-06T06:30:00+13:00"
 description = "And assurance that we have not been dreaming"
-tags = [ "promise", "reality", "future" ]
+tags = [ "promise", "Holy Spirit" ]
 image = "ishan-seefromthesky-2d7n2sfYjHY-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Ishan @seefromthesky on Unsplash](https://unsplash.com/photos/2d7n2sfYjHY)"
 +++
