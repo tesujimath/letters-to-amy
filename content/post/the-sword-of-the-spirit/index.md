@@ -5,7 +5,8 @@ date = "2022-08-10T06:25:00+12:00"
 description = "Handling the word of God with integrity"
 tags = [ "Bible", "spiritual warfare" ]
 image = "totte-annerbrink-7PRi1chCnrs-unsplash.jpg"
-image_position = "50% 20%"
+image_position_article = "50% 80%"
+image_position_list = "50% 20%"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Totte Annerbrink on Unsplash](https://unsplash.com/photos/7PRi1chCnrs)"
 +++
 
