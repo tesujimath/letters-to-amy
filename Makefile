@@ -15,5 +15,8 @@ sabaki:
 aya:
 	hugo server --baseURL http://aya:1313 --bind 192.168.178.112 --disableFastRender --buildFuture
 
+93:
+	hugo server --baseURL http://aya:1313 --bind 192.168.1.93 --disableFastRender --buildFuture
+
 aji:
 	hugo server --baseURL http://aji:1313 --bind 192.168.178.252 --disableFastRender --buildFuture
