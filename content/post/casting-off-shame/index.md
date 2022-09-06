@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "Casting off shame"
 date = "2022-03-16T06:27:00+13:00"
 description = "And holding our head high"
-tags = [ "shame", "forgiveness" ]
+tags = [ "shame", "forgiveness", "holiness" ]
 image = "allef-vinicius-oe_03B2Q5A4-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Allef Vinicius on Unsplash](https://unsplash.com/photos/oe_03B2Q5A4)"
 +++
