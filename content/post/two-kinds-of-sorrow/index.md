@@ -27,9 +27,9 @@ Was Paul somehow pleased with himself because he stuck it to those wretched Cori
 Yet now I am happy, not because you were made sorry, but because your sorrow led you to repentance. For you became sorrowful as God intended and so were not harmed in any way by us.
 {{< /quote >}}
 
-Their sorrow was as God intended and led to repentance. It is Godly sorrow, and the Lord uses it to expose sin in our lives to bring repentance and healing.
+Their sorrow was as God intended and led to repentance. This is Godly sorrow, and the Lord uses it to expose sin in our lives to bring repentance and healing.
 
-When I weep over the shame and failure in my life and cry out to the Lord, this is Godly sorrow, a gift of love from my Heavenly Father, received through the conviction that comes by the Holy Spirit. It drives me into the arms of my loving Heavenly Father, from shame to repentance and forgiveness and healing, and is, through the healing, eventually and ultimately, a cause for rejoicing in my wonderful Saviour.
+When I weep over the shame and failure in my life and cry out to the Lord, this also is Godly sorrow, a gift of love from my Heavenly Father, received through the conviction that comes by the Holy Spirit. It drives me into the arms of my loving Heavenly Father, from shame to repentance and forgiveness and healing, and is, through the healing, eventually and ultimately, a cause for rejoicing in my wonderful Saviour.
 
 But we must beware. There is another sorrow which leads to death.
 
