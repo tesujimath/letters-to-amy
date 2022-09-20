@@ -28,15 +28,15 @@ What a rescue! What a Saviour! Praise him!
 
 So, with grateful, praising hearts, in fear and trembling, let us dare to ask again, how is it that God's blessing is quite so unevenly distributed?
 
-Paul grappled with such a question in relation to the election of the gentiles and God's apparent rejection of the nation of Israel (Romans 9-11). That he takes three chapters over this shows us that such questions are no small matter indeed.
+Paul grappled with such a question in relation to the election of the gentiles and God's apparent rejection of the nation of Israel (Romans 9-11). That he takes three chapters over this shows us that such questions are no small matter.
 
-Let's take some of his arguments and apply them to the more general matter of uneven blessing.
+Let's take some of his arguments and apply them to the more general question of uneven blessing.
 
 {{< quote source="Romans 9:14-15" >}}
 What shall we say then? Is there injustice on God's part? By no means! For he says to Moses, “I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion.”
 {{< /quote >}}
 
-It is all mercy, and it is all undeserved. And let us not forget that the giver is the Creator God of the Universe!
+It is all mercy, and it is all undeserved. And let us not forget that the giver is the Creator God of the Universe.
 
 {{< quote source="Romans 9:21-23" >}}
 Has the potter no right over the clay, to make out of the same lump one vessel for honourable use and another for dishonourable use? What if God, desiring to show his wrath and to make known his power, has endured with much patience vessels of wrath prepared for destruction, in order to make known the riches of his glory for vessels of mercy, which he has prepared beforehand for glory.
@@ -74,4 +74,4 @@ Oh, the depth of the riches and wisdom and knowledge of God! How unsearchable ar
 For from him and through him and to him are all things. To him be glory forever. Amen.
 {{< /quote >}}
 
-Surrender, Amy, and cry out to the one who is wise far beyond our understanding, who loves us more than we can fathom, who lavishes us with mercy and grace, and praise him! 🙏
+Cry out, Amy, to the one who is wise beyond understanding, and love with his own love in places of meagre blessing, from him and through him and to him, for his glory forever! 🙏
