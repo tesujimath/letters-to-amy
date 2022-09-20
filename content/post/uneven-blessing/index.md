@@ -74,4 +74,4 @@ Oh, the depth of the riches and wisdom and knowledge of God! How unsearchable ar
 For from him and through him and to him are all things. To him be glory forever. Amen.
 {{< /quote >}}
 
-Cry out, Amy, to the one who is wise beyond understanding, and love with his own love in places of meagre blessing, from him and through him and to him, for his glory forever! 🙏
+Cry out, Amy, to the one who is wise beyond understanding, and in places of meagre blessing love with his own love, from him and through him and to him, for his glory forever! 🙏
