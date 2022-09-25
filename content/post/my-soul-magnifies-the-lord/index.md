@@ -33,7 +33,7 @@ And Mary said, “Behold, I am the servant of the Lord; let it be to me accordin
 
 No wonder the angel had said to her, “Do not be afraid, Mary, for you have found favour with God.“ (Luke 1:30).
 
-The Greek word translated magnify is _megalunō_, and is the same word translated shown in the following:
+The Greek word translated _magnify_ is _megalunō_, and is the same word translated _shown_ in the following:
 
 {{< quote source="Luke 1:57-58" >}}
 Now the time came for Elizabeth to give birth, and she bore a son. And her neighbours and relatives heard that the Lord had shown great mercy to her, and they rejoiced with her.
