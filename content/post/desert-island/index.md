@@ -14,7 +14,9 @@ If you could take only one chapter of the Bible with you to a desert island, whi
 
 Without a doubt, my pick would be Ephesians Chapter One. I cannot possibly do the whole chapter justice in this short letter, so for now let's consider just one verse. (I may have to return to the wider chapter another time. Perhaps several times!)
 
-“I keep asking that the God of our Lord Jesus Christ, the glorious Father, may give you the Spirit of wisdom and revelation, so that you ... ” (v17)
+{{< quote source="Ephesians 1:17" >}}
+I keep asking that the God of our Lord Jesus Christ, the glorious Father, may give you the Spirit of wisdom and revelation, so that you ...
+{{< /quote >}}
 
 How would you complete that prayer?
 
