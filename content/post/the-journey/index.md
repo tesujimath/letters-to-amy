@@ -42,9 +42,9 @@ She will be who he adores, this is what he made her for.
 
 But what is this preparation of which John speaks?
 
-The preparation is this life. It is the journey. The destination that I must therefore focus on is that of _the state of my heart_. I desire to arrive well, welcomed into heaven with smiles and joy, not as one escaping through the flames (1 Corinthians 3:15). In advance of that, there is heart-work to be done, so that on that day I will not be ashamed at the smallness of my own heart and its miserly love for my Saviour.
+The preparation is this life. It is the journey. The destination that I must therefore focus on is that of _the state of my heart_. I desire to arrive well, welcomed into heaven with smiles and joy, not as one escaping through the flames (1 Corinthians 3:15). In advance of that, there is heart-work to be done, so that on that day I will not be ashamed at the smallness of my own heart and its miserly love for my Saviour and for my fellow travellers.
 
-And so this realisation informs every choice I make on the journey. The Holy Spirit continues to do his work of sanctifying grace in my life and I surrender to it joyfully and my heart is transformed. Slowly. Surely. Through each painful moment, I continue to die to self and live for him, all the while longing for that day, and all the while growing in love for my wonderful Saviour.
+And so this realisation informs every choice I make on the journey. The Holy Spirit continues to do his work of sanctifying grace in my life and I surrender to it joyfully and my heart is transformed. Slowly. Surely. Through each painful moment, I continue to die to self and live for him, all the while longing for that day, and all the while growing in love for my wonderful Saviour and his beloved church.
 
 {{< quote source="Matthew 5:8" >}}
 Blessed are the pure in heart, for they shall see God.
