@@ -4,8 +4,8 @@ title = "A melody made with the heart"
 date = "2022-10-05T06:24:00+13:00"
 description = "To the name of the one who is steadfast love and faithfulness"
 tags = [ "worship", "love" ]
-image = "nadin-mario-al2FHdZKxpU-unsplash.jpg"
-license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Nadin Mario on Unsplash](https://unsplash.com/photos/al2FHdZKxpU)"
+image = "nadin-mario-pO4ZI2krY_k-unsplash.jpg"
+license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Nadin Mario on Unsplash](https://unsplash.com/photos/pO4ZI2krY_k)"
 +++
 
 Dear Amy,
