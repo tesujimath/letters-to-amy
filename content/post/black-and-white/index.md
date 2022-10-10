@@ -54,6 +54,6 @@ Does this mean that under grace everything is in fact somewhat grey? By no means
 
 Everything rather is lit by a dazzling technicolour explosion of grace and redemption from the Lord, and that particular mercy which triumphs over judgment. This enables some women to pursue a preaching ministry for his glory, some divorced men to remarry by his grace, and others to live their lives in dependence on the riches of his mercy. Praise the Lord!
 
-Know that this in no way removes or diminishes our call to live as slaves to righteousness, fully surrendered and walking in obedience with the Lord. (I will undoubtedly have to revisit this aspect of not under law but under grace.)
+Know that this in no way removes or diminishes our call to live as slaves to righteousness, fully surrendered and walking in obedience with the Lord. (I will undoubtedly have to revisit this aspect of “not under law but under grace”.)
 
 Live your life for his glory, Amy, as one not under law but under grace, and praise the Lord! 🙏🙌
