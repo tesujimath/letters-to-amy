@@ -5,7 +5,7 @@ date = "2022-11-16T06:25:00+13:00"
 description = "When Elijah lost his faith"
 tags = [ "faith", "reality" ]
 image = "matrix-digital-rain.png"
-license = "Text by Simon Guest CC BY-NC-ND 4.0, Matrix digital rain by [Rezmason](https://github.com/Rezmason/matrix)"
+license = "Text by Simon Guest CC BY-NC-ND 4.0, [Matrix digital rain by Rezmason](https://github.com/Rezmason/matrix)"
 +++
 
 Dear Amy,
