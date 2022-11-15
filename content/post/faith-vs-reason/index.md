@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "Faith vs reason"
 date = "2022-05-18T06:23:00+12:00"
 description = "Is radical faith compatible with intellect?"
-tags = [ "faith", "consistency", "promise", "fear of the Lord" ]
+tags = [ "faith", "consistency", "promise", "fear of the Lord", "reality" ]
 image = "dan-cristian-padure-h3kuhYUCE9A-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Dan-Cristian Pădureț on Unsplash](https://unsplash.com/photos/h3kuhYUCE9A)"
 +++
