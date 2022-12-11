@@ -2,16 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://letterstoamy.org/</loc>
-    <lastmod>2022-12-07T06:24:00+13:00</lastmod>
+    <loc>https://letterstoamy.org/into-the-fire/</loc>
+    <lastmod>2022-12-14T06:25:00+13:00</lastmod>
   </url><url>
-    <loc>https://letterstoamy.org/tags/love/</loc>
-    <lastmod>2022-12-07T06:24:00+13:00</lastmod>
+    <loc>https://letterstoamy.org/</loc>
+    <lastmod>2022-12-14T06:25:00+13:00</lastmod>
   </url><url>
     <loc>https://letterstoamy.org/post/</loc>
-    <lastmod>2022-12-07T06:24:00+13:00</lastmod>
+    <lastmod>2022-12-14T06:25:00+13:00</lastmod>
+  </url><url>
+    <loc>https://letterstoamy.org/tags/rescue/</loc>
+    <lastmod>2022-12-14T06:25:00+13:00</lastmod>
   </url><url>
     <loc>https://letterstoamy.org/tags/</loc>
+    <lastmod>2022-12-14T06:25:00+13:00</lastmod>
+  </url><url>
+    <loc>https://letterstoamy.org/tags/trust/</loc>
+    <lastmod>2022-12-14T06:25:00+13:00</lastmod>
+  </url><url>
+    <loc>https://letterstoamy.org/tags/love/</loc>
     <lastmod>2022-12-07T06:24:00+13:00</lastmod>
   </url><url>
     <loc>https://letterstoamy.org/the-disciple-whom-jesus-loved/</loc>
@@ -173,9 +182,6 @@
     <loc>https://letterstoamy.org/tags/regret/</loc>
     <lastmod>2022-06-29T06:25:00+12:00</lastmod>
   </url><url>
-    <loc>https://letterstoamy.org/tags/rescue/</loc>
-    <lastmod>2022-06-29T06:25:00+12:00</lastmod>
-  </url><url>
     <loc>https://letterstoamy.org/forgiving-others/</loc>
     <lastmod>2022-06-22T08:00:00+12:00</lastmod>
   </url><url>
@@ -207,9 +213,6 @@
     <lastmod>2022-06-01T06:24:00+12:00</lastmod>
   </url><url>
     <loc>https://letterstoamy.org/tags/rest/</loc>
-    <lastmod>2022-06-01T06:24:00+12:00</lastmod>
-  </url><url>
-    <loc>https://letterstoamy.org/tags/trust/</loc>
     <lastmod>2022-06-01T06:24:00+12:00</lastmod>
   </url><url>
     <loc>https://letterstoamy.org/tags/integrity/</loc>
