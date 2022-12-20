@@ -1,7 +1,7 @@
 +++
 author = "Simon Guest"
 title = "Joseph son of David"
-date = "2022-12-21T06:25:00+13:00"
+date = "2022-12-21T06:30:00+13:00"
 description = "God's long-established plans and purposes"
 tags = [ "sovereignty", "salvation" ]
 image = "chris-curry-KsSxzBnozMY-unsplash.jpg"
