@@ -26,7 +26,7 @@ Now, those strange gifts: gold for kingship, frankincense for deity, and myrrh f
 
 And that “star” which the magi first saw when it rose, which then seems to have disappeared on them such that they had to enter Jerusalem and ask around, where was the one they had come to worship? The result of which was, rather than quietly arriving at their precise destination, the whole of Jerusalem got to know what was happening. How interesting! As soon as that had happened, the star reappeared and guided them right to the house where Jesus was. Clearly no kind of star or celestial object then, but surely rather some angelic guide.
 
-Now consider, how could it all have happened like this? The Lord's ways are so deeply mysterious and here rather opaque. He is however so fully able to achieve his plans and purposes, outworking them even through fallible men and women lacking understanding, but nevertheless bringing glory to his name.
+Now consider, how could it all have happened like this? The Lord's ways are so deeply mysterious and here rather opaque. He is however so fully able to achieve his plans and purposes, outworking them even through fallible individuals lacking understanding, but nevertheless bringing glory to his name.
 
 {{< quote source="Matthew 2:11" >}}
 And going into the house, they saw the child with Mary his mother, and they fell down and worshipped him.
