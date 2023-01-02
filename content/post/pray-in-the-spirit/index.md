@@ -12,7 +12,7 @@ Dear Amy,
 
 What is the last piece of the armour of God that is so often overlooked, indeed not even thought of as armour by many?
 
-Understanding the Bible is about reading in paragraphs, which are the basic units of expression, things that belong together. Not every Bible translation has the same paragraph breaks, but in both of my preferred translations—the NIV 1984 and the ESV—the armour of God is described in just one paragraph, which in the NIV ends with this.
+Understanding the Bible is about reading in paragraphs, which are the basic units of expression, things that belong together. Not every Bible translation has the same paragraph breaks, but in both of my preferred translations⸺the NIV 1984 and the ESV⸺the armour of God is described in just one paragraph, which in the NIV ends with this.
 
 {{< quote source="Ephesians 6:18" >}}
 And pray in the Spirit on all occasions with all kinds of prayers and requests. With this in mind, be alert and always keep on praying for all the saints.

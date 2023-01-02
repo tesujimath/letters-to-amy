@@ -30,7 +30,7 @@ And this.
 “A new command I give you: Love one another. As I have loved you, so you must love one another. By this everyone will know that you are my disciples, if you love one another.”
 {{< /quote >}}
 
-This is not optional — there is absolutely no wriggle room here! And yet, why is it that we do not live like this? For tragically, we do not. We should be living and breathing this, all the time. Nothing matters more. But what exactly are we supposed to do as we go about our lives?
+This is not optional⸺there is absolutely no wriggle room here! And yet, why is it that we do not live like this? For tragically, we do not. We should be living and breathing this, all the time. Nothing matters more. But what exactly are we supposed to do as we go about our lives?
 
 A phrase I came upon recently has really got its hooks into me: _relational authenticity_. This is surely the starting point. Relational authenticity recognises that the one standing before me is a real person, whoever they may be. A real person with their hopes, dreams, disappointments and hurts, just like me. And the choice which is uniquely mine is whether and how to relate, to accept, to love. How do I regard them? As background noise? A diversion? A duty? Someone to look down upon? Someone to avoid? Or a whole person, with all their value and complexity and brokenness, loved by the Lord, as am I?
 

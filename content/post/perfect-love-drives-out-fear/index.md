@@ -10,7 +10,7 @@ license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Josue Michel on Unspla
 
 Dear Amy,
 
-Here's another observation on plain old fear, also from John's first letter. The punchline is "perfect love drives out fear" (1 Jn 4:18), but to understand what he is saying you have to read the whole passage — the golden rule, always!
+Here's another observation on plain old fear, also from John's first letter. The punchline is "perfect love drives out fear" (1 Jn 4:18), but to understand what he is saying you have to read the whole passage⸺the golden rule, always!
 
 I'll string some of it together. "If we love one another, God lives in us and his love is made complete in us" (v12).  "Love is made complete ... because in this world we are like him" (v17).
 

@@ -26,7 +26,7 @@ The answer is found in a similar exhortation Paul writes to the Thessalonians.
 But since we belong to the day, let us be self-controlled, putting on faith and love as a breastplate, and the hope of salvation as a helmet.
 {{< /quote >}}
 
-So it's all about _hope_ — the hope of salvation. Recall what hope is. It's not some finger-crossing wishful thinking. By no means! It is grounds for believing that something good will happen, with certainty. And in this case that is something overwhelmingly wonderfully bountifully joyously good, something worth truly waiting for.
+So it's all about _hope_⸺the hope of salvation. Recall what hope is. It's not some finger-crossing wishful thinking. By no means! It is grounds for believing that something good will happen, with certainty. And in this case that is something overwhelmingly wonderfully bountifully joyously good, something worth truly waiting for.
 
 But in the case of salvation, what is there still to hope for? Don't we already have it? The simple truth is this: our salvation is already accomplished, but not yet complete. One day it will be so and the battle will be over. That is a certainty, and until then this hope is stored up for us in heaven (Colossians 1:5-6).
 

@@ -17,7 +17,7 @@ What fuels faithfulness?
 The fruit of the Spirit is ... faithfulness
 {{< /quote >}}
 
-Faithfulness is such an honourable character trait, perhaps the noblest of them all. To be loyal, steadfast, trustworthy and true — surely these words make our hearts soar. They speak to the very heart of noble character, of character that honours the Lord. So where does faithfulness come from? There are two answers to this.
+Faithfulness is such an honourable character trait, perhaps the noblest of them all. To be loyal, steadfast, trustworthy and true⸺surely these words make our hearts soar. They speak to the very heart of noble character, of character that honours the Lord. So where does faithfulness come from? There are two answers to this.
 
 Firstly, the Lord's own faithfulness, evident throughout Scripture, from where he first introduces himself to Moses, right up to John's vision on the island of Patmos of the risen Lord Jesus, the rider on the white horse.
 

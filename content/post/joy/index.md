@@ -27,7 +27,7 @@ Rejoice in the Lord always. I will say it again: Rejoice!
 He says it again because it is of such great importance. We must understand this! But how can we rejoice when life is hard, and sorrow and pain feature so prominently in our world and in our lives? Paul tells us almost immediately.
 
 {{< quote source="Philippians 4:8" >}}
-Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable—if anything is excellent or praiseworthy—think about such things.
+Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable⸺if anything is excellent or praiseworthy⸺think about such things.
 {{< /quote >}}
 
 What are these things we must think about, exactly? I am grateful to Jim Packer for presenting this so clearly, thus:

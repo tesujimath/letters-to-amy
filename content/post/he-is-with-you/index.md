@@ -16,7 +16,7 @@ Having started reflecting on this psalm last week, I'm not quite ready to move o
 
 He restores my soul (v3)? Yes indeed, this is the wonderful truth we considered, but not I think the heart of the psalm.
 
-My cup overflows (v5)? Oh to know the ongoing reality of that, as the Lord rains down his blessing upon us, unceasingly! That blessing is consequential though, not causal — the wonderful result of something, but not it's source.
+My cup overflows (v5)? Oh to know the ongoing reality of that, as the Lord rains down his blessing upon us, unceasingly! That blessing is consequential though, not causal⸺the wonderful result of something, but not it's source.
 
 The Lord is my shepherd (v1)? Oops that's five words, but we are now homing in on the source of it all.
 

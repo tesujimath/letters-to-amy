@@ -27,7 +27,7 @@ But there's more. He chose us to be holy and blameless in his sight. Partly that
 But what of evangelism? If people are chosen, where is repentance and belief? See what comes next in the passage.
 
 {{< quote source="Ephesians 1: 13-14" >}}
-And you also were included in Christ when you heard the message of truth, the gospel of your salvation. When you believed, you were marked in him with a seal, the promised Holy Spirit, who is a deposit guaranteeing our inheritance until the redemption of those who are God’s possession — to the praise of his glory.
+And you also were included in Christ when you heard the message of truth, the gospel of your salvation. When you believed, you were marked in him with a seal, the promised Holy Spirit, who is a deposit guaranteeing our inheritance until the redemption of those who are God’s possession⸺to the praise of his glory.
 {{< /quote >}}
 
 Those to whom Paul writes _heard_ the message of truth (because someone told them), and _believed_. Predestination does not diminish the gospel message in any way. There is undeniably mystery here, but the greatest evangelist of all time was surely ... _Paul himself_, who wrote these words. Praise the Lord!

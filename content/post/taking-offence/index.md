@@ -14,9 +14,9 @@ What is the world's favourite pastime?
 
 What is it that people love to do? That the whole media machine is geared up to deliver? At which society has become so very accomplished? Here's what: _taking offence_.
 
-Taking offence — human nature delights in it, Christians too at times, sadly. We love to be outraged. It is almost tribal. People bond over it, which means that people also divide over it, for there is always a source of the offence, and that source is surely a person.
+Taking offence⸺human nature delights in it, Christians too at times, sadly. We love to be outraged. It is almost tribal. People bond over it, which means that people also divide over it, for there is always a source of the offence, and that source is surely a person.
 
-Satan has a field day with this — oh how he uses it! What is to be done? Two things.
+Satan has a field day with this⸺oh how he uses it! What is to be done? Two things.
 
 1. Recognize it for what it is. Offence-taking is not of the Lord. In these days in which we live perhaps it is one of Satan's most potent weapons to bring division in the world, and even between the people of God.
 2. Live differently. Paul tells us how, and we only just considered this.

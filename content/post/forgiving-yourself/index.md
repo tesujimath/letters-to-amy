@@ -42,7 +42,7 @@ This is what the LORD says ...
 
 In the wasteland which is my life, the Lord is doing a new thing, which is springing up, even now. Streams of living water. A way in the desert.
 
-Longing for what is past is incongruous. The lesson of history is that the Lord does not go back. What is lost is ultimately no loss. It has become a shrivelled, dead thing. There is a new thing springing up which is alive and exciting. Joseph experienced this. Job experienced it, finally — the goodness and kindness and overflowing generosity of the Lord, who does not disappoint.
+Longing for what is past is incongruous. The lesson of history is that the Lord does not go back. What is lost is ultimately no loss. It has become a shrivelled, dead thing. There is a new thing springing up which is alive and exciting. Joseph experienced this. Job experienced it, finally⸺the goodness and kindness and overflowing generosity of the Lord, who does not disappoint.
 
 And so, this is how I can forgive myself and let go of the past. I surrender, Lord, not only to your plans and purposes for my life, but to your declaration that I am a new creation in Christ. The old is gone, the new is come, and I stand before you in Christ's righteousness! Hallelujah!
 

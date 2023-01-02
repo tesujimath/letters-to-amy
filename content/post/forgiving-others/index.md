@@ -39,7 +39,7 @@ Here our forgiveness of others is linked to God's forgiveness of us no less. How
 And what of this?
 
 {{< quote source="Luke 23:33-34a" >}}
-When they came to the place called the Skull, there they crucified him, along with the criminals—one on his right, the other on his left. Jesus said, “Father, forgive them, for they do not know what they are doing.”
+When they came to the place called the Skull, there they crucified him, along with the criminals⸺one on his right, the other on his left. Jesus said, “Father, forgive them, for they do not know what they are doing.”
 {{< /quote >}}
 
 Was there repentance here? Of course not! How are we called to live? Like Christ! And how can we find the power to do this? Only in him!

@@ -27,7 +27,7 @@ Now, as I strive to live a right life, exercising all of my discipline to honour
 We would do well to consider this parable of Jesus.
 
 {{< quote source="Luke 18:10-14" >}}
-“Two men went up to the temple to pray, one a Pharisee and the other a tax collector. The Pharisee stood by himself and prayed about himself: 'God, I thank you that I am not like other men—robbers, evildoers, adulterers—or even like this tax collector. I fast twice a week and give a tenth of all I get.'
+“Two men went up to the temple to pray, one a Pharisee and the other a tax collector. The Pharisee stood by himself and prayed about himself: 'God, I thank you that I am not like other men⸺robbers, evildoers, adulterers⸺or even like this tax collector. I fast twice a week and give a tenth of all I get.'
 
 “But the tax collector stood at a distance. He would not even look up to heaven, but beat his breast and said, 'God, have mercy on me, a sinner.'
 
@@ -45,7 +45,7 @@ There is no difference ... for all have sinned and fall short of the glory of Go
 I find I am in truth stuck in the tar pit of self-righteousness with my Pharisaical heart.
 
 {{< quote source="Romans 7:24-25a" >}}
-What a wretched man I am! Who will rescue me from this body of death? Thanks be to God—through Jesus Christ our Lord!
+What a wretched man I am! Who will rescue me from this body of death? Thanks be to God⸺through Jesus Christ our Lord!
 {{< /quote >}}
 
 Fixing my eyes on Jesus I cry out, Lord, I repent of my Pharisaical heart. Have mercy on me, a sinner. Rescue me!

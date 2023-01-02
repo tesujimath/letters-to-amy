@@ -27,7 +27,7 @@ How did this lead to the second? Paul explains exactly how.
 {{< quote source="Philippians 2:5-11" >}}
 Your attitude should be the same as that of Christ Jesus:
 
-Who, being in very nature God, did not consider equality with God something to be grasped, but made himself nothing, taking the very nature of a servant, being made in human likeness. And being found in appearance as a man, he humbled himself and became obedient to death—even death on a cross! Therefore God exalted him to the highest place and gave him the name that is above every name, that at the name of Jesus every knee should bow, in heaven and on earth and under the earth, and every tongue confess that Jesus Christ is Lord, to the glory of God the Father.
+Who, being in very nature God, did not consider equality with God something to be grasped, but made himself nothing, taking the very nature of a servant, being made in human likeness. And being found in appearance as a man, he humbled himself and became obedient to death⸺even death on a cross! Therefore God exalted him to the highest place and gave him the name that is above every name, that at the name of Jesus every knee should bow, in heaven and on earth and under the earth, and every tongue confess that Jesus Christ is Lord, to the glory of God the Father.
 {{< /quote >}}
 
 The how is in the therefore. Jesus made himself obedient even to death on a cross, and _therefore_ God exalted him to the highest place and gave him the name that is above every name. This is the second victory, resurrection victory over death itself, in his life and ours both.

@@ -43,7 +43,7 @@ Jesus said,
 Being slaves to righteousness and living in total surrender and complete obedience to God is about our sanctification, and ultimately our _works_, as we are transformed into the likeness of Christ and live lives that reflect that. Faith or works? Are these contradictory? Jim Packer has a helpful explanation.
 
 {{< quote author="J. I. Packer" source="Knowing God, Chapter 14" >}}
-Final judgment, as we saw, will be according to our _works_—that is, our _doings_, our whole course of life. The relevance of our 'doings' is not that they ever merit an award from the court—they are too far short of perfection to do that—but that they provide an index of what is in the heart.
+Final judgment, as we saw, will be according to our _works_⸺that is, our _doings_, our whole course of life. The relevance of our 'doings' is not that they ever merit an award from the court⸺they are too far short of perfection to do that⸺but that they provide an index of what is in the heart.
 
 It is not that one way of acting was meritorious while the other was not, but that from these actions one can tell whether there was love to Christ, the love that springs from faith, in the
 heart.

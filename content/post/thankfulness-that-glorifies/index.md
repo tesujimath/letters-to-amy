@@ -32,7 +32,7 @@ For we are God’s handiwork, created in Christ Jesus to do good works, which Go
 
 The Lord has plans and purposes, and he works in and through each one of us to fulfill them. He works even in the lives of those who neither honour nor acknowledge him. We know this. Now consider the other side of that coin.
 
-Recall that the Lord delights in exercising kindness (Jeremiah 9:24) — this is one of his good purposes! So when we receive kindness from others, why would we not make that connection and ascribe it to him? To do so makes my soul sing in gratitude to my Saviour.
+Recall that the Lord delights in exercising kindness (Jeremiah 9:24)⸺this is one of his good purposes! So when we receive kindness from others, why would we not make that connection and ascribe it to him? To do so makes my soul sing in gratitude to my Saviour.
 
 Recently I experienced exactly this, twice.
 

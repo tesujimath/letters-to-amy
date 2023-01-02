@@ -10,7 +10,7 @@ license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Matthias Kabel on Wiki
 
 Dear Amy,
 
-Thank you so much for last week's email — what a lot has been going on! I hope by now you've been enjoying your well-deserved break, and that the Lord is doing a work of refreshing and refilling.
+Thank you so much for last week's email⸺what a lot has been going on! I hope by now you've been enjoying your well-deserved break, and that the Lord is doing a work of refreshing and refilling.
 
 In your email you referred to the armour of God, which has prompted me to spend some time reflecting on that. You know how I love to unpack these things! I'll start with this:
 
@@ -26,7 +26,7 @@ The cingulum was the traditional Roman soldier's belt, which only soldiers were 
 
 And so it is with the belt of truth. It is our fundamental identity in Christ, upon which everything else hangs.
 
-The Christian's identity is in truth — truth in who we are and truth in our status before God, sinners saved by grace.
+The Christian's identity is in truth⸺truth in who we are and truth in our status before God, sinners saved by grace.
 
 {{< quote source="Romans 3:22b-24" >}}
 There is no difference ... for all have sinned and fall short of the glory of God, and all are justified freely by his grace through the redemption that came by Christ Jesus.

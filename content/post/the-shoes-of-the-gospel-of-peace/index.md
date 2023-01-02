@@ -18,7 +18,7 @@ Put on the full armour of God ... with your feet fitted with the readiness that 
 
 Here are two thoughts, however, that I have had. May they encourage your heart.
 
-Firstly, the armour of God is all about being prepared for battle. Doesn't the gospel of peace seem to be somewhat at odds with that? I was prompted to reread Lieutenant Colonel Tim Collins' rousing eve-of-battle speech in the Iraq War. It is not long, but too much to include here in its entirety — I encourage you to look it up. I was struck by the juxtaposition of ferocity and compassion, of the warrior on a mission of mercy.
+Firstly, the armour of God is all about being prepared for battle. Doesn't the gospel of peace seem to be somewhat at odds with that? I was prompted to reread Lieutenant Colonel Tim Collins' rousing eve-of-battle speech in the Iraq War. It is not long, but too much to include here in its entirety⸺I encourage you to look it up. I was struck by the juxtaposition of ferocity and compassion, of the warrior on a mission of mercy.
 
 {{< quote author="Lieutenant Colonel Tim Collins" source="Fort Blair Mayne, Kuwait, 19 March 2003" url="https://www.royal-irish.com/stories/lieutenant-colonel-tim-collins-eve-of-battle-speech" >}}
 “We go to liberate, not to conquer. We will not fly our flags in their country. We are entering Iraq to free a people and the only flag which will be flown in that ancient land is their own.

@@ -31,7 +31,7 @@ Reading on, we can understand what his urging means, what is this worthy life to
 The word worthy here means _appropriate_. So they, and we, are urged to live a life appropriate to the calling we have received. What is this calling, this invitation? And why is a life of humility the appropriate response?
 
 {{< quote source="Ephesians 2:8-9" >}}
-For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God—not by works, so that no-one can boast.
+For it is by grace you have been saved, through faith⸺and this is not from yourselves, it is the gift of God⸺not by works, so that no-one can boast.
 {{< /quote >}}
 
 Each of us has been rescued by grace alone, with no merit on our part. The rescue was undeserved and there is no room for boasting.

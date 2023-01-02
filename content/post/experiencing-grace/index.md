@@ -28,7 +28,7 @@ In his heart a man plans his course, but the LORD determines his steps.
 
 Everyone has hopes and desires for their own life. Some may be sufficiently well organised to have a plan! But the Lord determines their steps. It is his plans and purposes that prevail. Let us not delude ourselves that we can control our own destiny, and somehow plan our way there. That is for the Lord.
 
-It is important to dispel a misconception. Paul is not saying that everything that happens is good and is caused by God. That is observably false — terrible things do happen. Rather he is saying that whatever happens, God works in it and through it “for the good of those who love him”. Let us be those!
+It is important to dispel a misconception. Paul is not saying that everything that happens is good and is caused by God. That is observably false⸺terrible things do happen. Rather he is saying that whatever happens, God works in it and through it “for the good of those who love him”. Let us be those!
 
 Let us learn to see the world through the lens of Romans 8:28 as it actually is then. May we consciously receive God's grace in all that happens. “In all things” let us submit to his superior wisdom, knowing that there is no better eternal outcome than the one he has for us. When apparent disappointments come, let us receive them with a grateful heart. The Lord has seen things that we have not. His love is unfailing. He may very well be rescuing us from something we thought was better, but is in fact not.  He is the one who determines our steps, and it is very good.
 

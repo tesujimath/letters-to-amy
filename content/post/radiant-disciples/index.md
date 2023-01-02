@@ -26,7 +26,7 @@ You can't look at the sun, it's far too bright. Any attempt even to look nearby 
 
 The Lord himself is the source of the radiance. Ours is merely a reflection, unlikely to cause blindness, but bright and shining nonetheless, and enormously attractive to those who don't have it. How does this work, then? We must consider how to be those who _look to him_.
 
-It starts with forgiveness — _their faces are never covered with shame_. All is forgiven, all debt is cancelled and all shame is gone. This is the glorious truth that underpins everything we are as children of God. Rejoice in that forgiveness!
+It starts with forgiveness⸺_their faces are never covered with shame_. All is forgiven, all debt is cancelled and all shame is gone. This is the glorious truth that underpins everything we are as children of God. Rejoice in that forgiveness!
 
 It continues with hope. As we look to the Lord, we look with the hope that notwithstanding all that we have already received, his work in us is not yet complete. There's more to come, and what is to come is so certain and so very good, and so much more than we could possibly ask or imagine. This is our source of joy, our source of radiance.
 
