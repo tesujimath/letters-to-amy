@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "The tar pit"
 date = "2022-06-15T07:05:00+12:00"
 description = "Confronting the fact that I am a Pharisee"
-tags = [ "Pharisaical heart", "humility" ]
+tags = [ "Pharisaical heart", "humility", "mercy" ]
 image = "krystian-piatek-JUqXOPOYXEg-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Krystian Piątek on Unsplash](https://unsplash.com/photos/JUqXOPOYXEg)"
 +++
