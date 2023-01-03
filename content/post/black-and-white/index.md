@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "Black and white?"
 date = "2022-10-12T06:25:00+13:00"
 description = "Not under law but under grace"
-tags = [ "law", "grace", "sovereignty" ]
+tags = [ "law", "grace", "sovereignty", "mercy" ]
 image = "rafael-rex-felisilda-U_Kz2RnfFAk-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Rafael Rex Felisilda on Unsplash](https://unsplash.com/photos/U_Kz2RnfFAk)"
 +++
