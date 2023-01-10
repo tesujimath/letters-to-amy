@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://letterstoamy.org/</loc>
+    <lastmod>2023-01-11T08:15:00+13:00</lastmod>
+  </url><url>
+    <loc>https://letterstoamy.org/post/</loc>
+    <lastmod>2023-01-11T08:15:00+13:00</lastmod>
+  </url><url>
+    <loc>https://letterstoamy.org/tags/power/</loc>
+    <lastmod>2023-01-11T08:15:00+13:00</lastmod>
+  </url><url>
+    <loc>https://letterstoamy.org/tags/sovereignty/</loc>
+    <lastmod>2023-01-11T08:15:00+13:00</lastmod>
+  </url><url>
+    <loc>https://letterstoamy.org/tags/</loc>
+    <lastmod>2023-01-11T08:15:00+13:00</lastmod>
+  </url><url>
+    <loc>https://letterstoamy.org/the-god-of-jacob/</loc>
+    <lastmod>2023-01-11T08:15:00+13:00</lastmod>
+  </url><url>
+    <loc>https://letterstoamy.org/tags/weakness/</loc>
+    <lastmod>2023-01-11T08:15:00+13:00</lastmod>
+  </url><url>
     <loc>https://letterstoamy.org/but-this-i-call-to-mind-and-therefore-i-have-hope/</loc>
     <lastmod>2023-01-04T08:30:00+13:00</lastmod>
   </url><url>
@@ -11,22 +32,10 @@
     <loc>https://letterstoamy.org/tags/judgment/</loc>
     <lastmod>2023-01-04T08:30:00+13:00</lastmod>
   </url><url>
-    <loc>https://letterstoamy.org/</loc>
-    <lastmod>2023-01-04T08:30:00+13:00</lastmod>
-  </url><url>
     <loc>https://letterstoamy.org/tags/mercy/</loc>
     <lastmod>2023-01-04T08:30:00+13:00</lastmod>
   </url><url>
-    <loc>https://letterstoamy.org/post/</loc>
-    <lastmod>2023-01-04T08:30:00+13:00</lastmod>
-  </url><url>
-    <loc>https://letterstoamy.org/tags/</loc>
-    <lastmod>2023-01-04T08:30:00+13:00</lastmod>
-  </url><url>
     <loc>https://letterstoamy.org/tags/mystery/</loc>
-    <lastmod>2022-12-28T08:30:00+13:00</lastmod>
-  </url><url>
-    <loc>https://letterstoamy.org/tags/sovereignty/</loc>
     <lastmod>2022-12-28T08:30:00+13:00</lastmod>
   </url><url>
     <loc>https://letterstoamy.org/the-visit-of-the-magi/</loc>
@@ -204,9 +213,6 @@
     <lastmod>2022-06-22T08:00:00+12:00</lastmod>
   </url><url>
     <loc>https://letterstoamy.org/tags/joy/</loc>
-    <lastmod>2022-06-22T08:00:00+12:00</lastmod>
-  </url><url>
-    <loc>https://letterstoamy.org/tags/power/</loc>
     <lastmod>2022-06-22T08:00:00+12:00</lastmod>
   </url><url>
     <loc>https://letterstoamy.org/tags/humility/</loc>
