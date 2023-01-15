@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "Patience in waiting"
 date = "2021-11-24T06:25:00+13:00"
 description = "Learning to wait well"
-tags = [ "patience", "waiting", "transformation", "growth" ]
+tags = [ "patience", "waiting", "transformation" ]
 image = "pavlenko-8BNO4HUQYRw-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Михаил Павленко on Unsplash](https://unsplash.com/photos/8BNO4HUQYRw)"
 +++
