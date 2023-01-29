@@ -30,6 +30,6 @@ We give thanks to God always for all of you, constantly mentioning you in our pr
 
 Paul had noticed their work of faith and labour of love and steadfastness of hope in Jesus, and so had the Lord, and it pleased him. And neither of them had failed to notice the affliction they endured, quite how hard it was for them to live like this, and that they did it with the joy of the Holy Spirit.
 
-The Lord has surely not failed to notice how hard it has been for you, Amy, and how you have lived with the joy of the Holy Spirit, honouring him, an example to all the believers in Dunedin City Baptist Church and beyond. Well done indeed! We give thanks to God for you, constantly remembering you in _our_ prayers.
+The Lord has surely not failed to notice how hard it has been for you, Amy, in your own work of faith and labour of love and steadfastness of hope in Jesus, and how you have lived with the joy of the Holy Spirit, honouring him, an example to all the believers in Dunedin City Baptist Church and beyond. Well done indeed! We give thanks to God for you, constantly remembering you in _our_ prayers.
 
 Look up and see with the eyes of your heart our loving Heavenly Father taking so much joy and delight in you, Amy, gently nudging Jesus in the ribs and saying, “Look at our daughter, how she lives!” 🙏❤️
