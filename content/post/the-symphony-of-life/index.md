@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "The Symphony of Life"
 date = "2022-03-09T06:31:00+13:00"
 description = "A magnificent opus in 8 billion parts"
-tags = [ "prayer", "sovereignty" ]
+tags = [ "prayer", "sovereignty", "approval" ]
 image = "jack-finnigan-aEkk0KxvPpg-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Jack Finnigan on Unsplash](https://unsplash.com/photos/aEkk0KxvPpg)"
 +++
