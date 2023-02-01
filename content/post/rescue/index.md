@@ -4,7 +4,7 @@ title = "Rescue"
 date = "2021-10-27T06:30:00+13:00"
 description = "A one-time thing?"
 tags = [ "love", "rescue" ]
-related_posts = [ "the-rescued-life/index.md" ]
+related = [ "/post/the-rescued-life/index.md" ]
 image = "axel-antas-bergkvist-zrSzqDnfkQ8-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Axel Antas-Bergkvist on Unsplash](https://unsplash.com/photos/zrSzqDnfkQ8)"
 +++
