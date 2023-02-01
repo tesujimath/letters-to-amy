@@ -4,6 +4,7 @@ title = "The rescued life"
 date = "2021-11-10T06:28:00+13:00"
 description = "Each and every moment"
 tags = [ "rescue", "fruit", "surrender" ]
+related_posts = [ "rescue/index.md" ]
 image = "kyle-cottrell-QGSD-bfJHIw-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Kyle Cottrell, previously on Unsplash](https://unsplash.com/@kcottrell/likes)"
 +++
