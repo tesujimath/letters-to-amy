@@ -14,5 +14,5 @@ So, how do we grow in reverent awe and wonder before the greatness of who God is
 
 Psalm 119 helps. I won't quote it here, because, well, it's quite long. I have been including the first 32 verses in my daily readings for several years now.  (From time to time I read the whole psalm; it is worth it.)  I find these qualities in the psalmist. Earnest. Longing. Disciplined. Realistic. Falling short. Being held. Fully surrendered.
 
-These verses conclude, "I run in the path of your commands, for you have set my heart free."  I pray that you may increasingly run in the path of the Lord's commands like this.
+These verses conclude, I run in the path of your commands, for you have set my heart free (v32).  I pray that you may increasingly run in the path of the Lord's commands like this.
 🙏

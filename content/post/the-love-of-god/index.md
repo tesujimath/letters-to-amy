@@ -39,7 +39,7 @@ He has set his love upon particular sinners, and this means that, by his own fre
 It is almost beyond comprehension that the Lord would do this. How much pain, searing, lasting pain, has he taken upon himself in this decision? How much of his joy is now tied up in ours? What kind of love is this? What kind of God is this?
 
 {{< quote author="J. I. Packer" >}}
-Thus God saves, not only for his glory, but also for his gladness. This goes far to explain why it is that there is joy (God's own joy) in the presence of the angels when a sinner repents (Luke 15:10), and why there will be exceeding joy when God sets us faultless at the last day in his own holy presence (Jude 24). The thought passes understanding and almost beggars belief, but there is no doubt that according to Scripture, such is the love of God.
+Thus God saves, not only for his glory, but also for his gladness. This goes far to explain why it is that there is joy (God's own joy) in the presence of the angels when a sinner repents (Luke 15:10), and why there will be exceeding joy when God sets us faultless at the last day in his own holy presence (Jude v24). The thought passes understanding and almost beggars belief, but there is no doubt that according to Scripture, such is the love of God.
 {{< /quote >}}
 
 Consider what it means that the Lord has set his love on you, Amy, and may it blow your mind! 🙏

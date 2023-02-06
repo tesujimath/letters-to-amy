@@ -18,7 +18,7 @@ Many leave this question unstated, and yet it remains in their subconscious, in 
 
 We already considered this.
 
-{{< quote source="Jude:24-25" >}}
+{{< quote source="Jude v24-25" >}}
 To him who is able to keep you from falling and to present you before his glorious presence without fault and with exceeding joy⸺to the only God our Saviour be glory, majesty, power and authority, through Jesus Christ our Lord, before all ages, now and for evermore! Amen.
 {{< /quote >}}
 

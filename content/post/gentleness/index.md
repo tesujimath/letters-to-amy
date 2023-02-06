@@ -24,7 +24,7 @@ But gentleness? Why do I start here? Let's notice what Paul wrote to Timothy, hi
 But you, man of God, flee from all this [false teaching and the love of money], and pursue righteousness, godliness, faith, love, endurance and gentleness.
 {{< /quote >}}
 
-Timothy, still young, was just starting out in ministry, but was already held in high regard by Paul, who was particularly fond of him (1 Cor 4:17, 2 Tim 1:2, Phil 2:20-22). What would we write to such a one? If we're honest, doesn't it seem a little surprising to see gentleness in that list of other more obvious qualities? It must be more important than we thought!
+Timothy, still young, was just starting out in ministry, but was already held in high regard by Paul, who was particularly fond of him (1 Cor 4:17; 2 Tim 1:2; Phil 2:20-22). What would we write to such a one? If we're honest, doesn't it seem a little surprising to see gentleness in that list of other more obvious qualities? It must be more important than we thought!
 
 Again, in his final exhortations to the Philippians:
 

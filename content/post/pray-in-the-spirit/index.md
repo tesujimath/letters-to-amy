@@ -20,7 +20,7 @@ And pray in the Spirit on all occasions with all kinds of prayers and requests. 
 
 How interesting that Paul would conclude his writing about the armour of God with this. Let's consider how praying in the Spirit could be considered a vital piece of the armour.
 
-Firstly, what does “in the Spirit“ even mean? There seems to be much confusion today about what is the work of the Holy Spirit. Jim Packer wrote a whole book about it, _Keep in Step with the Spirit_, in which he outlines some of the secondary aspects that seem to occupy most people's attention, including power, revelation, and promptings, before arguing that _the primary work of the Holy Spirit is to mediate the presence of Jesus in our lives_. And indeed, this matches with what Jesus says of the Spirit in John 14.
+Firstly, what does “in the Spirit” even mean? There seems to be much confusion today about what is the work of the Holy Spirit. Jim Packer wrote a whole book about it, _Keep in Step with the Spirit_, in which he outlines some of the secondary aspects that seem to occupy most people's attention, including power, revelation, and promptings, before arguing that _the primary work of the Holy Spirit is to mediate the presence of Jesus in our lives_. And indeed, this matches with what Jesus says of the Spirit in John 14.
 
 What Paul writes in Romans is closely related.
 
