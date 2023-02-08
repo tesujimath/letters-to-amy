@@ -44,7 +44,7 @@ _I will meditate on your precepts ..._ — with a surrendered heart, taking all 
 
 _... and fix my eyes on your ways_ — every cyclist knows that you end up in the place where you fix your eyes!
 
-Ruthless consistency is required in pursuit of these things and we are not left alone in this. It is the heart-work of the Holy Spirit, his utmost desire for us, but we must not overlook how much effort and discipline is required on our part, as Paul tells us.
+Ruthless consistency is required in pursuit of these things and we are not left alone in this. It is the heart-work of the Holy Spirit, his utmost desire for us, but we must not overlook how much discipline is required on our part, as Paul tells us.
 
 {{< quote source="1 Corinthians 9:24-25" >}}
 Do you not know that in a race all the runners run, but only one receives the prize? So run that you may obtain it. Every athlete exercises self-control in all things. They do it to receive a perishable wreath, but we an imperishable.
