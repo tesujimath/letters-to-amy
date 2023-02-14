@@ -4,6 +4,7 @@ title = "Desert island"
 date = "2021-09-08T06:43:00+12:00"
 description = "What would you take?"
 tags = [ "knowing God" ]
+related = [ "/post/predestination/index.md", "/post/the-eyes-of-your-heart/index.md", "/post/in-pursuit-of-wisdom/index.md" ]
 image = "pablo-garcia-saldana-K1YRblz-rD0-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Pablo García Saldaña on Unsplash](https://unsplash.com/photos/K1YRblz-rD0)"
 +++
