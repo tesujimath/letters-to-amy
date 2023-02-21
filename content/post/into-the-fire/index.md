@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "Into the fire"
 date = "2022-12-14T06:25:00+13:00"
 description = "Trusting God at the time of crisis"
-tags = [ "trust", "rescue" ]
+tags = [ "trust", "rescue", "provision" ]
 image = "dave-hoefler-MrxlMcZxqhY-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Dave Hoefler on Unsplash](https://unsplash.com/photos/MrxlMcZxqhY)"
 +++
