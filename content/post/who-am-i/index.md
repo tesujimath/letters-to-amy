@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "Who am I?"
 date = "2021-05-19T06:48:00+12:00"
 description = "An honest reflection"
-tags = [ "identity", "honesty", "humility" ]
+tags = [ "humility", "weariness" ]
 image = "spencer-tamichi-bjH4uE6iuEo-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Spencer Tamichi on Unsplash](https://unsplash.com/photos/bjH4uE6iuEo)"
 +++
