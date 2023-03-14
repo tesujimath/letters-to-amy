@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "Gentleness"
 date = "2021-11-17T06:27:00+13:00"
 description = "Unexpectedly important"
-tags = [ "fruit", "gentleness" ]
+tags = [ "fruit", "gentleness", "weariness" ]
 image = "david-clode-13PjNBaDMcg-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [David Clode on Unsplash](https://unsplash.com/photos/13PjNBaDMcg)"
 +++
