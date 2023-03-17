@@ -1,6 +1,0 @@
-title: Scripture Index
-menu:
-    main:
-        weight: -65
-        params:
-            icon: book
