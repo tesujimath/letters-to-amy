@@ -1,6 +1,8 @@
 ---
 # THIS FILE IS AUTO-GENERATED, DO NOT EDIT
 title: Scripture Index
+aliases:
+  - /scripture-index
 menu:
     main:
         weight: -65

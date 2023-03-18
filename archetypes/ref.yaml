@@ -1,4 +1,6 @@
 title: Scripture Index
+aliases:
+  - /scripture-index
 menu:
     main:
         weight: -65
