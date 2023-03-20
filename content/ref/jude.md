@@ -4,7 +4,7 @@ title: "Jude"
 description: "Scripture index"
 ---
 
-| | |
+|  |  |
 | --- | --- |
 | [Greetings]({{<ref "/post/greetings/index.md" >}}) | v1 |
 | [The love of God]({{<ref "/post/the-love-of-god/index.md" >}}) | v24 |

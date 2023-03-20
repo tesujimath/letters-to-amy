@@ -11,7 +11,7 @@ build-tools:
     nix develop -c cargo build --release
 
 clean:
-    rm -rf docs
+    rm -rf content/ref docs
 
 localhost: generate-scripture-index
     hugo server --baseURL http://localhost:1313 --disableFastRender --buildFuture --buildDrafts

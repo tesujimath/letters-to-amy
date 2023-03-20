@@ -4,6 +4,6 @@ title: "2 Peter"
 description: "Scripture index"
 ---
 
-| | |
+|  |  |
 | --- | --- |
 | [Greetings]({{<ref "/post/greetings/index.md" >}}) | 1:1 |

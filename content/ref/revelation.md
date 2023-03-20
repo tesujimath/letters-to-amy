@@ -4,7 +4,7 @@ title: "Revelation"
 description: "Scripture index"
 ---
 
-| | |
+|  |  |
 | --- | --- |
 | [Radiant disciples]({{<ref "/post/radiant-disciples/index.md" >}}) | 1:16 |
 | [Present tense]({{<ref "/post/present-tense/index.md" >}}) | 4:2-8 |

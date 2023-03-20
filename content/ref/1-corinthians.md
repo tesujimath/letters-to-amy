@@ -4,7 +4,7 @@ title: "1 Corinthians"
 description: "Scripture index"
 ---
 
-| | |
+|  |  |
 | --- | --- |
 | [Greetings]({{<ref "/post/greetings/index.md" >}}) | 1:2 |
 | [The God of Jacob]({{<ref "/post/the-god-of-jacob/index.md" >}}) | 1:27-31 |

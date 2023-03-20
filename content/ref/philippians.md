@@ -4,7 +4,7 @@ title: "Philippians"
 description: "Scripture index"
 ---
 
-| | |
+|  |  |
 | --- | --- |
 | [Greetings]({{<ref "/post/greetings/index.md" >}}) | 1:1 |
 | [Two victories]({{<ref "/post/two-victories/index.md" >}}) | 2:5-11 |

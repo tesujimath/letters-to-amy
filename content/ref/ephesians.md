@@ -4,7 +4,7 @@ title: "Ephesians"
 description: "Scripture index"
 ---
 
-| | |
+|  |  |
 | --- | --- |
 | [Greetings]({{<ref "/post/greetings/index.md" >}}) | 1:1 |
 | [A deposit guaranteeing our inheritance]({{<ref "/post/a-deposit-guaranteeing-our-inheritance/index.md" >}}) | 1:3,13-14 |

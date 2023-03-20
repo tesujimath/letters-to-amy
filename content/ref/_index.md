@@ -11,7 +11,7 @@ menu:
 ---
 
 **Old Testament**
-| | | | |
+|  |  |  |  |
 | --- | --- | --- | --- |
 | [Gen]({{<ref "/ref/genesis" >}}) | [Ex]({{<ref "/ref/exodus" >}}) | [Num]({{<ref "/ref/numbers" >}}) | [Deut]({{<ref "/ref/deuteronomy" >}}) |
 | [Josh]({{<ref "/ref/joshua" >}}) | [1 Sam]({{<ref "/ref/1-samuel" >}}) | [2 Sam]({{<ref "/ref/2-samuel" >}}) | [1 Kgs]({{<ref "/ref/1-kings" >}}) |
@@ -20,7 +20,7 @@ menu:
 | [Dan]({{<ref "/ref/daniel" >}}) | [Hab]({{<ref "/ref/habakkuk" >}}) | [Zech]({{<ref "/ref/zechariah" >}}) | [Mal]({{<ref "/ref/malachi" >}}) |
 
 **New Testament**
-| | | | |
+|  |  |  |  |
 | --- | --- | --- | --- |
 | [Mt]({{<ref "/ref/matthew" >}}) | [Mk]({{<ref "/ref/mark" >}}) | [Lk]({{<ref "/ref/luke" >}}) | [Jn]({{<ref "/ref/john" >}}) |
 | [Acts]({{<ref "/ref/acts" >}}) | [Rom]({{<ref "/ref/romans" >}}) | [1 Cor]({{<ref "/ref/1-corinthians" >}}) | [2 Cor]({{<ref "/ref/2-corinthians" >}}) |

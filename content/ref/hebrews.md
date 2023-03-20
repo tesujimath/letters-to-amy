@@ -4,7 +4,7 @@ title: "Hebrews"
 description: "Scripture index"
 ---
 
-| | |
+|  |  |
 | --- | --- |
 | [Impossible]({{<ref "/post/impossible/index.md" >}}) | 4:15 <br/> 10:23 <br/> 13:8 |
 | [Faithfulness]({{<ref "/post/faithfulness/index.md" >}}) | 10:23 |

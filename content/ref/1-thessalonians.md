@@ -4,7 +4,7 @@ title: "1 Thessalonians"
 description: "Scripture index"
 ---
 
-| | |
+|  |  |
 | --- | --- |
 | [Greetings]({{<ref "/post/greetings/index.md" >}}) | 1:1 |
 | [A labour of love for the Lord]({{<ref "/post/a-labour-of-love-for-the-lord/index.md" >}}) | 1:2-3,6-7 <br/> 4:1 |

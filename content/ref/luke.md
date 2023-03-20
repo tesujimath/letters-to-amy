@@ -4,7 +4,7 @@ title: "Luke"
 description: "Scripture index"
 ---
 
-| | |
+|  |  |
 | --- | --- |
 | [My soul magnifies the Lord]({{<ref "/post/my-soul-magnifies-the-lord/index.md" >}}) | 1:26-58 |
 | [The sword of the Spirit]({{<ref "/post/the-sword-of-the-spirit/index.md" >}}) | 4:1-13 |

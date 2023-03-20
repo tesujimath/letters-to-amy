@@ -4,7 +4,7 @@ title: "1 John"
 description: "Scripture index"
 ---
 
-| | |
+|  |  |
 | --- | --- |
 | [Faithfulness]({{<ref "/post/faithfulness/index.md" >}}) | 1:9 |
 | [Forgiveness and purification]({{<ref "/post/forgiveness-and-purification/index.md" >}}) | 1:9 |

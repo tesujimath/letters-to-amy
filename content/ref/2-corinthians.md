@@ -4,7 +4,7 @@ title: "2 Corinthians"
 description: "Scripture index"
 ---
 
-| | |
+|  |  |
 | --- | --- |
 | [The God of all comfort]({{<ref "/post/the-god-of-all-comfort/index.md" >}}) | 1:3-5 |
 | [Blinded by seeing ]({{<ref "/post/blinded-by-seeing/index.md" >}}) | 5:7 |

@@ -4,7 +4,7 @@ title: "Genesis"
 description: "Scripture index"
 ---
 
-| | |
+|  |  |
 | --- | --- |
 | [Flood]({{<ref "/post/flood/index.md" >}}) | 1:31 <br/> 6:5-9 <br/> 17:1 |
 | [Joseph son of David]({{<ref "/post/joseph-son-of-david/index.md" >}}) | 3:14-15 |

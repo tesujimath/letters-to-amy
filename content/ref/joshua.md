@@ -4,7 +4,7 @@ title: "Joshua"
 description: "Scripture index"
 ---
 
-| | |
+|  |  |
 | --- | --- |
 | [Impossible]({{<ref "/post/impossible/index.md" >}}) | 6:2 |
 | [Expectant and not disappointed]({{<ref "/post/expectant-and-not-disappointed/index.md" >}}) | 23:14 |

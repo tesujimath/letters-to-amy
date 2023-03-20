@@ -4,7 +4,7 @@ title: "John"
 description: "Scripture index"
 ---
 
-| | |
+|  |  |
 | --- | --- |
 | [The disciple whom Jesus loved]({{<ref "/post/the-disciple-whom-jesus-loved/index.md" >}}) | 3:16 <br/> 11:5,36 <br/> 13:23,34-35 <br/> 19:26 <br/> 20:1-2 <br/> 21:20 |
 | [What does the Lord want us to do?]({{<ref "/post/what-does-the-lord-want-us-to-do/index.md" >}}) | 6:28-29 |

@@ -4,7 +4,7 @@ title: "Mark"
 description: "Scripture index"
 ---
 
-| | |
+|  |  |
 | --- | --- |
 | [Sacrifice]({{<ref "/post/sacrifice/index.md" >}}) | 11 <br/> 14:61-62 <br/> 15:22,24,34 |
 | [Hard teaching]({{<ref "/post/hard-teaching/index.md" >}}) | 11:12-14,20 |

@@ -4,7 +4,7 @@ title: "Jeremiah"
 description: "Scripture index"
 ---
 
-| | |
+|  |  |
 | --- | --- |
 | [Kindness]({{<ref "/post/kindness/index.md" >}}) | 9:24 |
 | [Thankfulness that glorifies]({{<ref "/post/thankfulness-that-glorifies/index.md" >}}) | 9:24 |

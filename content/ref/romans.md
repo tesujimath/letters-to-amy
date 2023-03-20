@@ -4,7 +4,7 @@ title: "Romans"
 description: "Scripture index"
 ---
 
-| | |
+|  |  |
 | --- | --- |
 | [Greetings]({{<ref "/post/greetings/index.md" >}}) | 1:7 |
 | [The breastplate of righteousness]({{<ref "/post/the-breastplate-of-righteousness/index.md" >}}) | 1:17 <br/> 3:22 <br/> 6:17-18 |

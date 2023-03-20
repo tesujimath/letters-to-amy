@@ -4,7 +4,7 @@ title: "Psalms"
 description: "Scripture index"
 ---
 
-| | |
+|  |  |
 | --- | --- |
 | [Casting off shame]({{<ref "/post/casting-off-shame/index.md" >}}) | 3:3 |
 | [How long, O Lord?]({{<ref "/post/how-long-o-lord/index.md" >}}) | 13:1-2 |

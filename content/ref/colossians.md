@@ -4,7 +4,7 @@ title: "Colossians"
 description: "Scripture index"
 ---
 
-| | |
+|  |  |
 | --- | --- |
 | [Greetings]({{<ref "/post/greetings/index.md" >}}) | 1:2 |
 | [The helmet of salvation]({{<ref "/post/the-helmet-of-salvation/index.md" >}}) | 1:5-6 |

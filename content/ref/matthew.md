@@ -4,7 +4,7 @@ title: "Matthew"
 description: "Scripture index"
 ---
 
-| | |
+|  |  |
 | --- | --- |
 | [Joseph son of David]({{<ref "/post/joseph-son-of-david/index.md" >}}) | 1:18-23 |
 | [My soul magnifies the Lord]({{<ref "/post/my-soul-magnifies-the-lord/index.md" >}}) | 1:19 |

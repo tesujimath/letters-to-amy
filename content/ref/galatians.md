@@ -4,7 +4,7 @@ title: "Galatians"
 description: "Scripture index"
 ---
 
-| | |
+|  |  |
 | --- | --- |
 | [Led by the Spirit]({{<ref "/post/led-by-the-spirit/index.md" >}}) | 5:16-18 |
 | [The grace-filled life]({{<ref "/post/the-grace-filled-life/index.md" >}}) | 5:17-23 |
