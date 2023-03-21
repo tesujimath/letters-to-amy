@@ -6,6 +6,7 @@ description: "Scripture index"
 
 |  |  |
 | --- | --- |
+| [Comfort and healing]({{<ref "/post/comfort-and-healing/index.md" >}}) | 1:3-4 |
 | [The God of all comfort]({{<ref "/post/the-god-of-all-comfort/index.md" >}}) | 1:3-5 |
 | [Blinded by seeing ]({{<ref "/post/blinded-by-seeing/index.md" >}}) | 5:7 |
 | [The belt of truth]({{<ref "/post/the-belt-of-truth/index.md" >}}) | 5:17 |

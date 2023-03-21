@@ -36,4 +36,5 @@ description: "Scripture index"
 | [Joseph son of David]({{<ref "/post/joseph-son-of-david/index.md" >}}) | 139:13-16 |
 | [Living confidently when the future is uncertain]({{<ref "/post/living-confidently-when-the-future-is-uncertain/index.md" >}}) | 145 <br/> 147:1 |
 | [How can we love the Lord this much?]({{<ref "/post/how-can-we-love-the-lord-this-much/index.md" >}}) | 145:2-3,5,8-9,13-14,17-21 |
+| [Comfort and healing]({{<ref "/post/comfort-and-healing/index.md" >}}) | 147:1,3 |
 | [Peace and provision]({{<ref "/post/peace-and-provision/index.md" >}}) | 147:11 |
