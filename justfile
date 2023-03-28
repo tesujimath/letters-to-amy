@@ -1,7 +1,9 @@
 build: generate-scripture-index
+    rm -rf docs
     hugo -d docs --buildFuture
 
 generate-scripture-index: build-tools
+    rm -rf content/ref
     ./buildtools/target/release/lta
 
 build-tools:
