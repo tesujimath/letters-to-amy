@@ -27,7 +27,7 @@ Even in such a familiar passage, here is something to notice afresh. Jesus refer
 “And I tell you, you are Peter, and on this rock I will build my church, and the gates of hell shall not prevail against it.”
 {{< /quote >}}
 
-So why does Jesus momentarily call him Simon here and then almost immediately Peter again? How interesting. Here's what I think about this. The crux is not that he initially calls him Simon, but that he then calls him Peter, and this is what Jesus wants to emphasize. Even as he is foretelling his betrayal, Jesus is affirming him as Peter, his chosen one, Cephas the rock. Even in his denial he is still Peter. He is still Jesus' chosen one!
+So why does Jesus momentarily call him Simon here and then almost immediately Peter again? How interesting. Here's what I think about this. The crux is not that he initially calls him Simon, but that he then calls him Peter, and this is what Jesus wants to emphasize. Even as he is foretelling his denial, Jesus is affirming him as Peter, his chosen one, Cephas the rock. Even in his denial he is still Peter. He is still Jesus' chosen one!
 
 Only shortly afterwards it happened just as Jesus had said.
 
