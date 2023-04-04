@@ -18,7 +18,9 @@ description: "Scripture index"
 | 7:7,11 | [Unanswered prayer]({{<ref "/post/unanswered-prayer/index.md" >}}) |
 | 11:28-30 | [Gentleness]({{<ref "/post/gentleness/index.md" >}}) |
 | 11:28-30 | [The work which brings us rest]({{<ref "/post/the-work-which-brings-us-rest/index.md" >}}) |
-| 12:6-8 <br/> 19:8-9 | [Black and white?]({{<ref "/post/black-and-white/index.md" >}}) |
+| 12:6-8 | [Black and white?]({{<ref "/post/black-and-white/index.md" >}}) |
+| 16:18 | [Denial]({{<ref "/post/denial/index.md" >}}) |
+| 19:8-9 | [Black and white?]({{<ref "/post/black-and-white/index.md" >}}) |
 | 19:30 | [The shield of faith]({{<ref "/post/the-shield-of-faith/index.md" >}}) |
 | 21:22 | [The Symphony of Life]({{<ref "/post/the-symphony-of-life/index.md" >}}) |
 | 22:36-40 | [Relational authenticity]({{<ref "/post/relational-authenticity/index.md" >}}) |

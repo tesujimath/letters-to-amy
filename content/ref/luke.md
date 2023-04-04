@@ -12,4 +12,5 @@ description: "Scripture index"
 | 17:3-4 | [Forgiving others]({{<ref "/post/forgiving-others/index.md" >}}) |
 | 18:10-14 | [The tar pit]({{<ref "/post/the-tar-pit/index.md" >}}) |
 | 18:17 | [Receiving the kingdom of God like a little child]({{<ref "/post/receiving-the-kingdom-of-god-like-a-little-child/index.md" >}}) |
+| 22:31-34,55-61 | [Denial]({{<ref "/post/denial/index.md" >}}) |
 | 23:33-34 | [Forgiving others]({{<ref "/post/forgiving-others/index.md" >}}) |
