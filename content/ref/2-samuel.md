@@ -6,5 +6,5 @@ description: "Scripture index"
 
 |  |  |
 | --- | --- |
-| [Biblical giants]({{<ref "/post/biblical-giants/index.md" >}}) | 11 |
-| [Casting off shame]({{<ref "/post/casting-off-shame/index.md" >}}) | 11 |
+| 11 | [Biblical giants]({{<ref "/post/biblical-giants/index.md" >}}) |
+| 11 | [Casting off shame]({{<ref "/post/casting-off-shame/index.md" >}}) |

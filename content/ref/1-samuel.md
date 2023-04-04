@@ -6,4 +6,4 @@ description: "Scripture index"
 
 |  |  |
 | --- | --- |
-| [Casting off shame]({{<ref "/post/casting-off-shame/index.md" >}}) | 13:14 |
+| 13:14 | [Casting off shame]({{<ref "/post/casting-off-shame/index.md" >}}) |
