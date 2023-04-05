@@ -7,9 +7,8 @@ description: "Scripture index"
 |  |  |
 | --- | --- |
 | 1:7 | [Greetings]({{<ref "/post/greetings/index.md" >}}) |
-| 1:17 | [The breastplate of righteousness]({{<ref "/post/the-breastplate-of-righteousness/index.md" >}}) |
+| 1:17 <br/> 3:22 | [The breastplate of righteousness]({{<ref "/post/the-breastplate-of-righteousness/index.md" >}}) |
 | 3:21-22,27 | [Personal holiness]({{<ref "/post/personal-holiness/index.md" >}}) |
-| 3:22 | [The breastplate of righteousness]({{<ref "/post/the-breastplate-of-righteousness/index.md" >}}) |
 | 3:22-24 | [Relational authenticity]({{<ref "/post/relational-authenticity/index.md" >}}) |
 | 3:22-24 | [The belt of truth]({{<ref "/post/the-belt-of-truth/index.md" >}}) |
 | 3:22-24 | [The tar pit]({{<ref "/post/the-tar-pit/index.md" >}}) |
