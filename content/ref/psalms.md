@@ -38,9 +38,8 @@ description: "Scripture index"
 | 139 | [A great cloud of witnesses]({{<ref "/post/a-great-cloud-of-witnesses/index.md" >}}) |
 | 139:1-4,13-16 | [Fully known]({{<ref "/post/fully-known/index.md" >}}) |
 | 139:13-16 | [Joseph son of David]({{<ref "/post/joseph-son-of-david/index.md" >}}) |
-| 145 | [Living confidently when the future is uncertain]({{<ref "/post/living-confidently-when-the-future-is-uncertain/index.md" >}}) |
 | 145:2-3,5,8-9,13-14,17-21 | [How can we love the Lord this much?]({{<ref "/post/how-can-we-love-the-lord-this-much/index.md" >}}) |
-| 147:1 | [Living confidently when the future is uncertain]({{<ref "/post/living-confidently-when-the-future-is-uncertain/index.md" >}}) |
+| 145 <br/> 147:1 | [Living confidently when the future is uncertain]({{<ref "/post/living-confidently-when-the-future-is-uncertain/index.md" >}}) |
 | 147:1,3 | [Comfort and healing]({{<ref "/post/comfort-and-healing/index.md" >}}) |
 | 147:1-6 | [Praise the Lord!]({{<ref "/post/praise-the-lord/index.md" >}}) |
 | 147:11 | [Peace and provision]({{<ref "/post/peace-and-provision/index.md" >}}) |

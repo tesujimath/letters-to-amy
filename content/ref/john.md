@@ -22,6 +22,5 @@ description: "Scripture index"
 | 14:14 | [Throwing a mountain into the sea]({{<ref "/post/throwing-a-mountain-into-the-sea/index.md" >}}) |
 | 14:14 | [Unanswered prayer]({{<ref "/post/unanswered-prayer/index.md" >}}) |
 | 14:27 | [Covid prayer]({{<ref "/post/covid-prayer/index.md" >}}) |
-| 19:26 | [The disciple whom Jesus loved]({{<ref "/post/the-disciple-whom-jesus-loved/index.md" >}}) |
 | 19:30 | [Two victories]({{<ref "/post/two-victories/index.md" >}}) |
-| 20:1-2 <br/> 21:20 | [The disciple whom Jesus loved]({{<ref "/post/the-disciple-whom-jesus-loved/index.md" >}}) |
+| 19:26 <br/> 20:1-2 <br/> 21:20 | [The disciple whom Jesus loved]({{<ref "/post/the-disciple-whom-jesus-loved/index.md" >}}) |
