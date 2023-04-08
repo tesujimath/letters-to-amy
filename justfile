@@ -4,7 +4,7 @@ build: generate-scripture-index
 
 generate-scripture-index: build-tools
     rm -rf content/ref
-    ./buildtools/target/release/lta
+    ./buildtools/target/release/lta create-scripture-index
 
 build-tools:
     #!/usr/bin/env bash
