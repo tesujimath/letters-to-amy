@@ -15,8 +15,10 @@ build-tools:
 clean:
     rm -rf content/ref docs
 
-localhost: generate-scripture-index
-    hugo server --baseURL http://localhost:1313 --disableFastRender --buildFuture --buildDrafts
+localhost := `uname -n`
 
-aya: generate-scripture-index
-    hugo server --baseURL http://aya:1313 --bind 192.168.178.112 --disableFastRender --buildFuture --buildDrafts
+hugo-serve: generate-scripture-index
+    hugo server --baseURL http://{{ localhost }}:1313 --bind 0.0.0.0 --disableFastRender --buildFuture --buildDrafts
+
+build-and-serve: build
+    static-web-server -d docs -p 1313
