@@ -18,7 +18,7 @@ clean:
 
 localhost := `uname -n`
 
-hugo-serve: generate-scripture-index
+serve: generate-scripture-index
     hugo server --baseURL http://{{ localhost }}:1313 --bind 0.0.0.0 --disableFastRender --buildFuture --buildDrafts
 
 build-and-serve: build

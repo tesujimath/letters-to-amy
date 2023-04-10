@@ -7,7 +7,7 @@ tags = [ "Bible", "spiritual warfare" ]
 image = "totte-annerbrink-7PRi1chCnrs-unsplash.jpg"
 image_position_article = "50% 80%"
 image_position_list = "50% 20%"
-license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Totte Annerbrink on Unsplash](https://unsplash.com/photos/7PRi1chCnrs)"
+license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Totte Annerbrink, previously on Unsplash](https://unsplash.com/@totteannerbrink)"
 +++
 
 Dear Amy,
