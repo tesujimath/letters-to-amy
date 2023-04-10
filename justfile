@@ -1,6 +1,7 @@
-build: generate-scripture-index
+build: generate-scripture-index build-tools
     rm -rf docs
     hugo -d docs --buildFuture
+    ./buildtools/target/release/lta contextualize-home-links
 
 generate-scripture-index: build-tools
     rm -rf content/ref
