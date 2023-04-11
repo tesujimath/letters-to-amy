@@ -16,6 +16,7 @@ description: "Scripture index"
 | 4:20 | [Expectant and not disappointed]({{<ref "/post/expectant-and-not-disappointed/index.md" >}}) |
 | 5:8 | [Fully known]({{<ref "/post/fully-known/index.md" >}}) |
 | 5:8 | [The belt of truth]({{<ref "/post/the-belt-of-truth/index.md" >}}) |
+| 5:8-9 <br/> 6:4-6 | [Jesus is alive!]({{<ref "/post/jesus-is-alive/index.md" >}}) |
 | 6:1-4 | [The grace-filled life]({{<ref "/post/the-grace-filled-life/index.md" >}}) |
 | 6:13-14 | [Personal holiness]({{<ref "/post/personal-holiness/index.md" >}}) |
 | 6:14-15 | [Black and white?]({{<ref "/post/black-and-white/index.md" >}}) |

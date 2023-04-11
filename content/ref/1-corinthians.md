@@ -14,3 +14,4 @@ description: "Scripture index"
 | 9:24-25 | [In pursuit of wisdom]({{<ref "/post/in-pursuit-of-wisdom/index.md" >}}) |
 | 10:13 | [Self-control]({{<ref "/post/self-control/index.md" >}}) |
 | 13:12 | [Fully known]({{<ref "/post/fully-known/index.md" >}}) |
+| 15:17-19 | [Jesus is alive!]({{<ref "/post/jesus-is-alive/index.md" >}}) |
