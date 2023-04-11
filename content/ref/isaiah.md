@@ -6,5 +6,5 @@ description: "Scripture index"
 
 |  |  |
 | --- | --- |
-| 42:3 | [Gentleness]({{<ref "/post/gentleness/index.md" >}}) |
-| 43:16,18-19 | [Forgiving yourself]({{<ref "/post/forgiving-yourself/index.md" >}}) |
+| 42:3 | [Gentleness]({{<relref "/post/gentleness/index.md" >}}) |
+| 43:16,18-19 | [Forgiving yourself]({{<relref "/post/forgiving-yourself/index.md" >}}) |

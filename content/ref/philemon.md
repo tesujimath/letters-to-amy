@@ -6,4 +6,4 @@ description: "Scripture index"
 
 |  |  |
 | --- | --- |
-| 1:1 | [Greetings]({{<ref "/post/greetings/index.md" >}}) |
+| 1:1 | [Greetings]({{<relref "/post/greetings/index.md" >}}) |

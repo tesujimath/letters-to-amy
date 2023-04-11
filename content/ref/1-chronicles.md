@@ -6,4 +6,4 @@ description: "Scripture index"
 
 |  |  |
 | --- | --- |
-| 28:9 | [How to get what you want]({{<ref "/post/how-to-get-what-you-want/index.md" >}}) |
+| 28:9 | [How to get what you want]({{<relref "/post/how-to-get-what-you-want/index.md" >}}) |

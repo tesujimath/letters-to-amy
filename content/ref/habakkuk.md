@@ -6,4 +6,4 @@ description: "Scripture index"
 
 |  |  |
 | --- | --- |
-| 1:2,5 | [How long, O Lord?]({{<ref "/post/how-long-o-lord/index.md" >}}) |
+| 1:2,5 | [How long, O Lord?]({{<relref "/post/how-long-o-lord/index.md" >}}) |
