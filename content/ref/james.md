@@ -6,5 +6,5 @@ description: "Scripture index"
 
 |  |  |
 | --- | --- |
-| 2:18 | [The breastplate of righteousness]({{<ref "/post/the-breastplate-of-righteousness/index.md" >}}) |
-| 5:14-15 | [Expectant and not disappointed]({{<ref "/post/expectant-and-not-disappointed/index.md" >}}) |
+| 2:18 | [The breastplate of righteousness]({{<relref "/post/the-breastplate-of-righteousness/index.md" >}}) |
+| 5:14-15 | [Expectant and not disappointed]({{<relref "/post/expectant-and-not-disappointed/index.md" >}}) |

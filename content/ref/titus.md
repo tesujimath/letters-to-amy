@@ -6,4 +6,4 @@ description: "Scripture index"
 
 |  |  |
 | --- | --- |
-| 3:4-5 | [Kindness]({{<ref "/post/kindness/index.md" >}}) |
+| 3:4-5 | [Kindness]({{<relref "/post/kindness/index.md" >}}) |

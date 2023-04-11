@@ -6,11 +6,11 @@ description: "Scripture index"
 
 |  |  |
 | --- | --- |
-| 1:26-58 | [My soul magnifies the Lord]({{<ref "/post/my-soul-magnifies-the-lord/index.md" >}}) |
-| 4:1-13 | [The sword of the Spirit]({{<ref "/post/the-sword-of-the-spirit/index.md" >}}) |
-| 15:10 | [The love of God]({{<ref "/post/the-love-of-god/index.md" >}}) |
-| 17:3-4 | [Forgiving others]({{<ref "/post/forgiving-others/index.md" >}}) |
-| 18:10-14 | [The tar pit]({{<ref "/post/the-tar-pit/index.md" >}}) |
-| 18:17 | [Receiving the kingdom of God like a little child]({{<ref "/post/receiving-the-kingdom-of-god-like-a-little-child/index.md" >}}) |
-| 22:31-34,55-62 | [Denial]({{<ref "/post/denial/index.md" >}}) |
-| 23:33-34 | [Forgiving others]({{<ref "/post/forgiving-others/index.md" >}}) |
+| 1:26-58 | [My soul magnifies the Lord]({{<relref "/post/my-soul-magnifies-the-lord/index.md" >}}) |
+| 4:1-13 | [The sword of the Spirit]({{<relref "/post/the-sword-of-the-spirit/index.md" >}}) |
+| 15:10 | [The love of God]({{<relref "/post/the-love-of-god/index.md" >}}) |
+| 17:3-4 | [Forgiving others]({{<relref "/post/forgiving-others/index.md" >}}) |
+| 18:10-14 | [The tar pit]({{<relref "/post/the-tar-pit/index.md" >}}) |
+| 18:17 | [Receiving the kingdom of God like a little child]({{<relref "/post/receiving-the-kingdom-of-god-like-a-little-child/index.md" >}}) |
+| 22:31-34,55-62 | [Denial]({{<relref "/post/denial/index.md" >}}) |
+| 23:33-34 | [Forgiving others]({{<relref "/post/forgiving-others/index.md" >}}) |
