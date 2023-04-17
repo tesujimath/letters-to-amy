@@ -13,6 +13,7 @@ description: "Scripture index"
 | 8:51 | [The breastplate of righteousness]({{<relref "/post/the-breastplate-of-righteousness/index.md" >}}) |
 | 10:10 | [Expectant and not disappointed]({{<relref "/post/expectant-and-not-disappointed/index.md" >}}) |
 | 10:10 | [Forgiving yourself]({{<relref "/post/forgiving-yourself/index.md" >}}) |
+| 10:10 | [This is the day that the Lord has made]({{<relref "/post/this-is-the-day-that-the-Lord-has-made/index.md" >}}) |
 | 11:1,3,5-6,17,21 | [Perfect timing]({{<relref "/post/perfect-timing/index.md" >}}) |
 | 11:5,36 <br/> 13:23,34-35 | [The disciple whom Jesus loved]({{<relref "/post/the-disciple-whom-jesus-loved/index.md" >}}) |
 | 13:34-35 | [Relational authenticity]({{<relref "/post/relational-authenticity/index.md" >}}) |
