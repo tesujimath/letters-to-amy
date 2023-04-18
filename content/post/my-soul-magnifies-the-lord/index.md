@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "My soul magnifies the Lord"
 date = "2022-08-31T08:55:00+12:00"
 description = "True worship"
-tags = [ "surrender", "worship" ]
+tags = [ "surrender", "worship", "rejoice" ]
 image = "benjamin-davies-FiZTaNTj2Ak-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Benjamin Davies on Unsplash](https://unsplash.com/photos/FiZTaNTj2Ak)"
 +++

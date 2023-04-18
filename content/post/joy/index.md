@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "Joy"
 date = "2021-12-29T08:15:00+13:00"
 description = "A choice which is ours to make"
-tags = [ "joy", "fruit" ]
+tags = [ "joy", "fruit", "rejoice" ]
 image = "mi-pham-FtZL0r4DZYk-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [MI PHAM on Unsplash](https://unsplash.com/photos/FtZL0r4DZYk)"
 +++
