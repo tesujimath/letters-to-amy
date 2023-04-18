@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "Present tense"
 date = "2022-11-09T06:25:00+13:00"
 description = "Ongoing worship in heaven"
-tags = [ "worship", "desiring God" ]
+tags = [ "worship", "desiring God", "present" ]
 image = "GSFC_20171208_Archive_e001661_orig.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [NASA](https://images.nasa.gov/details-GSFC_20171208_Archive_e001661)"
 +++

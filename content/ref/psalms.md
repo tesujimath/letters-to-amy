@@ -30,6 +30,7 @@ description: "Scripture index"
 | 69:30 | [Thankfulness that glorifies]({{<relref "/post/thankfulness-that-glorifies/index.md" >}}) |
 | 91:14 | [Expectant and not disappointed]({{<relref "/post/expectant-and-not-disappointed/index.md" >}}) |
 | 91:14 | [Rescue]({{<relref "/post/rescue/index.md" >}}) |
+| 118:1,6,14,18-24,27 | [This is the day that the Lord has made]({{<relref "/post/this-is-the-day-that-the-Lord-has-made/index.md" >}}) |
 | 119:9-16 | [In pursuit of wisdom]({{<relref "/post/in-pursuit-of-wisdom/index.md" >}}) |
 | 119:18 | [The shield of faith]({{<relref "/post/the-shield-of-faith/index.md" >}}) |
 | 119:30,32 | [Plain old fear]({{<relref "/post/plain-old-fear/index.md" >}}) |
