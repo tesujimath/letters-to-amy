@@ -32,7 +32,9 @@ description: "Scripture index"
 | 8:28 | [Experiencing grace]({{<relref "/post/experiencing-grace/index.md" >}}) |
 | 8:32 | [The master craftsman]({{<relref "/post/the-master-craftsman/index.md" >}}) |
 | 8:33-34 | [Forgiving yourself]({{<relref "/post/forgiving-yourself/index.md" >}}) |
-| 9:2-3,14-15,21-23 <br/> 10:1 <br/> 11:33,36 | [Uneven blessing]({{<relref "/post/uneven-blessing/index.md" >}}) |
+| 9:2-3,14-15,21-23 <br/> 10:1 | [Uneven blessing]({{<relref "/post/uneven-blessing/index.md" >}}) |
+| 10:8-10 | [The words we speak]({{<relref "/post/the-words-we-speak/index.md" >}}) |
+| 11:33,36 | [Uneven blessing]({{<relref "/post/uneven-blessing/index.md" >}}) |
 | 12:1 | [Personal holiness]({{<relref "/post/personal-holiness/index.md" >}}) |
 | 12:2 | [Ruthless consistency]({{<relref "/post/ruthless-consistency/index.md" >}}) |
 | 13:10 | [The grace-filled life]({{<relref "/post/the-grace-filled-life/index.md" >}}) |
