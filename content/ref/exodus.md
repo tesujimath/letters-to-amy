@@ -10,3 +10,4 @@ description: "Scripture index"
 | 4:11-13 | [Biblical giants]({{<relref "/post/biblical-giants/index.md" >}}) |
 | 34:5-8 | [A melody made with the heart]({{<relref "/post/a-melody-made-with-the-heart/index.md" >}}) |
 | 34:6-7 | [Faithfulness]({{<relref "/post/faithfulness/index.md" >}}) |
+| 34:6-7,14 | [The elephant in the room]({{<relref "/post/the-elephant-in-the-room/index.md" >}}) |

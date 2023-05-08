@@ -20,6 +20,7 @@ description: "Scripture index"
 | 11:28-30 | [The work which brings us rest]({{<relref "/post/the-work-which-brings-us-rest/index.md" >}}) |
 | 12:6-8 | [Black and white?]({{<relref "/post/black-and-white/index.md" >}}) |
 | 12:34-37 | [The words we speak]({{<relref "/post/the-words-we-speak/index.md" >}}) |
+| 13:10-14 | [The elephant in the room]({{<relref "/post/the-elephant-in-the-room/index.md" >}}) |
 | 16:18 | [Denial]({{<relref "/post/denial/index.md" >}}) |
 | 19:8-9 | [Black and white?]({{<relref "/post/black-and-white/index.md" >}}) |
 | 19:30 | [The shield of faith]({{<relref "/post/the-shield-of-faith/index.md" >}}) |
