@@ -6,6 +6,7 @@ description: "Scripture index"
 
 |  |  |
 | --- | --- |
+| 4:1-20 | [The desire of the sower]({{<relref "/post/the-desire-of-the-sower/index.md" >}}) |
 | 11 | [Sacrifice]({{<relref "/post/sacrifice/index.md" >}}) |
 | 11:12-14,20 | [Hard teaching]({{<relref "/post/hard-teaching/index.md" >}}) |
 | 11:23 | [Expectant and not disappointed]({{<relref "/post/expectant-and-not-disappointed/index.md" >}}) |
