@@ -1,8 +1,8 @@
 +++
 author = "Simon Guest"
-title = "Impudence in intercession"
+title = "Impudent intercession"
 date = "2023-05-24T06:15:00+12:00"
-description = "And dispelling the doubt that debilitates"
+description = "Instead of debilitating doubt"
 tags = [ "doubt", "prayer", "trust", "expectation" ]
 image = "tyler-nix-8youKEwX0vY-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Tyler Nix on Unsplash](https://unsplash.com/photos/8youKEwX0vY)"
