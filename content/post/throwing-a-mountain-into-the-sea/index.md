@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "Throwing a mountain into the sea"
 date = "2021-08-04T06:36:00+12:00"
 description = "Without doubt it will be done"
-tags = [ "prayer", "impossible", "trust" ]
+tags = [ "prayer", "impossible", "doubt", "trust" ]
 image = "sulthan-auliya-WLORfDtl7oM-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Sulthan Auliya on Unsplash](https://unsplash.com/photos/WLORfDtl7oM)"
 +++

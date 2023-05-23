@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "The shield of faith"
 date = "2022-07-27T06:24:00+12:00"
 description = "Why so carelessly discarded?"
-tags = [ "faith", "consistency", "faithfulness" ]
+tags = [ "faith", "consistency", "doubt", "faithfulness" ]
 image = "Cap-s_Shield.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [ze_bear on Flickr CC BY-SA 2.0](https://www.flickr.com/photos/ho-fosho/5816817231/)"
 +++
