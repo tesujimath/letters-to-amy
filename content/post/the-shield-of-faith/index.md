@@ -40,7 +40,7 @@ The context of this is the rich young ruler, earnestly seeking but tragically un
 But seek first his kingdom and his righteousness, and all these things will be given to you as well.
 {{< /quote >}}
 
-We may need some help with this. So let us ask our heavenly Father, who loves us beyond imagining.
+We may need some help with this. So let us ask our Heavenly Father, who loves us beyond imagining.
 
 {{< quote source="Psalm 119:18" >}}
 Open my eyes that I may see wonderful things in your law.
