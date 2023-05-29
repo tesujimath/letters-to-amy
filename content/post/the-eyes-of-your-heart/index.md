@@ -22,7 +22,7 @@ This is a prayer. Paul asks for enlightening of the eyes of our heart. We must a
 
 1. Hope. My dictionary defines hope as grounds for believing that something good may happen. It's not wishful thinking, there are actual grounds for believing this. In our context, “something good” is understated, to say the least! May the enlightened eyes of our heart know the best thing that could possibly happen.
 
-2. Our glorious inheritance in the saints. What is this? In v3 Paul writes that the Lord “has blessed us in the heavenly realms with every spiritual blessing in Christ”. Note the tense. Something has already happened! But what of the rest? The prophetic past tense is used throughout scripture where a future event is so certain it is written as if it had already occurred. The fulfillment of our future blessing in the heavenly realms is that certain.
+2. Our glorious inheritance in the saints. What is this? In v3 Paul writes that the Lord “has blessed us in the heavenly realms with every spiritual blessing in Christ”. Note the tense. Something has already happened! But what of the rest? The prophetic past tense is used throughout scripture where a future event is so certain it is written as if it had already occurred. The fulfilment of our future blessing in the heavenly realms is that certain.
 
 3. His incomparably great power for us. This is the same power that raised Christ from the dead. It is not a small thing, and it is at work in us who believe! When we feel overwhelmed or empty, and so aware of our need for the Lord's power and grace, perhaps his mighty strength which raised Christ from the dead will be enough. We must know this!
 

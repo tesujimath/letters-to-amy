@@ -37,7 +37,7 @@ Having the eyes of our hearts enlightened that we may know what is the hope to w
 
 Trust is what David clings to in our psalm. And knowing how long would require less trust.
 
-The second reason is our holiness. We were chosen in Christ before the creation of the world to be holy and blameless in his sight. Our sanctification, our steadily increasing holiness, is a work of the Holy Spirit, but it is also our own most earnest hard work. What better work is there to do in the waiting time, that at the time of fulfillment we may be found to be holy and blameless in his sight?
+The second reason is our holiness. We were chosen in Christ before the creation of the world to be holy and blameless in his sight. Our sanctification, our steadily increasing holiness, is a work of the Holy Spirit, but it is also our own most earnest hard work. What better work is there to do in the waiting time, that at the time of fulfilment we may be found to be holy and blameless in his sight?
 
 Habbakuk also cries out with the same question.
 
@@ -52,6 +52,6 @@ In his particular case, the Lord answers, and praise him for that answer in whic
 that you would not believe if told.”
 {{< /quote >}}
 
-And so it is for us. We would not believe if told the work the Lord is doing in our own waiting time. It is a work of faith, of holiness, and of fulfillment of promises.
+And so it is for us. We would not believe if told the work the Lord is doing in our own waiting time. It is a work of faith, of holiness, and of fulfilment of promises.
 
 Praise the Lord, wonder and be astounded, Amy, for he is doing a work in our lives which we would not believe if told! 🙏

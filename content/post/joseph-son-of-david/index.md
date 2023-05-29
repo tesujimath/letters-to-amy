@@ -17,7 +17,7 @@ Now, have you ever been surprised to notice something afresh in a very familiar 
 And isn't the Bible truly amazing? I am continually finding such freshness, profound truths apparently plainly stated yet previously unnoticed or simply rediscovered. I came across one such only this week, in the oh-so-familiar Nativity story.
 
 {{< quote source="Matthew 1:18-23" >}}
-When his mother Mary had been betrothed to Joseph, before they came together she was found to be with child from the Holy Spirit. And her husband Joseph, being a just man and unwilling to put her to shame, resolved to divorce her quietly. But as he considered these things, behold, an angel of the Lord appeared to him in a dream, saying, “Joseph, son of David, do not fear to take Mary as your wife, for that which is conceived in her is from the Holy Spirit. She will bear a son, and you shall call his name Jesus, for he will save his people from their sins.” All this took place to fulfill what the Lord had spoken by the prophet:
+When his mother Mary had been betrothed to Joseph, before they came together she was found to be with child from the Holy Spirit. And her husband Joseph, being a just man and unwilling to put her to shame, resolved to divorce her quietly. But as he considered these things, behold, an angel of the Lord appeared to him in a dream, saying, “Joseph, son of David, do not fear to take Mary as your wife, for that which is conceived in her is from the Holy Spirit. She will bear a son, and you shall call his name Jesus, for he will save his people from their sins.” All this took place to fulfil what the Lord had spoken by the prophet:
 
 “Behold, the virgin shall conceive and bear a son,
 and they shall call his name Immanuel”

@@ -45,7 +45,7 @@ How then can we receive it when God speaks the impossible? It is in fact a high 
 And so I hold on to this verse, which has kept me going for some years, and was itself given to me in a miraculous way.
 
 {{< quote source="Numbers 23:19" >}}
-God is not a man, that he should lie, nor a son of man, that he should change his mind. Does he speak and then not act? Does he promise and not fulfill?
+God is not a man, that he should lie, nor a son of man, that he should change his mind. Does he speak and then not act? Does he promise and not fulfil?
 {{< /quote >}}
 
 This remains even if the promise is impossible.

@@ -23,7 +23,7 @@ What shall we say then? Are we to continue in sin that grace may abound? By no m
 How then can we learn to walk in newness of life, not under law but under grace? If all those long lists of commandments still apply, how are we not under law? And if not, how can we avoid living in sin? Certainly not by overlooking what Jesus said.
 
 {{< quote source="Matthew 5:17" >}}
-“Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them.”
+“Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfil them.”
 {{< /quote >}}
 
 Just like us, the fledgling church in Galatia was under threat from those preaching works. Let's consider what Paul wrote to them. Here's the key:

@@ -23,14 +23,14 @@ When someone treats me with particular kindness, who am I likely to thank? Too o
 Here's one side of the coin.
 
 {{< quote source="Philippians 2:13" >}}
-For it is God who works in you to will and to act in order to fulfill his good purpose.
+For it is God who works in you to will and to act in order to fulfil his good purpose.
 {{< /quote >}}
 
 {{< quote source="Ephesians 2:10" >}}
 For we are God’s handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.
 {{< /quote >}}
 
-The Lord has plans and purposes, and he works in and through each one of us to fulfill them. He works even in the lives of those who neither honour nor acknowledge him. We know this. Now consider the other side of that coin.
+The Lord has plans and purposes, and he works in and through each one of us to fulfil them. He works even in the lives of those who neither honour nor acknowledge him. We know this. Now consider the other side of that coin.
 
 Recall that the Lord delights in exercising kindness (Jeremiah 9:24)⸺this is one of his good purposes! So when we receive kindness from others, why would we not make that connection and ascribe it to him? To do so makes my soul sing in gratitude to my Saviour.
 

@@ -12,7 +12,7 @@ Dear Amy,
 
 What happens when we walk by faith?
 
-Perhaps the greatest example we have is Abraham. He didn't always get it right, nor did he manage always to trust, as shown by his shabby little misdeed with Hagar. Evidently not super-human then! But the Lord called him again out of that particular failure thirteen years later, out of the absolute mess he had made (“walk before me and be blameless” - Gen 17:1), after he had been waiting for the fulfillment of the Lord's promise to him for 25 years. Twenty-five years!
+Perhaps the greatest example we have is Abraham. He didn't always get it right, nor did he manage always to trust, as shown by his shabby little misdeed with Hagar. Evidently not super-human then! But the Lord called him again out of that particular failure thirteen years later, out of the absolute mess he had made (“walk before me and be blameless” - Gen 17:1), after he had been waiting for the fulfilment of the Lord's promise to him for 25 years. Twenty-five years!
 
 Paul's account in Romans 4 manages to overlook Abraham's shameful failure (oh the grace of God!), and we find this:
 
@@ -30,6 +30,6 @@ Against all hope, Abraham in hope believed and so became the father of many nati
 
 Notice that little word, so. What was the reason Abraham became the father of many nations? Because he believed.
 
-When we walk by faith, God fulfills his plans and purposes in us and through us. There is a causal link. What more motivation could we have than this?
+When we walk by faith, God fulfils his plans and purposes in us and through us. There is a causal link. What more motivation could we have than this?
 
 Keep on walking by faith, Amy! 🙏

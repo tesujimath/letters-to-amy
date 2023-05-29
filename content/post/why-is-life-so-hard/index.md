@@ -12,7 +12,7 @@ Dear Amy,
 
 Why is life so hard?
 
-Consider: the young person, to whom life seems so bleak they turn to self harm to try to anchor to reality; the older person who lives alone, who may go days without speaking with another, having long forgotten what it's like to give and receive a hug; the faithful believer waiting on the Lord for the fulfillment of a promise, praising him in the heart-breaking years of waiting, or the one crying out for healing and enduring debilitating pain in the waiting and the praising; the grief in the death of a child. Why is life quite so very hard?
+Consider: the young person, to whom life seems so bleak they turn to self harm to try to anchor to reality; the older person who lives alone, who may go days without speaking with another, having long forgotten what it's like to give and receive a hug; the faithful believer waiting on the Lord for the fulfilment of a promise, praising him in the heart-breaking years of waiting, or the one crying out for healing and enduring debilitating pain in the waiting and the praising; the grief in the death of a child. Why is life quite so very hard?
 
 Some of this may be a consequence of trying to live apart from the Lord, or simply failing to love one another, but some is not. What of that, then?
 
