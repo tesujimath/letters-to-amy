@@ -4,7 +4,7 @@ title = "Love and holiness"
 date = "2023-05-31T06:15:00+12:00"
 description = "Two sides of the same coin"
 tags = [ "love", "holiness", "worship" ]
-related = [ "/post/relational-authenticity/index.md", "/post/be-holy-for-i-am-holy/index.md", "/post/personal-holiness/index.md" ]
+related = [ "/post/relational-authenticity/index.md", "/post/personal-holiness/index.md", "/post/be-holy-for-i-am-holy/index.md" ]
 image = "kanchanara-7E3QGntO66M-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Kanchanara on Unsplash](https://unsplash.com/photos/7E3QGntO66M)"
 +++
