@@ -33,7 +33,7 @@ After more than 30 years of reading the NIV 1984, I have recently switched to t
 Recall that the Lord's name is his character, his reputation, the essence of who he is and what he is like. And what is that? Moses once asked exactly this, and behold:
 
 {{< quote source="Exodus 34:5-8" >}}
-The LORD descended in the cloud and stood with him there, and proclaimed the name of the LORD. The LORD passed before him and proclaimed, “The LORD, the LORD, a God merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness, keeping steadfast love for thousands, forgiving iniquity and transgression and sin, but who will by no means clear the guilty, visiting the iniquity of the fathers on the children and the children's children, to the third and the fourth generation.” And Moses quickly bowed his head toward the earth and worshipped.
+The LORD descended in the cloud and stood with him there, and proclaimed the name of the LORD. The LORD passed before him and proclaimed, “The LORD, the LORD, a God merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness, keeping steadfast love to the thousandth generation, forgiving iniquity and transgression and sin, but who will by no means clear the guilty, visiting the iniquity of the fathers on the children and the children's children, to the third and the fourth generation.” And Moses quickly bowed his head toward the earth and worshipped.
 {{< /quote >}}
 
 Moses' response is the only one possible⸺a heart-response of worship and adoration, a song to the Creator God of the universe, to the one who loves us, who is our rescuer, our rock and our redeemer.
