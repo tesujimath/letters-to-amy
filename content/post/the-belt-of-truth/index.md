@@ -32,7 +32,7 @@ The Christian's identity is in truth⸺truth in who we are and truth in our stat
 There is no difference ... for all have sinned and fall short of the glory of God, and all are justified freely by his grace through the redemption that came by Christ Jesus.
 {{< /quote >}}
 
-In the spiritual battle, when Satan accuses and we are tempted to despair of who we are, we must hold onto this truth: our heavenly Father already knows the very worst about us, yet still he loves.
+In the spiritual battle, when Satan accuses and we are tempted to despair of who we are, we must hold onto this truth: our Heavenly Father already knows the very worst about us, yet still he loves.
 
 {{< quote source="Romans 5:8" >}}
 God demonstrates his own love for us in this: While we were still sinners, Christ died for us.
