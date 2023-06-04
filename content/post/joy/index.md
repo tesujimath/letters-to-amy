@@ -32,7 +32,7 @@ Finally, brothers and sisters, whatever is true, whatever is noble, whatever is 
 
 What are these things we must think about, exactly? I am grateful to Jim Packer for presenting this so clearly, thus:
 
-{{< quote source="Laid-Back Religion? Chapter 6: Joy" author="J. I. Packer" >}}
+{{< quote source="Laid-Back Religion? Chapter 6: Joy" author="J.I. Packer" >}}
 1. God loves me, infinitely and eternally.
 2. Everything comes to me from God, at least with his permission and always under his protection, to further my eternal good.
 3. My saving knowledge of the Lord Jesus, which will eternally increase, is something supremely worth having.

@@ -11,4 +11,5 @@ description: "Scripture index"
 | 11:1-2 <br/> 12:1 | [A great cloud of witnesses]({{<relref "/post/a-great-cloud-of-witnesses/index.md" >}}) |
 | 12:1 | [Biblical giants]({{<relref "/post/biblical-giants/index.md" >}}) |
 | 12:1-3 | [Running with perseverance]({{<relref "/post/running-with-perseverance/index.md" >}}) |
+| 12:12-14 | [The way to holiness]({{<relref "/post/the-way-to-holiness/index.md" >}}) |
 | 13:8 | [Impossible]({{<relref "/post/impossible/index.md" >}}) |
