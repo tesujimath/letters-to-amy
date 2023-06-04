@@ -4,6 +4,7 @@ title = "The way to holiness"
 date = "2023-06-07T06:15:00+12:00"
 description = "And the question which reveals the way"
 tags = [ "holiness", "consistency" ]
+related = [ "/post/personal-holiness/index.md" ]
 image = "alexander-schimmeck-Aohf8gqa7Zc-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Alexander Schimmeck on Unsplash](https://unsplash.com/photos/Aohf8gqa7Zc)"
 +++
