@@ -9,6 +9,7 @@ description: "Scripture index"
 | 1:1 | [Greetings]({{<relref "/post/greetings/index.md" >}}) |
 | 1:3,13-14 | [A deposit guaranteeing our inheritance]({{<relref "/post/a-deposit-guaranteeing-our-inheritance/index.md" >}}) |
 | 1:3,18-20 | [The eyes of your heart]({{<relref "/post/the-eyes-of-your-heart/index.md" >}}) |
+| 1:3-4 | [The way to holiness]({{<relref "/post/the-way-to-holiness/index.md" >}}) |
 | 1:4,15-18 | [How long, O Lord?]({{<relref "/post/how-long-o-lord/index.md" >}}) |
 | 1:4-5,11-14 | [Predestination]({{<relref "/post/predestination/index.md" >}}) |
 | 1:7-9 | [A mystery revealed]({{<relref "/post/a-mystery-revealed/index.md" >}}) |
