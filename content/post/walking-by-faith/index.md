@@ -5,6 +5,7 @@ date = "2021-06-16T06:52:00+12:00"
 description = "What are the consequences of walking by faith?"
 tags = [ "faith", "waiting" ]
 image = "jimmy-larry-7uvixXrQkfw-unsplash.jpg"
+image_position_list = "50% 80%"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Jimmy Larry on Unsplash](https://unsplash.com/photos/7uvixXrQkfw)"
 +++
 
