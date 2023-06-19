@@ -6,7 +6,7 @@ description = "And the one who is able to untangle it"
 tags = [ "impossible", "waiting", "prayer" ]
 image = "gordian-knot-coin.webp"
 image_position_list = "50% 10%"
-license = "Text by Simon Guest CC BY-NC-ND 4.0, Cameroon 2000 franc coin Mint of Poland 2021"
+license = "Text by Simon Guest CC BY-NC-ND 4.0, Cameroon 2000 franc Gordian Knot Mint of Poland 2021"
 +++
 
 Dear Amy,
