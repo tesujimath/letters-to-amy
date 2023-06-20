@@ -1,8 +1,8 @@
 +++
 author = "Simon Guest"
-title = "The Gordian knot"
+title = "Gordian problems"
 date = "2023-06-21T06:15:00+12:00"
-description = "And the one who is able to untangle it"
+description = "And the one who is able to untangle them"
 tags = [ "impossible", "waiting", "prayer" ]
 image = "gordian-knot-coin.webp"
 image_position_list = "50% 10%"
