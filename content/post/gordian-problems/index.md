@@ -43,4 +43,4 @@ The Lord is so unlike the brutal warlord. With infinite patience and painstaking
 
 Thirdly and finally, let's notice the symmetry in Peter's characterisation: with the Lord one day is as a thousand years, and a thousand years as one day. For sure, some things take such a long time, and we struggle to understand why this would be so. But for others or even for these at just the right time, in a moment, in a twinkling of the eye, the Lord does his work of great power and quite suddenly everything is different. Praise the Lord!
 
-Leave the Gordian problems to the Lord, Amy, and trust that with infinite patience, gentleness, and kindness, he knows what to do! 🙏
+Leave the Gordian problems to the Lord, Amy, and trust that with infinite patience, gentleness and kindness and great power, he knows just what to do! 🙏
