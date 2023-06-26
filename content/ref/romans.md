@@ -12,6 +12,7 @@ description: "Scripture index"
 | 3:22-24 | [Relational authenticity]({{<relref "/post/relational-authenticity/index.md" >}}) |
 | 3:22-24 | [The belt of truth]({{<relref "/post/the-belt-of-truth/index.md" >}}) |
 | 3:22-24 | [The tar pit]({{<relref "/post/the-tar-pit/index.md" >}}) |
+| 3:23 | [From glory to glory]({{<relref "/post/from-glory-to-glory/index.md" >}}) |
 | 4:18,20-21 | [Walking by faith]({{<relref "/post/walking-by-faith/index.md" >}}) |
 | 4:20 | [Expectant and not disappointed]({{<relref "/post/expectant-and-not-disappointed/index.md" >}}) |
 | 5:8 | [Fully known]({{<relref "/post/fully-known/index.md" >}}) |
@@ -24,6 +25,7 @@ description: "Scripture index"
 | 6:18 | [Integrity and uprightness]({{<relref "/post/integrity-and-uprightness/index.md" >}}) |
 | 6:18 | [The rescued life]({{<relref "/post/the-rescued-life/index.md" >}}) |
 | 7:24-25 | [The tar pit]({{<relref "/post/the-tar-pit/index.md" >}}) |
+| 8:1 | [From glory to glory]({{<relref "/post/from-glory-to-glory/index.md" >}}) |
 | 8:1-4,31-39 | [The Pharisaical heart]({{<relref "/post/the-pharisaical-heart/index.md" >}}) |
 | 8:13-14 | [Led by the Spirit]({{<relref "/post/led-by-the-spirit/index.md" >}}) |
 | 8:18-21 | [Unanswered prayer]({{<relref "/post/unanswered-prayer/index.md" >}}) |
