@@ -39,4 +39,4 @@ For in his great wisdom, in the mystery of his marvellous ways, the Lord chooses
 And you show that you are a letter from Christ delivered by us, written not with ink but with the Spirit of the living God, not on tablets of stone but on tablets of human hearts.⁠
 {{< /quote >}}
 
-Know that you are a letter from Christ, Amy, written on the tablet of your heart, a witness before the nations to his great love and mercy and grace and his power to transform into his own likeness! 🙏❤️
+Know that you are a letter from Christ, Amy, written on the tablet of your own heart, a witness before the nations to his great love and mercy and grace and his power to transform into his own likeness! 🙏❤️
