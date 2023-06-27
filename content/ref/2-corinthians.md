@@ -8,6 +8,7 @@ description: "Scripture index"
 | --- | --- |
 | 1:3-4 | [Comfort and healing]({{<relref "/post/comfort-and-healing/index.md" >}}) |
 | 1:3-5 | [The God of all comfort]({{<relref "/post/the-god-of-all-comfort/index.md" >}}) |
+| 3:3,7-18 | [From glory to glory]({{<relref "/post/from-glory-to-glory/index.md" >}}) |
 | 5:7 | [Blinded by seeing ]({{<relref "/post/blinded-by-seeing/index.md" >}}) |
 | 5:17 | [On being vulnerable]({{<relref "/post/on-being-vulnerable/index.md" >}}) |
 | 5:17 | [The belt of truth]({{<relref "/post/the-belt-of-truth/index.md" >}}) |
