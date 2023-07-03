@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "Relational authenticity"
 date = "2022-01-19T06:30:00+13:00"
 description = "In pursuit of the most important thing"
-tags = [ "love", "fruit", "humility" ]
+tags = [ "love", "relationship", "fruit", "humility" ]
 image = "jingming-pan-iYsrkq5qq0Q-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Jingming Pan on Unsplash](https://unsplash.com/photos/iYsrkq5qq0Q)"
 +++
