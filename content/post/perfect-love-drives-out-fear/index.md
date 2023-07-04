@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "Perfect love drives out fear"
 date = "2021-04-14T06:48:00+12:00"
 description = "How does that work?"
-tags = [ "fear", "love" ]
+tags = [ "fear", "relationship", "love" ]
 image = "josue-michel-xCU7nCMNfI8-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Josue Michel on Unsplash](https://unsplash.com/photos/xCU7nCMNfI8)"
 +++

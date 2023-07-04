@@ -7,6 +7,7 @@ description: "Scripture index"
 |  |  |
 | --- | --- |
 | 1:7 | [Greetings]({{<relref "/post/greetings/index.md" >}}) |
+| 1:11-12 | [Reciprocity]({{<relref "/post/reciprocity/index.md" >}}) |
 | 1:17 <br/> 3:22 | [The breastplate of righteousness]({{<relref "/post/the-breastplate-of-righteousness/index.md" >}}) |
 | 3:21-22,27 | [Personal holiness]({{<relref "/post/personal-holiness/index.md" >}}) |
 | 3:22-24 | [Relational authenticity]({{<relref "/post/relational-authenticity/index.md" >}}) |
