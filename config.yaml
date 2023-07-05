@@ -4,7 +4,7 @@ theme: hugo-theme-stack
 paginate: 10
 title: Letters to Amy
 
-googleAnalytics: UA-203439332-1
+googleAnalytics: G-WCKG3YVWFE
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, es, de, nl
