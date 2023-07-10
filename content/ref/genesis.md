@@ -10,7 +10,9 @@ description: "Scripture index"
 | 3:14-15 | [Joseph son of David]({{<relref "/post/joseph-son-of-david/index.md" >}}) |
 | 3:17 | [Uneven blessing]({{<relref "/post/uneven-blessing/index.md" >}}) |
 | 6:5-9 | [Flood]({{<relref "/post/flood/index.md" >}}) |
-| 9:20-21 <br/> 12:10-20 <br/> 16 | [Biblical giants]({{<relref "/post/biblical-giants/index.md" >}}) |
+| 9:20-21 <br/> 12:10-20 | [Biblical giants]({{<relref "/post/biblical-giants/index.md" >}}) |
+| 12:1,7 | [Dwelling in the land]({{<relref "/post/dwelling-in-the-land/index.md" >}}) |
+| 16 | [Biblical giants]({{<relref "/post/biblical-giants/index.md" >}}) |
 | 17:1 | [Flood]({{<relref "/post/flood/index.md" >}}) |
 | 17:1 | [Personal holiness]({{<relref "/post/personal-holiness/index.md" >}}) |
 | 17:1 | [Walking by faith]({{<relref "/post/walking-by-faith/index.md" >}}) |
