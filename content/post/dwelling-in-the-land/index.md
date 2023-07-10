@@ -37,7 +37,7 @@ More was revealed when God spoke to Moses out of the burning bush.
 Then the LORD said, “I have surely seen the affliction of my people who are in Egypt and have heard their cry because of their taskmasters. I know their sufferings, and I have come down to deliver them out of the hand of the Egyptians and to bring them up out of that land to a good and broad land, a land flowing with milk and honey, to the place of the Canaanites, the Hittites, the Amorites, the Perizzites, the Hivites, and the Jebusites.
 {{< /quote >}}
 
-This is “the land” and it was hugely symbolic of the covenant promise of the Lord to Abraham and to his chosen people, the Israelites. To dwell in the land then is to live in the promises of God⸺the promises of the most faithful God to his woefully unfaithful people.
+This was “the land” and it was hugely symbolic of the covenant promise of the Lord to Abraham and to his chosen people, the Israelites. To dwell in the land then is to live in the promises of God⸺the promises of the most faithful God to his woefully unfaithful people.
 
 And “befriend faithfulness”? The Lord himself is faithfulness personified. We befriend faithfulness by honouring him with our own faithfulness, trusting not doubting his promises to us.
 
