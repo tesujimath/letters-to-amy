@@ -23,6 +23,7 @@ description: "Scripture index"
 | 34:5 | [Radiant disciples]({{<relref "/post/radiant-disciples/index.md" >}}) |
 | 34:8 | [Taste and see that the Lord is good]({{<relref "/post/taste-and-see-that-the-lord-is-good/index.md" >}}) |
 | 36:5 | [Faithfulness]({{<relref "/post/faithfulness/index.md" >}}) |
+| 37:3-5 | [Dwelling in the land]({{<relref "/post/dwelling-in-the-land/index.md" >}}) |
 | 37:4 | [Biblical giants]({{<relref "/post/biblical-giants/index.md" >}}) |
 | 37:4 | [How to get what you want]({{<relref "/post/how-to-get-what-you-want/index.md" >}}) |
 | 46:2,6,9-10 | [Tranquility in the soul]({{<relref "/post/tranquility-in-the-soul/index.md" >}}) |
