@@ -7,7 +7,7 @@ tags = [ "grace", "comfort", "healing" ]
 related = [ "/post/the-god-of-all-comfort/index.md" ]
 image = "kat-j-NPmR0RblyhQ-unsplash.jpg"
 image_position_list = "50% 45%"
-license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Kat J on Unsplash](https://unsplash.com/photos/NPmR0RblyhQ)"
+license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Kat J, previously on Unsplash](https://unsplash.com/@katejaracewski/likes)"
 +++
 
 Dear Amy,

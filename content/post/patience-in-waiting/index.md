@@ -5,7 +5,7 @@ date = "2021-11-24T06:25:00+13:00"
 description = "Learning to wait well"
 tags = [ "patience", "waiting", "transformation" ]
 image = "pavlenko-8BNO4HUQYRw-unsplash.jpg"
-license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Михаил Павленко on Unsplash](https://unsplash.com/photos/8BNO4HUQYRw)"
+license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Михаил Павленко, previously on Unsplash](https://unsplash.com/s/photos/%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB-%D0%9F%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BA%D0%BE)"
 +++
 
 Dear Amy,
