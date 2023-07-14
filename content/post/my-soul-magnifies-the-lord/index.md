@@ -27,7 +27,7 @@ This is taken from Mary's song of praise, the Magnificat, her response to her co
 
 Just consider what Mary had gone through. The archangel had appeared to her and told her she was going to be the unmarried mother of the Son of God. On a human level, consider the shame she would face⸺indeed, Joseph had in mind to break the marriage pledge quietly (Matthew 1:19). What was Mary's response to the angel? That humble acceptance and joyful surrender:
 
-{{< quote source="Luke 1:38" >}}
+{{< quote source="Luke 1:38" url="/ref/luke" >}}
 And Mary said, “Behold, I am the servant of the Lord; let it be to me according to your word.”
 {{< /quote >}}
 
@@ -35,7 +35,7 @@ No wonder the angel had said to her, “Do not be afraid, Mary, for you have fou
 
 The Greek word translated _magnify_ is _megalunō_, and is the same word translated _shown_ in the following:
 
-{{< quote source="Luke 1:57-58" >}}
+{{< quote source="Luke 1:57-58" url="/ref/luke" >}}
 Now the time came for Elizabeth to give birth, and she bore a son. And her neighbours and relatives heard that the Lord had shown great mercy to her, and they rejoiced with her.
 {{< /quote >}}
 

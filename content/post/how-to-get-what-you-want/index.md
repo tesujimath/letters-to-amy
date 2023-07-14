@@ -12,7 +12,7 @@ Dear Amy,
 
 What if I told you there was a way to get exactly what you want? That the Spirit would work towards this end, and the Lord himself would make it so? Absolutely guaranteed. Are you interested in that?
 
-{{< quote source="Psalm 37:4" >}}
+{{< quote source="Psalm 37:4" url="/ref/psalms" >}}
 Delight yourself in the LORD and he will give you the desires of your heart.
 {{< /quote >}}
 
@@ -20,13 +20,13 @@ What kind of promise is this? Doesn't it seem too good to be true? Let's unpack 
 
 What does it mean to delight yourself in the Lord? It is no small thing. Let me paraphrase. _Make the Lord the desire of your heart, and he will give you ... the desire of your heart._ Dwell in that for a while. I hope you're not disappointed, because truth be told, it's a phenomenal promise. Jeremiah says the same, just after that verse that everyone quotes.
 
-{{< quote source="Jeremiah 29:13-14a" >}}
+{{< quote source="Jeremiah 29:13-14a" url="/ref/jeremiah" >}}
 “You will seek me and find me when you seek me with all your heart. I will be found by you,” declares the LORD.
 {{< /quote >}}
 
 What does this look like? To seek the Lord with all your heart? To make him your heart's desire? It is surely time-consuming. In fact, it is all-consuming. It is worth waking up early for. It is worth pursuing through the day, and resting in through the night. We cannot afford to be half-hearted in this. David said as much to his own son.
 
-{{< quote source="1 Chronicles 28:9" >}}
+{{< quote source="1 Chronicles 28:9" url="/ref/1-chronicles" >}}
 “And you, my son Solomon, acknowledge the God of your father, and serve him with wholehearted devotion and with a willing mind, for the LORD searches every heart and understands every motive behind the thoughts. If you seek him, he will be found by you;”
 {{< /quote >}}
 

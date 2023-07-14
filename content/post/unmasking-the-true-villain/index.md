@@ -16,7 +16,7 @@ Every Scooby-Doo episode I can remember ends in the same way. The mystery villai
 
 Paul tells a similar tale in his letter to the Ephesians.
 
-{{< quote source="Ephesians 6:12" >}}
+{{< quote source="Ephesians 6:12" url="/ref/ephesians" >}}
 For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms.
 {{< /quote >}}
 
@@ -28,7 +28,7 @@ In the face of hostility, for example, may we respond with gentleness and kindne
 
 Is this asking too much though? How could we possibly live like this? Paul tells us how.
 
-{{< quote source="Ephesians 6:10-11" >}}
+{{< quote source="Ephesians 6:10-11" url="/ref/ephesians" >}}
 Finally, be strong in the Lord and in his mighty power. Put on the full armour of God, so that you can take your stand against the devil's schemes.
 {{< /quote >}}
 

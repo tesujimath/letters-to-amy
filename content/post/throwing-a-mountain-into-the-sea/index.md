@@ -15,7 +15,7 @@ How can we throw a mountain into the sea?
 
 What a ridiculous question! It's clearly impossible. And yet, Jesus said,
 
-{{< quote source="Mark 11:23" >}}
+{{< quote source="Mark 11:23" url="/ref/mark" >}}
 “Truly I tell you, if anyone says to this mountain, ‘Go, throw yourself into the sea,’ and does not doubt in their heart but believes that what they say will happen, it will be done for them.”
 {{< /quote >}}
 
@@ -27,7 +27,7 @@ After so many years, I have learnt that I can trust Jesus absolutely. I'm quite 
 
 Jesus said a similar thing to his disciples at the Last Supper.
 
-{{< quote source="John 14:14" >}}
+{{< quote source="John 14:14" url="/ref/john" >}}
 “You may ask me for anything in my name, and I will do it.”
 {{< /quote >}}
 

@@ -15,7 +15,7 @@ What reason is there to rejoice?
 
 Besides the fact that Jesus is alive and reigning and ruling over the nations with power and authority and compassion and kindness, we find some more reasons in Psalm 118.
 
-{{< quote source="Psalm 118:1, 6, 14, 18, 27a" >}}
+{{< quote source="Psalm 118:1, 6, 14, 18, 27a" url="/ref/psalms" >}}
 Oh give thanks to the LORD, for he is good; for his steadfast love endures forever!
 
 The LORD is on my side; I will not fear. What can man do to me?
@@ -29,13 +29,13 @@ The LORD is God, and he has made his light to shine upon us.
 
 But there's something in particular I want to focus on. Something that enables us to rejoice even though our earthly future is uncertain in regard to ... so many things!
 
-{{< quote source="Psalm 118:24" >}}
+{{< quote source="Psalm 118:24" url="/ref/psalms" >}}
 This is the day that the LORD has made; let us rejoice and be glad in it.
 {{< /quote >}}
 
 Only by living in _this_ day, really living in it, enjoying the goodness and kindness and steadfast love and faithfulness of the Lord in _this_ day, only by this may we really grasp what Jesus meant when he said,
 
-{{< quote source="John 10:10b" >}}
+{{< quote source="John 10:10b" url="/ref/john" >}}
 I came that they may have life and have it abundantly.
 {{< /quote >}}
 
@@ -43,7 +43,7 @@ Only by living in this day, fully living in it, are we able to grasp hold of wha
 
 But there's more. There's a whole other dimension to this day. Let's read that stanza in its entirety⸺remember context!
 
-{{< quote source="Psalm 118:19-24" >}}
+{{< quote source="Psalm 118:19-24" url="/ref/psalms" >}}
 Open to me the gates of righteousness, that I may enter through them and give thanks to the LORD. This is the gate of the LORD; the righteous shall enter through it. I thank you that you have answered me and have become my salvation. The stone that the builders rejected has become the cornerstone. This is the LORD's doing; it is marvelous in our eyes. This is the day that the LORD has made; let us rejoice and be glad in it.
 {{< /quote >}}
 

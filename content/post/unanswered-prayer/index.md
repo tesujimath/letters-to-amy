@@ -12,13 +12,13 @@ Dear Amy,
 
 How can we relate to our Heavenly Father when he leaves our most earnest and desperate prayers unanswered?
 
-{{< quote source="Matthew 7:7, 11" >}}
+{{< quote source="Matthew 7:7, 11" url="/ref/matthew" >}}
 [Jesus said] “Ask and it will be given to you;
 
 ... how much more will your Father in heaven give good gifts to those who ask him!”
 {{< /quote >}}
 
-{{< quote source="John 14:14" >}}
+{{< quote source="John 14:14" url="/ref/john" >}}
 “You may ask me for anything in my name, and I will do it.”
 {{< /quote >}}
 
@@ -48,7 +48,7 @@ There is another way to see this. Unanswered prayer is an _invitation into relat
 
 Our Heavenly Father grieves over his broken world, and the suffering his people bear. Let's sit with him, and grieve also, in the intimacy of his healing presence. And in the meantime,
 
-{{< quote source="Romans 8:18-21" >}}
+{{< quote source="Romans 8:18-21" url="/ref/romans" >}}
 I consider that our present sufferings are not worth comparing with the glory that will be revealed in us. For the creation waits in eager expectation for the children of God to be revealed. For the creation was subjected to frustration, not by its own choice, but by the will of the one who subjected it, in hope that the creation itself will be liberated from its bondage to decay and brought into the freedom and glory of the children of God.
 {{< /quote >}}
 

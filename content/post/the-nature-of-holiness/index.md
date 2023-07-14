@@ -20,13 +20,13 @@ Perhaps we have some idea that it is about purity and being set apart for God, b
 
 My Bible dictionary includes in its definition “moral and ethical wholeness”. We would do well however to consider what the Bible itself has to say. Leviticus Chapter 19 in its entirety is going to help us.
 
-{{< quote source="Leviticus 19:1-4" >}}
+{{< quote source="Leviticus 19:1-4" url="/ref/leviticus" >}}
 And the LORD spoke to Moses, saying, “Speak to all the congregation of the people of Israel and say to them, You shall be holy, for I the LORD your God am holy. Every one of you shall revere his mother and his father, and you shall keep my Sabbaths: I am the LORD your God. Do not turn to idols or make for yourselves any gods of cast metal: I am the LORD your God.”
 {{< /quote >}}
 
 Holiness is very much about what we do and that what we do honours the Lord, his laws, and his precepts. But it is so much more than this, some of which we have seen already.
 
-{{< quote source="Leviticus 19:9-10" >}}
+{{< quote source="Leviticus 19:9-10" url="/ref/leviticus" >}}
 “When you reap the harvest of your land, you shall not reap your field right up to its edge, neither shall you gather the gleanings after your harvest. And you shall not strip your vineyard bare, neither shall you gather the fallen grapes of your vineyard. You shall leave them for the poor and for the sojourner: I am the LORD your God.”
 {{< /quote >}}
 
@@ -34,7 +34,7 @@ Holiness is also about protection and provision for the weak and the vulnerable.
 
 And there's more.
 
-{{< quote source="Leviticus 19:13" >}}
+{{< quote source="Leviticus 19:13" url="/ref/leviticus" >}}
 “You shall not oppress your neighbour or rob him. The wages of a hired worker shall not remain with you all night until the morning.”
 {{< /quote >}}
 
@@ -42,7 +42,7 @@ How interesting. In a chapter on holiness, we find specific instruction that we 
 
 And then we get onto some aspects of holiness which may be somewhat surprising, but nevertheless must be understood.
 
-{{< quote source="Leviticus 19:19" >}}
+{{< quote source="Leviticus 19:19" url="/ref/leviticus" >}}
 “You shall not let your cattle breed with a different kind. You shall not sow your field with two kinds of seed, nor shall you wear a garment of cloth made of two kinds of material.”
 {{< /quote >}}
 
@@ -50,7 +50,7 @@ Oh wow! How arbitrary and irrelevant does this sound to 21st Century ears? And y
 
 The principle here is that God's holy people, called and set apart, must never become compromised by those among whom they live. How easily do we tend towards assimilation into the practices and morality of the day. May it never be so! See how this is underlined with specific examples next.
 
-{{< quote source="Leviticus 19:27-28" >}}
+{{< quote source="Leviticus 19:27-28" url="/ref/leviticus" >}}
 “You shall not round off the hair on your temples or mar the edges of your beard. You shall not make any cuts on your body for the dead or tattoo yourselves: I am the LORD.”
 {{< /quote >}}
 
@@ -58,7 +58,7 @@ These were practices of the Canaanite pagans. As prohibitions they certainly sou
 
 And finally these:
 
-{{< quote source="Leviticus 19:18, 34" >}}
+{{< quote source="Leviticus 19:18, 34" url="/ref/leviticus" >}}
 “You shall not take vengeance or bear a grudge against the sons of your own people, but you shall love your neighbour as yourself: I am the LORD.”
 
 “You shall treat the stranger who sojourns with you as the native among you, and you shall love him as yourself, for you were strangers in the land of Egypt: I am the LORD your God.”
@@ -72,7 +72,7 @@ Doesn't holiness seem to cover so much? My favourite theologian summarises it li
 Christian holiness is a number of things together. It has both outward and inward aspects. Holiness is a matter of both action and motivation, conduct and character, divine grace and human effort, obedience and creativity, submission and initiative, consecration to God and commitment to people, self-discipline and self-giving, righteousness and love.
 {{< /quote >}}
 
-{{< quote source="Leviticus 19:2" >}}
+{{< quote source="Leviticus 19:2" url="/ref/leviticus" >}}
 You shall be holy, for I the LORD your God am holy.
 {{< /quote >}}
 

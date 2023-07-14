@@ -10,7 +10,7 @@ license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Aaron Burden on Unspla
 
 Dear Amy,
 
-{{< quote source="John 8:31-32" >}}
+{{< quote source="John 8:31-32" url="/ref/john" >}}
 Jesus said, “If you hold to my teaching ... then you will know the truth ...”
 {{< /quote >}}
 
@@ -22,7 +22,7 @@ Providentially, the Lord has told me a great deal, all of which is trustworthy a
 
 Notice that Jesus said, “If you hold to my teaching ...”  It is not enough to read. We have to do it, to live and breathe his teaching, habitually and unceasingly. Only then can we really understand, and know the truth.
 
-{{< quote source="John 8:32" >}}
+{{< quote source="John 8:32" url="/ref/john" >}}
 “ ... and the truth will set you free.”
 {{< /quote >}}
 

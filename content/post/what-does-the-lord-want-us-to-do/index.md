@@ -16,7 +16,7 @@ Surely there must be some special work that he's calling us to. Something that w
 
 Jesus was once asked exactly this.
 
-{{< quote source="John 6:28-29" >}}
+{{< quote source="John 6:28-29" url="/ref/john" >}}
 “What must we do to do the works God requires?”  Jesus answered, “The work of God is this: to believe in the one he has sent.”
 {{< /quote >}}
 

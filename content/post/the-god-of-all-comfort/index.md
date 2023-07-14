@@ -14,7 +14,7 @@ What is the nature of the comfort we can receive from God, and how can we receiv
 
 Life can be so hard. We need this comfort. So we need to understand just what it is, and how it works. Paul tells us.
 
-{{< quote source="2 Corinthians 1:3-4" >}}
+{{< quote source="2 Corinthians 1:3-4" url="/ref/2-corinthians" >}}
 Praise be to the God and Father of our Lord Jesus Christ, the Father of compassion and the God of all comfort, who comforts us in all our troubles, so that we can comfort those in any trouble with the comfort we ourselves have received from God.
 {{< /quote >}}
 

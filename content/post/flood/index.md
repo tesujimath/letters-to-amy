@@ -14,25 +14,25 @@ What difference can be made by one holy and blameless life?
 
 A couple of things just came together: the flooding in your village and the recent floods here in Auckland and the surrounding areas. We have been praying about both, and this got me thinking about The Flood, that is, Noah's flood, the introduction to which is simply terrifying.
 
-{{< quote source="Genesis 6:5-7" >}}
+{{< quote source="Genesis 6:5-7" url="/ref/genesis" >}}
 The LORD saw that the wickedness of man was great in the earth, and that every intention of the thoughts of his heart was only evil continually. And the LORD regretted that he had made man on the earth, and it grieved him to his heart. So the LORD said, “I will blot out man whom I have created from the face of the land, man and animals and creeping things and birds of the heavens, for I am sorry that I have made them.”
 {{< /quote >}}
 
 The Lord regretted that he had made man on the earth, and it grieved him to his heart. How he must have wept over that, heartbrokenly. And in more recent times? As we look around at what is going on in this broken world, perhaps we can gain some small insight into how that must have felt. This was not as he had created it.
 
-{{< quote source="Genesis 1:31" >}}
+{{< quote source="Genesis 1:31" url="/ref/genesis" >}}
 And God saw everything that he had made, and behold, it was very good.
 {{< /quote >}}
 
 Something had gone terribly wrong, and the Lord's first instinct in wrath and holiness was to eliminate the evil completely and comprehensively⸺simply terrifying.
 
-{{< quote source="Genesis 6:8" >}}
+{{< quote source="Genesis 6:8" url="/ref/genesis" >}}
 But Noah found favour in the eyes of the LORD.
 {{< /quote >}}
 
 How could this be? Simply as we are told.
 
-{{< quote source="Genesis 6:9" >}}
+{{< quote source="Genesis 6:9" url="/ref/genesis" >}}
 Noah was a righteous man, blameless in his generation.
 {{< /quote >}}
 
@@ -44,7 +44,7 @@ Think on that for a while. It's staggeringly, outrageously, mind-bogglingly extr
 
 As the Lord said to Abraham, so he says to each one of us.
 
-{{< quote source="Genesis 17:1" >}}
+{{< quote source="Genesis 17:1" url="/ref/genesis" >}}
 “I am God Almighty; walk before me, and be blameless.”
 {{< /quote >}}
 

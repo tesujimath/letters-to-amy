@@ -13,7 +13,7 @@ Dear Amy,
 
 Can you think of another aspect of worship which has nothing to do with singing?
 
-{{< quote source="Romans 12:1" >}}
+{{< quote source="Romans 12:1" url="/ref/romans" >}}
 Therefore, I urge you, brothers and sisters, in view of God’s mercy, to offer your bodies as a living sacrifice, holy and pleasing to God⸺this is your spiritual act of worship.
 {{< /quote >}}
 
@@ -21,7 +21,7 @@ Before we get into the act of worship which is personal holiness, let's consider
 
 The _therefore_ links what follows to the entirety of the previous eleven chapters, which is Paul's analysis of the wretched state of humankind without Christ, and of the magnitude and sufficiency of our rescue in Christ, God's free and costly gift of grace to us.
 
-{{< quote source="Romans 3:21-22, 27" >}}
+{{< quote source="Romans 3:21-22, 27" url="/ref/romans" >}}
 But now a righteousness from God, apart from law, has been made known, to which the Law and the Prophets testify. This righteousness from God comes through faith in Jesus Christ to all who believe.
 
 Where, then, is boasting? It is excluded.
@@ -29,13 +29,13 @@ Where, then, is boasting? It is excluded.
 
 My response then to this gift of grace and righteousness must be to live a life of personal holiness. As I live my life, each day facing temptation, and each day surrendering my will to the sanctifying work of the Spirit, I articulate each small victory as an act of worship to my Heavenly Father who loves me and has rescued me from such.
 
-{{< quote source="Romans 6:13-14" >}}
+{{< quote source="Romans 6:13-14" url="/ref/romans" >}}
 ... offer yourselves to God, as those who have been brought from death to life; and offer the parts of your body to him as instruments of righteousness. For sin shall not be your master, because you are not under law, but under grace.
 {{< /quote >}}
 
 We should note that God's call to personal holiness is not to the righteous but to sinners, and we would do well to remember his call to Abraham out of the absolute mess and shame that he found himself in thirteen long years after his shabby act with Hagar. Hear the grace and love in this, right alongside the uncompromising call to holiness. Our Heavenly Father has so much love and such a high expectation for his sons and daughters.
 
-{{< quote source="Genesis 17:1" >}}
+{{< quote source="Genesis 17:1" url="/ref/genesis" >}}
 When Abram was ninety-nine years old, the LORD appeared to him and said, “I am God Almighty; walk before me and be blameless.”
 {{< /quote >}}
 

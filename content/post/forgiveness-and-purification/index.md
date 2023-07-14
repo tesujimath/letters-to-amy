@@ -13,7 +13,7 @@ Dear Amy,
 
 Here's a well loved verse from John's first letter, that we may be in danger of reading too quickly and missing the most important word.
 
-{{< quote source="1 John 1:9" >}}
+{{< quote source="1 John 1:9" url="/ref/1-john" >}}
 If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness.
 {{< /quote >}}
 

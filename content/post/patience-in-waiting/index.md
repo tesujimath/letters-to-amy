@@ -12,7 +12,7 @@ Dear Amy,
 
 How can we grow in patience?
 
-{{< quote source="Galatians 5:22" >}}
+{{< quote source="Galatians 5:22" url="/ref/galatians" >}}
 The fruit of the Spirit is ... patience
 {{< /quote >}}
 
@@ -32,7 +32,7 @@ It helps to consider those who waited before us. Like Moses.
 
 After a miraculous escape from being drowned at birth, Moses had a privileged upbringing, growing up in the royal palace of Egypt, learning leadership and what it meant to rule.  As a gifted and highly capable forty year old, he thought he was ready to lead his people out of slavery. The Lord had other plans! Moses spent the next forty years tending sheep in the wilderness. We can wonder how long it took him to come to terms with that! I'm sure he spent quite some time raging against the apparent pointlessness of his life. But what was the result?
 
-{{< quote source="Numbers 12:3" >}}
+{{< quote source="Numbers 12:3" url="/ref/numbers" >}}
 Now Moses was a very humble man, more humble than anyone else on the face of the earth.
 {{< /quote >}}
 

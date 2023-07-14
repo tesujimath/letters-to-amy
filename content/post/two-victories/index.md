@@ -16,7 +16,7 @@ What was the first Easter victory, and how did that lead to the second?
 
 Two victories?  Yes, really!  The first victory was won on the cross, as Jesus died.
 
-{{< quote source="John 19:30" >}}
+{{< quote source="John 19:30" url="/ref/john" >}}
 Jesus said, “It is finished.” With that, he bowed his head and gave up his spirit.
 {{< /quote >}}
 
@@ -24,7 +24,7 @@ Finished here means completed, fulfilled, accomplished. A triumphant, “I have 
 
 How did this lead to the second? Paul explains exactly how.
 
-{{< quote source="Philippians 2:5-11" >}}
+{{< quote source="Philippians 2:5-11" url="/ref/philippians" >}}
 Your attitude should be the same as that of Christ Jesus:
 
 Who, being in very nature God, did not consider equality with God something to be grasped, but made himself nothing, taking the very nature of a servant, being made in human likeness. And being found in appearance as a man, he humbled himself and became obedient to death⸺even death on a cross! Therefore God exalted him to the highest place and gave him the name that is above every name, that at the name of Jesus every knee should bow, in heaven and on earth and under the earth, and every tongue confess that Jesus Christ is Lord, to the glory of God the Father.
@@ -34,7 +34,7 @@ The how is in the therefore. Jesus made himself obedient even to death on a cros
 
 Just how exalted is Jesus? _Every knee_ should bow, and _every tongue_ confess. Here's John's vision of the end of time:
 
-{{< quote source="Revelation 5:13-14" >}}
+{{< quote source="Revelation 5:13-14" url="/ref/revelation" >}}
 Then I heard every creature in heaven and on earth and under the earth and on the sea, and all that is in them, singing: “To him who sits on the throne and to the Lamb be praise and honour and glory and power, for ever and ever!”
 
 The four living creatures said, “Amen”, and the elders fell down and worshipped.

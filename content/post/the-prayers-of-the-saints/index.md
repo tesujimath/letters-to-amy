@@ -20,13 +20,13 @@ So many prayers are prayed, don't you think? Prayers of compassion, of kindness,
 
 The apostle John gives us a peek into the very throne room of heaven. Look what we find there.
 
-{{< quote source="Revelation 5:6-8" >}}
+{{< quote source="Revelation 5:6-8" url="/ref/revelation" >}}
 And between the throne and the four living creatures and among the elders I saw a Lamb standing, as though it had been slain, with seven horns and with seven eyes, which are the seven spirits of God sent out into all the earth. And he went and took the scroll from the right hand of him who was seated on the throne. And when he had taken the scroll, the four living creatures and the twenty-four elders fell down before the Lamb, each holding a harp, and golden bowls full of incense, which are the prayers of the saints.
 {{< /quote >}}
 
 Here in these golden bowls of incense are the prayers of the saints. Our prayers. That's right, those prayers we pray which please the Lord are kept in golden bowls in the throne room of heaven, held by the twenty-four elders. And then what?
 
-{{< quote source="Revelation 8:1-4" >}}
+{{< quote source="Revelation 8:1-4" url="/ref/revelation" >}}
 When the Lamb opened the seventh seal, there was silence in heaven for about half an hour. Then I saw the seven angels who stand before God, and seven trumpets were given to them. And another angel came and stood at the altar with a golden censer, and he was given much incense to offer with the prayers of all the saints on the golden altar before the throne, and the smoke of the incense, with the prayers of the saints, rose before God from the hand of the angel.
 {{< /quote >}}
 
@@ -34,7 +34,7 @@ These prayers are a fragrant offering to the Lord on the golden altar before his
 
 But that's not the end of the matter. Look what happens next.
 
-{{< quote source="Revelation 8:5" >}}
+{{< quote source="Revelation 8:5" url="/ref/revelation" >}}
 Then the angel took the censer and filled it with fire from the altar and threw it on the earth, and there were peals of thunder, rumblings, flashes of lightning, and an earthquake.
 {{< /quote >}}
 

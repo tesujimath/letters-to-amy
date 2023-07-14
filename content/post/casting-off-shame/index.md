@@ -20,7 +20,7 @@ Previously, David wrote Psalm 3 when he was being pursued by his son Absalom, wh
 
 And yet we read this.
 
-{{< quote source="Psalm 3:3" >}}
+{{< quote source="Psalm 3:3" url="/ref/psalms" >}}
 But you, LORD, are a shield around me, my glory, the One who lifts my head high.
 {{< /quote >}}
 

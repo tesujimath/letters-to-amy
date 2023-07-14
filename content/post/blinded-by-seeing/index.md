@@ -16,7 +16,7 @@ You're surely familiar with the glorious story of Elijah on Mount Carmel, where 
 
 But look what happened next.
 
-{{< quote source="1 Kings 19:2-3" >}}
+{{< quote source="1 Kings 19:2-3" url="/ref/1-kings" >}}
 Then Jezebel sent a messenger to Elijah, saying, “So may the gods do to me and more also, if I do not make your life as the life of one of them by this time tomorrow.” Then he was afraid, and he arose and ran for his life.
 {{< /quote >}}
 
@@ -40,13 +40,13 @@ But what did Elijah do next. He saw. He looked at the so-called real world, and 
 
 Paul writes about the reason for our courage and confidence in the Lord.
 
-{{< quote source="2 Corinthians 5:7" >}}
+{{< quote source="2 Corinthians 5:7" url="/ref/2-corinthians" >}}
 For we walk by faith, not by sight.
 {{< /quote >}}
 
 Walking by sight means looking at the visible world around us as all there is, or at least the most part of it. How this defeats us! It defeated Elijah, that mighty prophet of God, who ran for his life and hid in a cave, where he was rebuked by the Lord (albeit with great tenderness).
 
-{{< quote source="1 Kings 19:9" >}}
+{{< quote source="1 Kings 19:9" url="/ref/1-kings" >}}
 There he came to a cave and lodged in it. And behold, the word of the LORD came to him, and he said to him, “What are you doing here, Elijah?”
 {{< /quote >}}
 

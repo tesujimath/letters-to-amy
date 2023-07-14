@@ -12,7 +12,7 @@ Dear Amy,
 
 How can we know real peace?
 
-{{< quote source="Galatians 5:22" >}}
+{{< quote source="Galatians 5:22" url="/ref/galatians" >}}
 The fruit of the Spirit is ... peace
 {{< /quote >}}
 
@@ -20,7 +20,7 @@ Peace here is the Greek word _eirene_, which corresponds to the Hebrew word shal
 
 Psalm 46 provides insight, and is worth reading in its entirety. The world it describes doesn't seem so very different from our own.
 
-{{< quote source="Psalm 46:2, 6" >}}
+{{< quote source="Psalm 46:2, 6" url="/ref/psalms" >}}
 Mountains fall into the heart of the sea,  
   
 Nations are in uproar, kingdoms fall;

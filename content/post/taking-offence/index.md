@@ -21,7 +21,7 @@ Satan has a field day with this⸺oh how he uses it! What is to be done? Two thi
 1. Recognize it for what it is. Offence-taking is not of the Lord. In these days in which we live perhaps it is one of Satan's most potent weapons to bring division in the world, and even between the people of God.
 2. Live differently. Paul tells us how, and we only just considered this.
 
-{{< quote source="Ephesians 4:1-3" >}}
+{{< quote source="Ephesians 4:1-3" url="/ref/ephesians" >}}
 As a prisoner for the Lord, then, I urge you to live a life worthy of the calling you have received. Be completely humble and gentle; be patient, bearing with one another in love. Make every effort to keep the unity of the Spirit through the bond of peace.
 {{< /quote >}}
 

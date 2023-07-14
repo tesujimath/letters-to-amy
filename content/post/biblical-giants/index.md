@@ -19,7 +19,7 @@ Well, don't be!
 
 Besides being righteous and blameless and the reason humankind survived God's purge of evil by the flood, Noah was just a man, and later got himself drunk and rather embarrassed himself.
 
-{{< quote source="Genesis 9:20-21" >}}
+{{< quote source="Genesis 9:20-21" url="/ref/genesis" >}}
 Noah began to be a man of the soil, and he planted a vineyard. He drank of the wine and became drunk and lay uncovered in his tent.
 {{< /quote >}}
 
@@ -27,19 +27,19 @@ And besides being the one who in hope against all hope believed and so became th
 
 Moses too was a coward.
 
-{{< quote source="Exodus 4:11-13" >}}
+{{< quote source="Exodus 4:11-13" url="/ref/exodus" >}}
 Then the LORD said to him, “Who has made man's mouth? Who makes him mute, or deaf, or seeing, or blind? Is it not I, the LORD? Now therefore go, and I will be with your mouth and teach you what you shall speak.” But [Moses] said, “Oh, my Lord, please send someone else.”
 {{< /quote >}}
 
 And some time later, even having witnessed the Lord's miraculous deliverance of the Israelites from Egypt, Moses' lack of faith caused him to make a heinous mistake at Meribah which was most severely punished by God.
 
-{{< quote source="Numbers 20:12" >}}
+{{< quote source="Numbers 20:12" url="/ref/numbers" >}}
 And the LORD said to Moses and Aaron, “Because you did not believe in me, to uphold me as holy in the eyes of the people of Israel, therefore you shall not bring this assembly into the land that I have given them.”
 {{< /quote >}}
 
 Moses furthermore failed to take responsibility for this failure, and his later account to the Israelites was simply untrue.
 
-{{< quote source="Deuteronomy 3:26" >}}
+{{< quote source="Deuteronomy 3:26" url="/ref/deuteronomy" >}}
 But the LORD was angry with me because of you and would not listen to me.
 {{< /quote >}}
 
@@ -49,7 +49,7 @@ What instead should we notice about these giants of the faith? They were all in 
 
 The writer to the Hebrews makes exactly this point.
 
-{{< quote source="Hebrews 12:1" >}}
+{{< quote source="Hebrews 12:1" url="/ref/hebrews" >}}
 Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight, and sin which clings so closely, and let us run with endurance the race that is set before us.
 {{< /quote >}}
 

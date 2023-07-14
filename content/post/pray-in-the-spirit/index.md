@@ -14,7 +14,7 @@ What is the last piece of the armour of God that is so often overlooked, indeed 
 
 Understanding the Bible is about reading in paragraphs, which are the basic units of expression, things that belong together. Not every Bible translation has the same paragraph breaks, but in both of my preferred translations⸺the NIV 1984 and the ESV⸺the armour of God is described in just one paragraph, which in the NIV ends with this.
 
-{{< quote source="Ephesians 6:18" >}}
+{{< quote source="Ephesians 6:18" url="/ref/ephesians" >}}
 And pray in the Spirit on all occasions with all kinds of prayers and requests. With this in mind, be alert and always keep on praying for all the saints.
 {{< /quote >}}
 
@@ -24,7 +24,7 @@ Firstly, what does “in the Spirit” even mean? There seems to be much confusi
 
 What Paul writes in Romans is closely related.
 
-{{< quote source="Romans 8:26" >}}
+{{< quote source="Romans 8:26" url="/ref/romans" >}}
 In the same way, the Spirit helps us in our weakness. We do not know what we ought to pray for, but the Spirit himself intercedes for us with groans that words cannot express.
 {{< /quote >}}
 

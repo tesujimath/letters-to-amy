@@ -12,7 +12,7 @@ Dear Amy,
 
 How is the helmet of salvation a misnomer?
 
-{{< quote source="Ephesians 6:13, 17a" >}}
+{{< quote source="Ephesians 6:13, 17a" url="/ref/ephesians" >}}
 Put on the full armour of God, so that when the day of evil comes, you may be able to stand your ground, and after you have done everything, to stand.
 
 Take the helmet of salvation ...
@@ -22,7 +22,7 @@ What actually is this helmet of salvation that Paul tells us to put on? It can't
 
 The answer is found in a similar exhortation Paul writes to the Thessalonians.
 
-{{< quote source="1 Thessalonians 5:8" >}}
+{{< quote source="1 Thessalonians 5:8" url="/ref/1-thessalonians" >}}
 But since we belong to the day, let us be self-controlled, putting on faith and love as a breastplate, and the hope of salvation as a helmet.
 {{< /quote >}}
 
@@ -32,13 +32,13 @@ But in the case of salvation, what is there still to hope for? Don't we already 
 
 In the meantime, the process by which we receive this salvation is ongoing and joyous.
 
-{{< quote source="1 Peter 1:8-9" >}}
+{{< quote source="1 Peter 1:8-9" url="/ref/1-peter" >}}
 Though you have not seen [Jesus], you love him; and even though you do not see him now, you believe in him and are filled with an inexpressible and glorious joy, for you are receiving the goal of your faith, the salvation of your souls.
 {{< /quote >}}
 
 Note the present continuous tense here. We _are receiving_ the goal of our faith, which is our salvation. The process is ongoing and will last for all of our earthly lives, but it will eventually come to an end, as recounted in John's vision of the end of days.
 
-{{< quote source="Revelation 12:10" >}}
+{{< quote source="Revelation 12:10" url="/ref/revelation" >}}
 Then I heard a loud voice in heaven say: “Now have come the salvation and the power and the kingdom of our God, and the authority of his Christ. For the accuser of our brothers and sisters, who accuses them before our God day and night, has been hurled down.
 {{< /quote >}}
 

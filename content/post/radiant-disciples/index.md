@@ -12,13 +12,13 @@ Dear Amy,
 
 What is it about those who love the Lord with all of their heart, soul, mind and strength which is so profoundly attractive?
 
-{{< quote source="Psalm 34:5" >}}
+{{< quote source="Psalm 34:5" url="/ref/psalms" >}}
 Those who look to him are radiant; their faces are never covered with shame.
 {{< /quote >}}
 
 When John had a vision on the island of Patmos of the risen Lord Jesus, he tried to describe the indescribable for us, concluding:
 
-{{< quote source="Revelation 1:16" >}}
+{{< quote source="Revelation 1:16" url="/ref/revelation" >}}
 His face was like the sun shining in all its brilliance.
 {{< /quote >}}
 

@@ -16,7 +16,7 @@ Knowing that our God is the God of all comfort and healing, how can we minister 
 
 It is hard to write about such things when grief and loss are present and quite so raw. But it is precisely at such a time that we must engage with the Lord, and seek to understand, if he is the God of all comfort and healing, which he is, how is that outworked at such a time?
 
-{{< quote source="2 Corinthians 1:3-4" >}}
+{{< quote source="2 Corinthians 1:3-4" url="/ref/2-corinthians" >}}
 Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort, who comforts us in all our affliction, so that we may be able to comfort those who are in any affliction, with the comfort with which we ourselves are comforted by God.
 {{< /quote >}}
 
@@ -32,7 +32,7 @@ So what does it look like, to minister Jesus to the brokenhearted? It looks like
 
 Let us remind ourselves why we praise him.
 
-{{< quote source="Psalm 147:1, 3" >}}
+{{< quote source="Psalm 147:1, 3" url="/ref/psalms" >}}
 Praise the LORD! For it is good to sing praises to our God; for he is beautiful, and a song of praise is fitting.
 
 He heals the brokenhearted and binds up their wounds.

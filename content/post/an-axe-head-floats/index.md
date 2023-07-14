@@ -12,7 +12,7 @@ Dear Amy,
 
 How can a floating axe-head provide insight into the Father-heart of God?
 
-{{< quote source="2 Kings 6:4-7" >}}
+{{< quote source="2 Kings 6:4-7" url="/ref/2-kings" >}}
 [Elisha and his servants and the company of the prophets] went to the Jordan and began to cut down trees [to build a place for them to live]. As one of them was cutting down a tree, the iron axe-head fell into the water. “Oh, my lord,” he cried out, “it was borrowed!”
 
 The man of God asked, “Where did it fall?” When he showed him the place, Elisha cut a stick and threw it there, and made the iron float. “Lift it out,” he said. Then the man reached out his hand and took it.

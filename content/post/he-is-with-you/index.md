@@ -24,7 +24,7 @@ I think it's this: _You are with me_ (v4). That's the heart of the psalm, the re
 
 Let's consider the rest of that verse.
 
-{{< quote source="Psalm 23:4" >}}
+{{< quote source="Psalm 23:4" url="/ref/psalms" >}}
 Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me; your rod and your staff, they comfort me.
 {{< /quote >}}
 

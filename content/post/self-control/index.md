@@ -12,13 +12,13 @@ Dear Amy,
 
 How can we travel in time, and how could that help our self-control?
 
-{{< quote source="Galatians 5:22-23" >}}
+{{< quote source="Galatians 5:22-23" url="/ref/galatians" >}}
 The fruit of the Spirit is ... self-control.
 {{< /quote >}}
 
 In fact it's easy to travel in time, in our imagination. There are two vital destinations that can help us grow in self-control, especially in the face of temptation. But first, take note of this.
 
-{{< quote source="1 Corinthians 10:13" >}}
+{{< quote source="1 Corinthians 10:13" url="/ref/1-corinthians" >}}
 God is faithful; he will not let you be tempted beyond what you can bear. But when you are tempted, he will also provide a way out so that you can stand up under it.
 {{< /quote >}}
 
@@ -28,7 +28,7 @@ Our first destination in time is just a few minutes into the future. Let us imag
 
 Our second destination is a little further, at the end of our lives. Let us imagine being welcomed into heaven by our Lord. What is it that I want to hear on that day? I will live my life to hear him say this.
 
-{{< quote source="Matthew 25:23" >}}
+{{< quote source="Matthew 25:23" url="/ref/matthew" >}}
 “Well done, good and faithful servant!”
 {{< /quote >}}
 

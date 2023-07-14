@@ -13,13 +13,13 @@ Dear Amy,
 
 What is the desire of the sower?
 
-{{< quote source="Luke 8:4-8" >}}
+{{< quote source="Luke 8:4-8" url="/ref/luke" >}}
 And when a great crowd was gathering and people from town after town came to him, [Jesus] said in a parable, “A sower went out to sow his seed. And as he sowed, some fell along the path and was trampled underfoot, and the birds of the air devoured it. And some fell on the rock, and as it grew up, it withered away, because it had no moisture. And some fell among thorns, and the thorns grew up with it and choked it. And some fell into good soil and grew and yielded a hundredfold.” As he said these things, he called out, “He who has ears to hear, let him hear.”
 {{< /quote >}}
 
 In all three synoptic gospels where Jesus refers to the prophecy from Isaiah 6:9-10 it is in the context of the parable of the sower (Matthew 13:1-23, Mark 4:1-20, Luke 8:4-15). Let's ponder that.
 
-{{< quote source="Luke 8:9-10" >}}
+{{< quote source="Luke 8:9-10" url="/ref/luke" >}}
 And when his disciples asked him what this parable meant, he said, “To you it has been given to know the secrets of the kingdom of God, but for others they are in parables, so that ‘seeing they may not see, and hearing they may not understand.’
 {{< /quote >}}
 
@@ -31,13 +31,13 @@ And consider Jesus' urgent cry, his most impassioned invitation: “He who has e
 
 So, what is the desire of the sower? And why is the message of salvation wrapped up in parables, shrouded in mystery? Jeremiah has a clue for us.
 
-{{< quote source="Jeremiah 29:13-14a" >}}
+{{< quote source="Jeremiah 29:13-14a" url="/ref/jeremiah" >}}
 You will seek me and find me, when you seek me with all your heart. I will be found by you, declares the LORD ...
 {{< /quote >}}
 
 Jesus underlines exactly this in the Sermon on the Mount.
 
-{{< quote source="Matthew 7:7-8" >}}
+{{< quote source="Matthew 7:7-8" url="/ref/matthew" >}}
 Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you. For everyone who asks receives, and the one who seeks finds, and to the one who knocks it will be opened.
 {{< /quote >}}
 

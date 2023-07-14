@@ -14,7 +14,7 @@ What kind of provision can we expect to receive from the Lord?
 
 There is an interesting passage in Philippians 4:10-20 which addresses this, with the most interesting part in my mind being the reciprocity. But even before we get to provision we have to consider contentment.
 
-{{< quote source="Philippians 4:11b-12" >}}
+{{< quote source="Philippians 4:11b-12" url="/ref/philippians" >}}
 ... for I have learned in whatever situation I am to be content. I know how to be brought low, and I know how to abound. In any and every circumstance, I have learned the secret of facing plenty and hunger, abundance and need.
 {{< /quote >}}
 
@@ -24,7 +24,7 @@ Firstly, Paul had learned to be content whatever the situation through his joy a
 
 And secondly, he was so aware of the Lord's strength, and the sufficiency of that strength for all he was facing.
 
-{{< quote source="Philippians 4:13" >}}
+{{< quote source="Philippians 4:13" url="/ref/philippians" >}}
 I can do all things through him who strengthens me.
 {{< /quote >}}
 
@@ -32,13 +32,13 @@ Here was a faithful servant of the Lord pouring himself out, and because of this
 
 But there's more, and here's where we gain some insight into the provision of God.
 
-{{< quote source="Philippians 4:15-18" >}}
+{{< quote source="Philippians 4:15-18" url="/ref/philippians" >}}
 And you Philippians yourselves know that in the beginning of the gospel, when I left Macedonia, no church entered into partnership with me in giving and receiving, except you only. Even in Thessalonica you sent me help for my needs once and again. Not that I seek the gift, but I seek the fruit that increases to your credit. I have received full payment, and more. I am well supplied, having received from Epaphroditus the gifts you sent, a fragrant offering, a sacrifice acceptable and pleasing to God.
 {{< /quote >}}
 
 These Philippians were supporting Paul in his ministry⸺the Lord's provision for Paul⸺not out of what they could spare, but out of what they could not (“a sacrifice acceptable and pleasing to God”). Notice that this was fruit that increased to their credit, and that this left them in need themselves, which is precisely why Paul continued:
 
-{{< quote source="Philippians 4:19" >}}
+{{< quote source="Philippians 4:19" url="/ref/philippians" >}}
 And my God will supply every need of yours according to his riches in glory in Christ Jesus.
 {{< /quote >}}
 

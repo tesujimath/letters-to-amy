@@ -17,13 +17,13 @@ Can sorrow ever be a good thing?
 
 What of this, that Paul writes to the Corinthians?
 
-{{< quote source="2 Corinthians 7:8" >}}
+{{< quote source="2 Corinthians 7:8" url="/ref/2-corinthians" >}}
 Even if I caused you sorrow by my letter, I do not regret it.
 {{< /quote >}}
 
 Was Paul somehow pleased with himself because he stuck it to those wretched Corinthians in his first letter? By no means!
 
-{{< quote source="2 Corinthians 7:9" >}}
+{{< quote source="2 Corinthians 7:9" url="/ref/2-corinthians" >}}
 Yet now I am happy, not because you were made sorry, but because your sorrow led you to repentance. For you became sorrowful as God intended and so were not harmed in any way by us.
 {{< /quote >}}
 
@@ -33,7 +33,7 @@ When I weep over the shame and failure in my life and cry out to the Lord, this 
 
 But we must beware. There is another sorrow which leads to death.
 
-{{< quote source="2 Corinthians 7:10" >}}
+{{< quote source="2 Corinthians 7:10" url="/ref/2-corinthians" >}}
 Godly sorrow brings repentance that leads to salvation and leaves no regret, but worldly sorrow brings death.
 {{< /quote >}}
 

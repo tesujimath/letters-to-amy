@@ -16,13 +16,13 @@ Life is full of frustrations and disappointments. Even for the Christian seeking
 
 Paul wrote to the Romans this oft-quoted verse:
 
-{{< quote source="Romans 8:28" >}}
+{{< quote source="Romans 8:28" url="/ref/romans" >}}
 And we know that in all things God works for the good of those who love him, who have been called according to his purpose.
 {{< /quote >}}
 
 Let's consider that in the context of Solomon's wisdom:
 
-{{< quote source="Proverbs 16:9" >}}
+{{< quote source="Proverbs 16:9" url="/ref/proverbs" >}}
 In his heart a man plans his course, but the LORD determines his steps.
 {{< /quote >}}
 

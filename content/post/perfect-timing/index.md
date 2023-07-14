@@ -16,7 +16,7 @@ Some think it looks like that scene at Helm's Deep, where Aragorn, Legolas and G
 
 But what if that doesn't happen? Consider this.
 
-{{< quote source="John 11:1, 3, 6, 17, 21" >}}
+{{< quote source="John 11:1, 3, 6, 17, 21" url="/ref/john" >}}
 Now a man named Lazarus was sick. He was from Bethany, the village of Mary and her sister Martha.
 
 So the sisters sent word to Jesus, “Lord, the one you love is sick.”
@@ -32,7 +32,7 @@ Imagine for a moment you don't know what happens next⸺in our own lives that is
 
 But what it looks like and what it actually is are poles apart, here and so often in our own lives. What have we missed? Here's what.
 
-{{< quote source="John 11:5-6" >}}
+{{< quote source="John 11:5-6" url="/ref/john" >}}
 Now Jesus loved Martha and her sister and Lazarus. So when he heard that Lazarus was sick, he stayed where he was two more days.
 {{< /quote >}}
 

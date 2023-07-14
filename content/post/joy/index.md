@@ -12,7 +12,7 @@ Dear Amy,
 
 How can we choose joy?
 
-{{< quote source="Galatians 5:22" >}}
+{{< quote source="Galatians 5:22" url="/ref/galatians" >}}
 The fruit of the Spirit is ... joy
 {{< /quote >}}
 
@@ -20,13 +20,13 @@ Isn't joy something that from time to time lands on us, thrills our heart, and l
 
 There's a clue in Paul's command (a command, no less!) to the Philippians.
 
-{{< quote source="Philippians 4:4" >}}
+{{< quote source="Philippians 4:4" url="/ref/philippians" >}}
 Rejoice in the Lord always. I will say it again: Rejoice!
 {{< /quote >}}
 
 He says it again because it is of such great importance. We must understand this! But how can we rejoice when life is hard, and sorrow and pain feature so prominently in our world and in our lives? Paul tells us almost immediately.
 
-{{< quote source="Philippians 4:8" >}}
+{{< quote source="Philippians 4:8" url="/ref/philippians" >}}
 Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable⸺if anything is excellent or praiseworthy⸺think about such things.
 {{< /quote >}}
 

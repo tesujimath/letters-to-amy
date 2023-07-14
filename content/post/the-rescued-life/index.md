@@ -19,17 +19,17 @@ Then I found myself saying, “every day feels like a bonus now.” And so it is
 
 How can we live as those rescued? We need to understand what has changed, and so experience each waking moment as a bonus.
 
-{{< quote source="1 Corinthians 6:19-20" >}}
+{{< quote source="1 Corinthians 6:19-20" url="/ref/1-corinthians" >}}
 You are not your own; you were bought at a price.
 {{< /quote >}}
 
-{{< quote source="Romans 6:18" >}}
+{{< quote source="Romans 6:18" url="/ref/romans" >}}
 You have been set free from sin and have become slaves to righteousness.
 {{< /quote >}}
 
 The rescue changes everything! Recognizing that we now belong to the one who rescued us and our lives are no longer our own, may we surrender joyfully to the Holy Spirit, live as slaves to righteousness, and know the complete life-transformation that brings.
 
-{{< quote source="Galatians 5:22-25" >}}
+{{< quote source="Galatians 5:22-25" url="/ref/galatians" >}}
 The fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness and self-control. Against such things there is no law. Those who belong to Christ Jesus have crucified the sinful nature with its passions and desires. Since we live by the Spirit, let us keep in step with the Spirit.
 {{< /quote >}}
 

@@ -18,7 +18,7 @@ Jacob was a man without integrity. Even his name means “he cheats”. He manip
 
 After all this what then happened?
 
-{{< quote source="Genesis 35:9-12" >}}
+{{< quote source="Genesis 35:9-12" url="/ref/genesis" >}}
 God appeared to Jacob again, when he came from Paddan-aram, and blessed him. And God said to him, “Your name is Jacob; no longer shall your name be called Jacob, but Israel shall be your name.” So he called his name Israel. And God said to him, “I am God Almighty: be fruitful and multiply. A nation and a company of nations shall come from you, and kings shall come from your own body. The land that I gave to Abraham and Isaac I will give to you, and I will give the land to your offspring after you.”
 {{< /quote >}}
 
@@ -26,7 +26,7 @@ Isn't this simply astonishing? The Lord's covenant promise to Abraham, that man 
 
 Here's the key to understanding this.
 
-{{< quote source="1 Corinthians 1:27-31" >}}
+{{< quote source="1 Corinthians 1:27-31" url="/ref/1-corinthians" >}}
 But God chose what is foolish in the world to shame the wise; God chose what is weak in the world to shame the strong; God chose what is low and despised in the world, even things that are not, to bring to nothing things that are, so that no human being might boast in the presence of God. And because of him you are in Christ Jesus, who became to us wisdom from God, righteousness and sanctification and redemption, so that, as it is written, “Let the one who boasts, boast in the Lord.”
 {{< /quote >}}
 

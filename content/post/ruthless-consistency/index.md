@@ -14,7 +14,7 @@ What else follows from ruthless consistency?
 
 We already saw that ruthless consistency is the enabler for engaging our whole mind in faith, but there's more to be found along this path, much more. By bringing our intellect into alignment with the eternal truths of the Lord, our mind is renewed, so much so, as if it were previously firing on only a few of the available cylinders. Paul writes about this to the Romans.
 
-{{< quote source="Romans 12:2" >}}
+{{< quote source="Romans 12:2" url="/ref/romans" >}}
 Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will is⸺his good, pleasing and perfect will.
 {{< /quote >}}
 

@@ -14,7 +14,7 @@ What does it mean to receive the kingdom of God like a little child?
 
 What a vital question!  Jesus himself said:
 
-{{< quote source="Luke 18:17" >}}
+{{< quote source="Luke 18:17" url="/ref/luke" >}}
 “Truly I tell you, anyone who will not receive the kingdom of God like a little child will never enter it.”
 {{< /quote >}}
 

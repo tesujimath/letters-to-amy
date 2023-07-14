@@ -16,7 +16,7 @@ We have many examples of God speaking something impossible. Why does he do that?
 
 Joshua was told to march the Israelite army around the walls of Jericho for seven days, and the walls would collapse, but even before he was so instructed, we find this.
 
-{{< quote source="Joshua 6:2" >}}
+{{< quote source="Joshua 6:2" url="/ref/joshua" >}}
 The LORD said to Joshua, “See, I have delivered Jericho into your hands, along with its king and its fighting men.”
 {{< /quote >}}
 
@@ -26,11 +26,11 @@ Arguably Abraham had it even harder. He had to wait on an impossible promise, fo
 
 There are other examples in the Bible of God speaking the impossible. But here's the thing: _he is still doing it today._
 
-{{< quote source="Malachi 3:6a" >}}
+{{< quote source="Malachi 3:6a" url="/ref/malachi" >}}
 “I the LORD do not change.”
 {{< /quote >}}
 
-{{< quote source="Hebrews 13:8" >}}
+{{< quote source="Hebrews 13:8" url="/ref/hebrews" >}}
 Jesus Christ is the same yesterday and today and forever.
 {{< /quote >}}
 
@@ -44,13 +44,13 @@ How then can we receive it when God speaks the impossible? It is in fact a high 
 
 And so I hold on to this verse, which has kept me going for some years, and was itself given to me in a miraculous way.
 
-{{< quote source="Numbers 23:19" >}}
+{{< quote source="Numbers 23:19" url="/ref/numbers" >}}
 God is not a man, that he should lie, nor a son of man, that he should change his mind. Does he speak and then not act? Does he promise and not fulfil?
 {{< /quote >}}
 
 This remains even if the promise is impossible.
 
-{{< quote source="Jeremiah 32:26-27" >}}
+{{< quote source="Jeremiah 32:26-27" url="/ref/jeremiah" >}}
 Then the word of the LORD came to Jeremiah: “I am the LORD, the God of all mankind. Is anything too hard for me?”
 {{< /quote >}}
 

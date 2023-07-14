@@ -14,7 +14,7 @@ We have a long race to run. How will we not grow weary and lose heart?
 
 The writer to the Hebrews tells us exactly how.
 
-{{< quote source="Hebrews 12:1-3" >}}
+{{< quote source="Hebrews 12:1-3" url="/ref/hebrews" >}}
 Therefore, since we are surrounded by such a great cloud of witnesses, let us throw off everything that hinders and the sin that so easily entangles, and let us run with perseverance the race marked out for us. Let us fix our eyes on Jesus, the author and perfecter of our faith, who for the joy set before him endured the cross, scorning its shame, and sat down at the right hand of the throne of God. Consider him who endured such opposition from sinful men, so that you will not grow weary and lose heart.
 {{< /quote >}}
 

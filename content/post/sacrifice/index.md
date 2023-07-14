@@ -19,13 +19,13 @@ I have been reading Mark's account of the last days of Jesus' life, from the tri
 
 The turning point is signalled when Jesus is before the high priest, being interrogated. Being accused.
 
-{{< quote source="Mark 14:61" >}}
+{{< quote source="Mark 14:61" url="/ref/mark" >}}
 But Jesus remained silent and gave no answer.
 {{< /quote >}}
 
 Haven't you wondered about that? In fact Mark records here only one statement from Jesus.
 
-{{< quote source="Mark 14:61-62" >}}
+{{< quote source="Mark 14:61-62" url="/ref/mark" >}}
 Again the high priest asked him, “Are you the Christ, the Son of the Blessed One?”
 
 “I am,” said Jesus. “And you will see the Son of Man sitting at the right hand of the Mighty One and coming on the clouds of heaven.”
@@ -35,7 +35,7 @@ Mark records Jesus speaking only once more, confirming Pilate's description of h
 
 And this is the turning point, over which I have been weeping. After confirming that he is indeed the Lord of all creation, from here on Jesus is no longer the one who does anything at all. Having given up all the power and authority which are his by right, he is now simply one who is done to. He makes himself nothing but the object of others' actions, completely and absolutely surrendered to their will, to the Father's will, like a lamb to the slaughter. And we read a factual, brutal account of what was done to him, culminating in this.
 
-{{< quote source="Mark 15:22, 24" >}}
+{{< quote source="Mark 15:22, 24" url="/ref/mark" >}}
 They brought Jesus to the place called Golgotha (which means “the place of the skull”).
 
 And they crucified him.
@@ -43,7 +43,7 @@ And they crucified him.
 
 The Lord of all creation, humiliated. Pierced. Crushed. Extinguished. The object of God's wrath. But let us be clear about what was happening. Just before he died, Jesus cried out in anguish:
 
-{{< quote source="Mark 15:34" >}}
+{{< quote source="Mark 15:34" url="/ref/mark" >}}
 “My God, my God, why have you forsaken me?”
 {{< /quote >}}
 

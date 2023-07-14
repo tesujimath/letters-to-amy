@@ -14,7 +14,7 @@ What ought to occupy our thinking at the beginning of a new year?
 
 There are several possible answers to that question. Here's mine.
 
-{{< quote source="Lamentations 3:21-26" >}}
+{{< quote source="Lamentations 3:21-26" url="/ref/lamentations" >}}
 But this I call to mind, and therefore I have hope:
 
 The steadfast love of the LORD never ceases; his mercies never come to an end; they are new every morning; great is your faithfulness.
@@ -28,7 +28,7 @@ These few verses are a shaft of light in the book of Lamentations which otherwis
 
 Worst of all, this was the Lord's judgment on his own people, his chosen ones, for their ongoing waywardness and apostasy.
 
-{{< quote source="Lamentations 1:3, 5, 8, 12" >}}
+{{< quote source="Lamentations 1:3, 5, 8, 12" url="/ref/lamentations" >}}
 Judah has gone into exile because of affliction
 and hard servitude; ... because the LORD has afflicted her for the multitude of her transgressions;
 
@@ -43,11 +43,11 @@ We should tremble as we read, and then repent and expel every last sin from our 
 
 But marvel that it is in the midst of this tribulation that the writer expresses hope in the steadfast love and faithfulness of the Lord. Even in the judgment there is mercy.
 
-{{< quote source="Lamentations 3:31-33" >}}
+{{< quote source="Lamentations 3:31-33" url="/ref/lamentations" >}}
 For the Lord will not cast off forever, but, though he cause grief, he will have compassion according to the abundance of his steadfast love; for he does not afflict from his heart or grieve the children of men.
 {{< /quote >}}
 
-{{< quote source="Malachi 3:6-7" >}}
+{{< quote source="Malachi 3:6-7" url="/ref/malachi" >}}
 For I the LORD do not change; therefore you, O children of Jacob, are not consumed. From the days of your fathers you have turned aside from my statutes and have not kept them. Return to me, and I will return to you, says the LORD of hosts.
 {{< /quote >}}
 

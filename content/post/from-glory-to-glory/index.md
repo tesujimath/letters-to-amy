@@ -13,7 +13,7 @@ Dear Amy,
 
 How can those made in the image of God be transformed into his image? Isn't that a bit, well, circular?
 
-{{< quote source="2 Corinthians 3:18" >}}
+{{< quote source="2 Corinthians 3:18" url="/ref/2-corinthians" >}}
 And we all, with unveiled face, reflecting the glory of the Lord, are being transformed into the same image from one degree of glory to another. For this comes from the Lord who is the Spirit.
 {{< /quote >}}
 
@@ -23,7 +23,7 @@ Our hope in the new covenant is in the ministry of the Spirit and the ministry o
 
 Now let's follow Paul's reasoning.
 
-{{< quote source="2 Corinthians 3:12-17" >}}
+{{< quote source="2 Corinthians 3:12-17" url="/ref/2-corinthians" >}}
 Since we have such a hope, we are very bold, not like Moses, who would put a veil over his face so that the Israelites might not gaze at the outcome of what was being brought to an end. But their minds were hardened. For to this day, when they read the old covenant, that same veil remains unlifted, because only through Christ is it taken away. Yes, to this day whenever Moses is read a veil lies over their hearts. But when one turns to the Lord, the veil is removed. Now the Lord is the Spirit, and where the Spirit of the Lord is, there is freedom.
 {{< /quote >}}
 
@@ -35,7 +35,7 @@ And so we, the rescued ones, beloved of God, are being transformed from one degr
 
 For in his great wisdom, in the mystery of his marvellous ways, the Lord chooses to involve us in that transformation. It comes when we surrender our will to the Holy Spirit, and when we do, how it comes! Look at the lovely way that Paul describes those who are being transformed.
 
-{{< quote source="2 Corinthians 3:3" >}}
+{{< quote source="2 Corinthians 3:3" url="/ref/2-corinthians" >}}
 And you show that you are a letter from Christ delivered by us, written not with ink but with the Spirit of the living God, not on tablets of stone but on tablets of human hearts.⁠
 {{< /quote >}}
 

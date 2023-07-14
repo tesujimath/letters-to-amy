@@ -14,7 +14,7 @@ How can we obey a command if we don't know what it means?
 
 Obviously we can't, it's a rhetorical question. What of this then?
 
-{{< quote source="Psalm 34:8" >}}
+{{< quote source="Psalm 34:8" url="/ref/psalms" >}}
 Taste and see that the LORD is good.
 {{< /quote >}}
 

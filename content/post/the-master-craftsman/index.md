@@ -18,7 +18,7 @@ Many leave this question unstated, and yet it remains in their subconscious, in 
 
 We already considered this.
 
-{{< quote source="Jude v24-25" >}}
+{{< quote source="Jude v24-25" url="/ref/jude" >}}
 To him who is able to keep you from falling and to present you before his glorious presence without fault and with exceeding joy⸺to the only God our Saviour be glory, majesty, power and authority, through Jesus Christ our Lord, before all ages, now and for evermore! Amen.
 {{< /quote >}}
 
@@ -26,7 +26,7 @@ His work is to keep us from falling and to present us before his glorious presen
 
 How can I know that?
 
-{{< quote source="Romans 8:32" >}}
+{{< quote source="Romans 8:32" url="/ref/romans" >}}
 He who did not spare his own Son, but gave him up for us all⸺how will he not also, along with him, graciously give us all things?
 {{< /quote >}}
 

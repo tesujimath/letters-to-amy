@@ -14,7 +14,7 @@ Certain passages or verses in the Bible are really hard to understand. How shoul
 
 My intention this week was to write about telling a mountain to throw itself into the sea, not doubting. But when I looked into the context, I found that Jesus said it after cursing the fig tree on approaching Jerusalem for the last week of his life. How do we understand that? Let's think about that first, and I'll come back to the mountain another time.
 
-{{< quote source="Mark 11:12-14, 20" >}}
+{{< quote source="Mark 11:12-14, 20" url="/ref/mark" >}}
 The next day as they were leaving Bethany, Jesus was hungry. Seeing in the distance a fig tree in leaf, he went to find out if it had any fruit. When he reached it, he found nothing but leaves, because it was not the season for figs. Then he said to the tree, “May no one ever eat fruit from you again.” And his disciples heard him say it.
 
 In the morning, as they went along, they saw the fig tree withered from the roots.

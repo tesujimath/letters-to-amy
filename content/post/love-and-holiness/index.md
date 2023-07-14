@@ -17,7 +17,7 @@ To be sure, the coin bears the face of Jesus, for it is his currency and our liv
 
 We have already seen that love is the most important thing⸺love for the Father and love for Jesus, followed by love for one another.
 
-{{< quote source="Mark 12:28-31" >}}
+{{< quote source="Mark 12:28-31" url="/ref/mark" >}}
 And one of the scribes came up and heard them disputing with one another, and seeing that he answered them well, asked him, “Which commandment is the most important of all?” Jesus answered, “The most important is, ‘Hear, O Israel: The Lord our God, the Lord is one. And you shall love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.’ The second is this: ‘You shall love your neighbour as yourself.’ There is no other commandment greater than these.”
 {{< /quote >}}
 
@@ -25,19 +25,19 @@ One side of the coin is simply inscribed _love_.
 
 And the other side?
 
-{{< quote source="Leviticus 19:1-2" >}}
+{{< quote source="Leviticus 19:1-2" url="/ref/leviticus" >}}
 And the LORD spoke to Moses, saying, “Speak to all the congregation of the people of Israel and say to them, You shall be holy, for I the LORD your God am holy.”
 {{< /quote >}}
 
 The other side of the coin is inscribed _holiness_. Love and holiness. Two sides of the same coin in fact. How so? Jesus tells us.
 
-{{< quote source="John 14:15" >}}
+{{< quote source="John 14:15" url="/ref/john" >}}
 “If you love me, you will keep my commandments.”
 {{< /quote >}}
 
 So our personal holiness must be a consequence of love. Our motivation to live with holiness must be love for the Lord, our utmost desire to honour him. There is no other way to live like this victoriously in his power and by his grace. And in this there can be no pretending.
 
-{{< quote source="1 Chronicles 28:9" >}}
+{{< quote source="1 Chronicles 28:9" url="/ref/1-chronicles" >}}
 “And you, Solomon my son, know the God of your father and serve him with a whole heart and with a willing mind, for the LORD searches all hearts and understands every plan and thought. If you seek him, he will be found by you, but if you forsake him, he will cast you off forever.
 {{< /quote >}}
 

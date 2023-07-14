@@ -16,15 +16,15 @@ These are huge questions, and I can't possibly answer them adequately. But here'
 
 Firstly, note that we are encouraged, nay commanded to pray, and to pray boldly.
 
-{{< quote source="1 Thessalonians 5:17" >}}
+{{< quote source="1 Thessalonians 5:17" url="/ref/1-thessalonians" >}}
 Pray continually
 {{< /quote >}}
 
-{{< quote source="Matthew 21:22" >}}
+{{< quote source="Matthew 21:22" url="/ref/matthew" >}}
 “If you believe, you will receive whatever you ask for in prayer.”
 {{< /quote >}}
 
-{{< quote source="John 14:14" >}}
+{{< quote source="John 14:14" url="/ref/john" >}}
 “You may ask me for anything in my name, and I will do it.”
 {{< /quote >}}
 

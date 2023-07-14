@@ -17,13 +17,13 @@ As we journey this week towards Good Friday, towards the cross, let's reflect on
 
 Jesus had just eaten his last supper with the disciples in the upper room and washed their feet, and then said something none of them expected or wanted to hear.
 
-{{< quote source="Luke 22:31-34" >}}
+{{< quote source="Luke 22:31-34" url="/ref/luke" >}}
 “Simon, Simon, behold, Satan demanded to have you, that he might sift you like wheat, but I have prayed for you that your faith may not fail. And when you have turned again, strengthen your brothers.” Peter said to him, “Lord, I am ready to go with you both to prison and to death.” Jesus said, “I tell you, Peter, the rooster will not crow this day, until you deny three times that you know me.”
 {{< /quote >}}
 
 Even in such a familiar passage, here is something to notice afresh. Jesus refers to Peter by his pre-Christian name, Simon. Why is that? Remember that he had previously given him a new name.
 
-{{< quote source="Matthew 16:18" >}}
+{{< quote source="Matthew 16:18" url="/ref/matthew" >}}
 “And I tell you, you are Peter, and on this rock I will build my church, and the gates of hell shall not prevail against it.”
 {{< /quote >}}
 
@@ -31,7 +31,7 @@ So why does Jesus momentarily call him Simon here and then almost immediately Pe
 
 Only shortly afterwards it happened just as Jesus had said.
 
-{{< quote source="Luke 22:55-60" >}}
+{{< quote source="Luke 22:55-60" url="/ref/luke" >}}
 And when they had kindled a fire in the middle of the courtyard and sat down together, Peter sat down among them. Then a servant girl, seeing him as he sat in the light and looking closely at him, said, “This man also was with him.” But he denied it, saying, “Woman, I do not know him.” And a little later someone else saw him and said, “You also are one of them.” But Peter said, “Man, I am not.” And after an interval of about an hour still another insisted, saying, “Certainly this man also was with him, for he too is a Galilean.” But Peter said, “Man, I do not know what you are talking about.” And immediately, while he was still speaking, the rooster crowed.
 {{< /quote >}}
 

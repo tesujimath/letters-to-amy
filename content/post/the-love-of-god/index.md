@@ -12,7 +12,7 @@ Dear Amy,
 
 Have you ever come to realise something about the Lord which completely blew your mind?
 
-{{< quote source="1 John 4:19" >}}
+{{< quote source="1 John 4:19" url="/ref/1-john" >}}
 We love because he first loved us.
 {{< /quote >}}
 

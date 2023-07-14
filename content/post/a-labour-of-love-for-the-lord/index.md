@@ -16,13 +16,13 @@ How can I know that?
 
 Paul evidently had a particular fondness for and bond with the Thessalonians. You can see it in his writing, in the phrases he uses.
 
-{{< quote source="1 Thessalonians 4:1" >}}
+{{< quote source="1 Thessalonians 4:1" url="/ref/1-thessalonians" >}}
 Finally, then, brothers and sisters, we ask and urge you in the Lord Jesus, that as you received from us how you ought to walk and to please God, just as you are doing, that you do so more and more.
 {{< /quote >}}
 
 He urges them to continue to live their lives in a way which pleases God, _just as they were doing_. Just as _you_ are doing, Amy, and to do this more and more. And what do we know of that?
 
-{{< quote source="1 Thessalonians 1:2-3, 6b-7" >}}
+{{< quote source="1 Thessalonians 1:2-3, 6b-7" url="/ref/1-thessalonians" >}}
 We give thanks to God always for all of you, constantly mentioning you in our prayers, remembering before our God and Father your work of faith and labour of love and steadfastness of hope in our Lord Jesus Christ.
 
 ... for you received the word in much affliction, with the joy of the Holy Spirit, so that you became an example to all the believers in Macedonia and in Achaia.

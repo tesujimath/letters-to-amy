@@ -14,7 +14,7 @@ Have you ever chosen to take the opposite view than the one you would naturally 
 
 Why is this so hard? We have learned for the longest time to despise the Pharisees. I mean, they're the baddies, right? Well let's put that to one side for now. Jesus said of them:
 
-{{< quote source="Matthew 5:20" >}}
+{{< quote source="Matthew 5:20" url="/ref/matthew" >}}
 “I tell you that unless your righteousness surpasses that of the Pharisees and the teachers of the law, you will certainly not enter the kingdom of heaven.”
 {{< /quote >}}
 
@@ -26,7 +26,7 @@ Now, as I strive to live a right life, exercising all of my discipline to honour
 
 We would do well to consider this parable of Jesus.
 
-{{< quote source="Luke 18:10-14" >}}
+{{< quote source="Luke 18:10-14" url="/ref/luke" >}}
 “Two men went up to the temple to pray, one a Pharisee and the other a tax collector. The Pharisee stood by himself and prayed about himself: 'God, I thank you that I am not like other men⸺robbers, evildoers, adulterers⸺or even like this tax collector. I fast twice a week and give a tenth of all I get.'
 
 “But the tax collector stood at a distance. He would not even look up to heaven, but beat his breast and said, 'God, have mercy on me, a sinner.'
@@ -38,13 +38,13 @@ As I observe someone struggling in life, am I tempted to think, I'm not like the
 
 Despising the Pharisee prevents me from seeing the truth, which is in fact, such am I. No different from the one I disdain. No better.
 
-{{< quote source="Romans 3:22-24" >}}
+{{< quote source="Romans 3:22-24" url="/ref/romans" >}}
 There is no difference ... for all have sinned and fall short of the glory of God, and are justified freely by his grace through the redemption that came by Christ Jesus.
 {{< /quote >}}
 
 I find I am in truth stuck in the tar pit of self-righteousness with my Pharisaical heart.
 
-{{< quote source="Romans 7:24-25a" >}}
+{{< quote source="Romans 7:24-25a" url="/ref/romans" >}}
 What a wretched man I am! Who will rescue me from this body of death? Thanks be to God⸺through Jesus Christ our Lord!
 {{< /quote >}}
 

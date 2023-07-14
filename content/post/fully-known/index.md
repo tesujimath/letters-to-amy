@@ -15,7 +15,7 @@ What else does God know?
 
 Rather a lot in fact⸺this is the omniscient Creator God of the universe we are talking about! But in particular, to understand what it means for each one of us to be known by God, let's meditate on Psalm 139.
 
-{{< quote source="Psalm 139:1-4, 13-14a, 15-16" >}}
+{{< quote source="Psalm 139:1-4, 13-14a, 15-16" url="/ref/psalms" >}}
 O LORD, you have searched me and known me! You know when I sit down and when I rise up; you discern my thoughts from afar. You search out my path and my lying down and are acquainted with all my ways. Even before a word is on my tongue, behold, O LORD, you know it altogether.
 
 For you formed my inward parts; you knitted me together in my mother's womb. I praise you, for I am fearfully and wonderfully made.
@@ -25,13 +25,13 @@ My frame was not hidden from you, when I was being made in secret, intricately w
 
 That I am known by my loving Heavenly Father quite so comprehensively and quite so intimately is truly wonderful. For one thing it completely dispels fear. All is fully known. The Lord is acquainted with all my ways. There is nothing hidden that could suddenly be revealed and remove his love for me, or for you. God already knows it all. He knows the very worst and he loves. He already knew and still he chose to love.
 
-{{< quote source="Romans 5:8" >}}
+{{< quote source="Romans 5:8" url="/ref/romans" >}}
 But God shows his love for us in that while we were still sinners, Christ died for us.
 {{< /quote >}}
 
 There's only one thing left to say. Consider the most well known passage on love in the Bible, the passage that is read at weddings and which makes our souls sing: 1 Corinthians 13. Have you noticed Paul's penultimate point there?
 
-{{< quote source="1 Corinthians 13:12b" >}}
+{{< quote source="1 Corinthians 13:12b" url="/ref/1-corinthians" >}}
 Now I know in part; then I shall know fully, even as I have been fully known.
 {{< /quote >}}
 

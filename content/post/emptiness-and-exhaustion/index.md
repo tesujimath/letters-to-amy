@@ -15,13 +15,13 @@ What else can we learn from Elijah's faith-wobble?
 
 He was running for his life, and after 120 miles or so he left his servant and continued alone.
 
-{{< quote source="1 Kings 19:4" >}}
+{{< quote source="1 Kings 19:4" url="/ref/1-kings" >}}
 But he himself went a day's journey into the wilderness and came and sat down under a broom tree. And he asked that he might die, saying, “It is enough; now, O LORD, take away my life, for I am no better than my fathers.”
 {{< /quote >}}
 
 Here was a man empty and exhausted, utterly cast down, apparently at his end.
 
-{{< quote source="1 Kings 19:5-8" >}}
+{{< quote source="1 Kings 19:5-8" url="/ref/1-kings" >}}
 And he lay down and slept under a broom tree. And behold, an angel touched him and said to him, “Arise and eat.” And he looked, and behold, there was at his head a cake baked on hot stones and a jar of water. And he ate and drank and lay down again. And the angel of the LORD came again a second time and touched him and said, “Arise and eat, for the journey is too great for you.” And he arose and ate and drank, and went in the strength of that food forty days and forty nights to Horeb, the mount of God.
 {{< /quote >}}
 
@@ -37,7 +37,7 @@ And what was the Lord's response to that? He rescued him and restored him and ga
 
 And thus the Lord restored Elijah, gave him hope, and continued to work out his plans and purposes through him and through Elisha.
 
-{{< quote source="1 Kings 19:19, 21" >}}
+{{< quote source="1 Kings 19:19, 21" url="/ref/1-kings" >}}
 So he departed from there and found Elisha the son of Shaphat.
 
 Then [Elisha] arose and went after Elijah and assisted him.

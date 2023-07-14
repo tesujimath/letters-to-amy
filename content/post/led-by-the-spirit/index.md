@@ -19,11 +19,11 @@ It is remarkably easy to tell when someone is confused about what it means to be
 
 Let's consider the context in which Paul uses this expression.
 
-{{< quote source="Romans 8:13-14" >}}
+{{< quote source="Romans 8:13-14" url="/ref/romans" >}}
 For if you live according to the flesh you will die, but if by the Spirit you put to death the deeds of the body, you will live. For all who are led by the Spirit of God are sons [and daughters] of God.
 {{< /quote >}}
 
-{{< quote source="Galatians 5:16-18" >}}
+{{< quote source="Galatians 5:16-18" url="/ref/galatians" >}}
 But I say, walk by the Spirit, and you will not gratify the desires of the flesh. For the desires of the flesh are against the Spirit, and the desires of the Spirit are against the flesh, for these are opposed to each other, to keep you from doing the things you want to do. But if you are led by the Spirit, you are not under the law.
 {{< /quote >}}
 

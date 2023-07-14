@@ -12,13 +12,13 @@ Dear Amy,
 
 Why have so many Christians thrown away the shield of faith?
 
-{{< quote source="Ephesians 6:16" >}}
+{{< quote source="Ephesians 6:16" url="/ref/ephesians" >}}
 In addition to all this, take up the shield of faith, with which you can extinguish all the flaming arrows of the evil one.
 {{< /quote >}}
 
 Firstly, understand the nature of these flaming arrows. They are lies. Lies about us and lies about the Lord and what he has done. Jesus says of the devil,
 
-{{< quote source="John 8:44b" >}}
+{{< quote source="John 8:44b" url="/ref/john" >}}
 “When he lies, he speaks his native language, for he is a liar and the father of lies.”
 {{< /quote >}}
 
@@ -30,19 +30,19 @@ Ruthless consistency is again the key. I have to ask myself with brutal honesty,
 
 Consider even this one thing that Jesus said.
 
-{{< quote source="Matthew 19:30" >}}
+{{< quote source="Matthew 19:30" url="/ref/matthew" >}}
 But many who are first will be last, and many who are last will be first.
 {{< /quote >}}
 
 The context of this is the rich young ruler, earnestly seeking but tragically unable to give up this life's riches and pleasures for the Kingdom, just like so many today. Why is it that even within the church so many are trying to be first? Do we really not believe Jesus?
 
-{{< quote source="Matthew 6:33" >}}
+{{< quote source="Matthew 6:33" url="/ref/matthew" >}}
 But seek first his kingdom and his righteousness, and all these things will be given to you as well.
 {{< /quote >}}
 
 We may need some help with this. So let us ask our Heavenly Father, who loves us beyond imagining.
 
-{{< quote source="Psalm 119:18" >}}
+{{< quote source="Psalm 119:18" url="/ref/psalms" >}}
 Open my eyes that I may see wonderful things in your law.
 {{< /quote >}}
 

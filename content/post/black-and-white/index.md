@@ -12,7 +12,7 @@ Dear Amy,
 
 What does it mean in practice to be a people not under law but under grace?
 
-{{< quote source="Romans 6:14-15" >}}
+{{< quote source="Romans 6:14-15" url="/ref/romans" >}}
 For sin will have no dominion over you, since you are not under law but under grace. What then? Are we to sin because we are not under law but under grace? By no means!
 {{< /quote >}}
 
@@ -20,13 +20,13 @@ Law and grace: are these in opposition? Jesus sets the highest standards in the 
 
 Let's consider a couple of contemporary issues.
 
-{{< quote source="1 Timothy 2:12" >}}
+{{< quote source="1 Timothy 2:12" url="/ref/1-timothy" >}}
 I do not permit a woman to teach or to exercise authority over a man; rather, she is to remain quiet.
 {{< /quote >}}
 
 Surely this was a cultural thing that no longer applies, and so surely these days women are free to pursue a preaching ministry? Surely? Except for the very next verse.
 
-{{< quote source="1 Timothy 2:13-14" >}}
+{{< quote source="1 Timothy 2:13-14" url="/ref/1-timothy" >}}
 For Adam was formed first, then Eve; and Adam was not deceived, but the woman was deceived and became a transgressor.
 {{< /quote >}}
 
@@ -36,7 +36,7 @@ I choose however to hold no opinion about this, and instead I choose to honour t
 
 Besides, I have my own issue.
 
-{{< quote source="Matthew 19:8-9" >}}
+{{< quote source="Matthew 19:8-9" url="/ref/matthew" >}}
 Jesus said to them, “Because of your hardness of heart Moses allowed you to divorce your wives, but from the beginning it was not so. And I say to you: whoever divorces his wife, except for sexual immorality, and marries another, commits adultery.”
 {{< /quote >}}
 
@@ -46,7 +46,7 @@ How tempted we are to be black and white about the lives of others, yet rather g
 
 Jesus himself faced a law versus grace issue in relation to the Fourth Commandment, and on one occasion when confronted by the Pharisees, he related the story of David apparently breaking the law by eating with his men consecrated bread from the temple, before concluding:
 
-{{< quote source="Matthew 12:6-8" >}}
+{{< quote source="Matthew 12:6-8" url="/ref/matthew" >}}
 “I tell you, something greater than the temple is here. And if you had known what this means, 'I desire mercy, and not sacrifice,' you would not have condemned the guiltless. For the Son of Man is lord of the Sabbath.”
 {{< /quote >}}
 

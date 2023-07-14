@@ -18,13 +18,13 @@ And so I write this to you out of my own acute and current experience, aware and
 
 Consider Shadrach, Meshach, and Abednego. They lived with integrity, honouring the Lord, and as a result were told, worship Nebuchadnezzar's golden image or be immediately cast into the fiery furnace. What was their response?
 
-{{< quote source="Daniel 3:16-18" >}}
+{{< quote source="Daniel 3:16-18" url="/ref/daniel" >}}
 Shadrach, Meshach, and Abednego answered and said to the king, “O Nebuchadnezzar, we have no need to answer you in this matter. If this be so, our God whom we serve is able to deliver us from the burning fiery furnace, and he will deliver us out of your hand, O king. But if not, be it known to you, O king, that we will not serve your gods or worship the golden image that you have set up.”
 {{< /quote >}}
 
 How could they be so confident before the most powerful man in the land, who held their very lives in his hands. Didn't he? Even recognising that they may not survive the flames, they were resolute and unassailable. To understand this we have to go back a bit in the story.
 
-{{< quote source="Daniel 1:8a, 11-13, 16" >}}
+{{< quote source="Daniel 1:8a, 11-13, 16" url="/ref/daniel" >}}
 But Daniel resolved that he would not defile himself with the king's food, or with the wine that he drank.
 
 Then Daniel said to the steward whom the chief of the eunuchs had assigned over Daniel, Hananiah, Mishael, and Azariah [aka Shadrach, Meshach, and Abednego], “Test your servants for ten days; let us be given vegetables to eat and water to drink. Then let our appearance and the appearance of the youths who eat the king's food be observed by you, and deal with your servants according to what you see.”

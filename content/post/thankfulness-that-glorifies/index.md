@@ -12,7 +12,7 @@ Dear Amy,
 
 How can our thankfulness glorify the Lord?
 
-{{< quote source="Psalm 69:30" >}}
+{{< quote source="Psalm 69:30" url="/ref/psalms" >}}
 I will praise God’s name in song and glorify him with thanksgiving.
 {{< /quote >}}
 
@@ -22,11 +22,11 @@ When someone treats me with particular kindness, who am I likely to thank? Too o
 
 Here's one side of the coin.
 
-{{< quote source="Philippians 2:13" >}}
+{{< quote source="Philippians 2:13" url="/ref/philippians" >}}
 For it is God who works in you to will and to act in order to fulfil his good purpose.
 {{< /quote >}}
 
-{{< quote source="Ephesians 2:10" >}}
+{{< quote source="Ephesians 2:10" url="/ref/ephesians" >}}
 For we are God’s handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.
 {{< /quote >}}
 

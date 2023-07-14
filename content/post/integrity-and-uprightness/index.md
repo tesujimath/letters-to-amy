@@ -12,7 +12,7 @@ Dear Amy,
 
 How can goodness protect us?
 
-{{< quote source="Galatians 5:22" >}}
+{{< quote source="Galatians 5:22" url="/ref/galatians" >}}
 The fruit of the Spirit is ... goodness
 {{< /quote >}}
 
@@ -20,13 +20,13 @@ The Greek word is _agathōsunē_, which can be translated _uprightness of heart 
 
 Let's look briefly again into Psalm 25 (what a jewel of a psalm that is!), where David writes with such humility, so aware of his own shortcomings and his desire to live a life of integrity, honouring the Lord.
 
-{{< quote source="Psalm 25:21" >}}
+{{< quote source="Psalm 25:21" url="/ref/psalms" >}}
 May integrity and uprightness protect me, because my hope is in you.
 {{< /quote >}}
 
 We see protection there, but how does that work? Before we get to that, read the whole psalm and notice that there is not a shred of smug self-satisfaction as David seeks with all his heart to honour the Lord and live a right life. Paul also writes of this.
 
-{{< quote source="Romans 6:18" >}}
+{{< quote source="Romans 6:18" url="/ref/romans" >}}
 You have been set free from sin and have become slaves to righteousness.
 {{< /quote >}}
 

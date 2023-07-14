@@ -12,13 +12,13 @@ Dear Amy,
 
 What is the most important thing?
 
-{{< quote source="Galatians 5:22" >}}
+{{< quote source="Galatians 5:22" url="/ref/galatians" >}}
 The fruit of the Spirit is love ...
 {{< /quote >}}
 
 I've left this one until last, precisely because it is the most important. Why do I say that? So many reasons, starting with this.
 
-{{< quote source="Matthew 22:36-40" >}}
+{{< quote source="Matthew 22:36-40" url="/ref/matthew" >}}
 “Teacher, which is the greatest commandment in the Law?”
 
 Jesus replied: “'Love the Lord your God with all your heart and with all your soul and with all your mind.'  This is the first and greatest commandment. And the second is like it: 'Love your neighbour as yourself.'  All the Law and the Prophets hang on these two commandments.”
@@ -26,7 +26,7 @@ Jesus replied: “'Love the Lord your God with all your heart and with all your 
 
 And this.
 
-{{< quote source="John 13:34-35" >}}
+{{< quote source="John 13:34-35" url="/ref/john" >}}
 “A new command I give you: Love one another. As I have loved you, so you must love one another. By this everyone will know that you are my disciples, if you love one another.”
 {{< /quote >}}
 
@@ -36,13 +36,13 @@ A phrase I came upon recently has really got its hooks into me: _relational auth
 
 But there's more. Relational authenticity demands radical humility.
 
-{{< quote source="Romans 3:22-24" >}}
+{{< quote source="Romans 3:22-24" url="/ref/romans" >}}
 There is no difference ... for all have sinned and fall short of the glory of God, and are justified freely by his grace through the redemption that came by Christ Jesus.
 {{< /quote >}}
 
 How this challenges ego!  But could we live like this? The prize is glorious!
 
-{{< quote source="Ephesians 2:21-22" >}}
+{{< quote source="Ephesians 2:21-22" url="/ref/ephesians" >}}
 In him the whole building is joined together and rises to become a holy temple in the Lord. And in him you too are being built together to become a dwelling in which God lives by his Spirit.
 {{< /quote >}}
 

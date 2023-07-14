@@ -14,27 +14,27 @@ Dear Amy,
 
 What are the two complementary ways to become an expert swordswoman?
 
-{{< quote source="Ephesians 6:17" >}}
+{{< quote source="Ephesians 6:17" url="/ref/ephesians" >}}
 Take ... the sword of the Spirit, which is the word of God.
 {{< /quote >}}
 
 For the first, Sunday school teachers have known since forever the value of memory verses for the spiritual battle. Jesus himself refuted Satan with such when tempted in the wilderness at the beginning of his ministry (Luke 4:1-13).
 
-{{< quote source="Deuteronomy 8:3" >}}
+{{< quote source="Deuteronomy 8:3" url="/ref/deuteronomy" >}}
 ‘Man does not live on bread alone.’
 {{< /quote >}}
 
-{{< quote source="Deuteronomy 6:13" >}}
+{{< quote source="Deuteronomy 6:13" url="/ref/deuteronomy" >}}
 ‘Worship the Lord your God and serve him only.’
 {{< /quote >}}
 
-{{< quote source="Deuteronomy 6:16" >}}
+{{< quote source="Deuteronomy 6:16" url="/ref/deuteronomy" >}}
 ‘Do not put the Lord your God to the test.’
 {{< /quote >}}
 
 There is enormous power in such verses in the midst of the spiritual battle. Build up your arsenal, Amy, commit them to memory, and make them your own. Here's just one of mine that I lean on when tempted to doubt and despair in the waiting time.
 
-{{< quote source="Joshua 23:14" >}}
+{{< quote source="Joshua 23:14" url="/ref/joshua" >}}
 You know with all your heart and soul that not one of all the good promises the LORD your God gave you has failed. Every promise has been fulfilled; not one has failed.
 {{< /quote >}}
 

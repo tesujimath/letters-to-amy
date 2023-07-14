@@ -13,7 +13,7 @@ Dear Amy,
 
 How many times will the Lord rescue? Isn't once enough?
 
-{{< quote source="Psalm 91:14" >}}
+{{< quote source="Psalm 91:14" url="/ref/psalms" >}}
 “Because she loves me,” says the LORD, “I will rescue her”
 {{< /quote >}}
 

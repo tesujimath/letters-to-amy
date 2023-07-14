@@ -12,7 +12,7 @@ Dear Amy,
 
 Apparently we are surrounded by a great cloud of witnesses, and this is a reason to run the race with perseverance. What's all that about?!
 
-{{< quote source="Hebrews 12:1" >}}
+{{< quote source="Hebrews 12:1" url="/ref/hebrews" >}}
 Therefore, since we are surrounded by such a great cloud of witnesses, let us throw off everything that hinders and the sin that so easily entangles, and let us run with perseverance the race marked out for us.
 {{< /quote >}}
 
@@ -20,7 +20,7 @@ It's important that we understand this, because doesn't it sound just a little b
 
 Some of these witnesses are listed in Chapter 11, with this introduction.
 
-{{< quote source="Hebrews 11:1-2" >}}
+{{< quote source="Hebrews 11:1-2" url="/ref/hebrews" >}}
 Now faith is being sure of what we hope for and certain of what we do not see. This is what the ancients were commended for.
 {{< /quote >}}
 

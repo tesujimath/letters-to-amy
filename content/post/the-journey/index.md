@@ -30,7 +30,7 @@ Here's a related question. Is this life more about the journey or the destinatio
 
 Truly I long for the destination, to arrive in the presence of my Lord and Saviour, to finally stand face to face. John describes the meeting as it will be.
 
-{{< quote source="Revelation 21:1-2" >}}
+{{< quote source="Revelation 21:1-2" url="/ref/revelation" >}}
 Then I saw a new heaven and a new earth, for the first heaven and the first earth had passed away, and the sea was no more. And I saw the holy city, new Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband.
 {{< /quote >}}
 
@@ -46,7 +46,7 @@ The preparation is this life. It is the journey. The destination that I must the
 
 And so this realisation informs every choice I make on the journey. The Holy Spirit continues to do his work of sanctifying grace in my life and I surrender to it joyfully and my heart is transformed. Slowly. Surely. Through each painful moment, I continue to die to self and live for him, all the while longing for that day, and all the while growing in love for my wonderful Saviour and his beloved church.
 
-{{< quote source="Matthew 5:8" >}}
+{{< quote source="Matthew 5:8" url="/ref/matthew" >}}
 Blessed are the pure in heart, for they shall see God.
 {{< /quote >}}
 

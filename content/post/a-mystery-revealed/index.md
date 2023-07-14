@@ -12,7 +12,7 @@ Dear Amy,
 
 How can we know a mystery?
 
-{{< quote source="Ephesians 1:7-9" >}}
+{{< quote source="Ephesians 1:7-9" url="/ref/ephesians" >}}
 In him we have redemption through his blood, the forgiveness of sins, in accordance with the riches of God’s grace that he lavished on us. With all wisdom and understanding, he made known to us the mystery of his will according to his good pleasure, which he purposed in Christ.
 {{< /quote >}}
 

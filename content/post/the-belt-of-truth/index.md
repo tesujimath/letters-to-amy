@@ -14,7 +14,7 @@ Thank you so much for last week's email⸺what a lot has been going on! I hope b
 
 In your email you referred to the armour of God, which has prompted me to spend some time reflecting on that. You know how I love to unpack these things! I'll start with this:
 
-{{< quote source="Ephesians 6:14a" >}}
+{{< quote source="Ephesians 6:14a" url="/ref/ephesians" >}}
 Stand firm then, with the belt of truth buckled round your waist ...
 {{< /quote >}}
 
@@ -28,19 +28,19 @@ And so it is with the belt of truth. It is our fundamental identity in Christ, u
 
 The Christian's identity is in truth⸺truth in who we are and truth in our status before God, sinners saved by grace.
 
-{{< quote source="Romans 3:22b-24" >}}
+{{< quote source="Romans 3:22b-24" url="/ref/romans" >}}
 There is no difference ... for all have sinned and fall short of the glory of God, and all are justified freely by his grace through the redemption that came by Christ Jesus.
 {{< /quote >}}
 
 In the spiritual battle, when Satan accuses and we are tempted to despair of who we are, we must hold onto this truth: our Heavenly Father already knows the very worst about us, yet still he loves.
 
-{{< quote source="Romans 5:8" >}}
+{{< quote source="Romans 5:8" url="/ref/romans" >}}
 God demonstrates his own love for us in this: While we were still sinners, Christ died for us.
 {{< /quote >}}
 
 This is our identity, and our identity is in Christ. Only by holding onto this are we able to stand firm in the spiritual battle.
 
-{{< quote source="2 Corinthians 5:17" >}}
+{{< quote source="2 Corinthians 5:17" url="/ref/2-corinthians" >}}
 Therefore, if anyone is in Christ, he or she is a new creation; the old has gone, the new has come!
 {{< /quote >}}
 

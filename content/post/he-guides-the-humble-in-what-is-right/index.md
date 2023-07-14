@@ -12,7 +12,7 @@ Dear Amy,
 
 Here are a couple of verses from Psalm 25 for you:
 
-{{< quote source="Psalm 25:8-9" >}}
+{{< quote source="Psalm 25:8-9" url="/ref/psalms" >}}
 Good and upright is the LORD; therefore he instructs sinners in his ways. He guides the humble in what is right and teaches them his way.
 {{< /quote >}}
 

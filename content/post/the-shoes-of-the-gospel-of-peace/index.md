@@ -12,7 +12,7 @@ Dear Amy,
 
 As we come to what Paul says about feet, I have been contemplating, what is it that feet do? Well clearly they go, and they dance. Since you're already acing both of these, I had to wonder whether I had anything at all for you this week!
 
-{{< quote source="Ephesians 6:13, 15" >}}
+{{< quote source="Ephesians 6:13, 15" url="/ref/ephesians" >}}
 Put on the full armour of God ... with your feet fitted with the readiness that comes from the gospel of peace.
 {{< /quote >}}
 
@@ -30,7 +30,7 @@ Firstly, the armour of God is all about being prepared for battle. Doesn't the g
 
 And so it is with the spiritual battle.
 
-{{< quote source="Ephesians 6:12" >}}
+{{< quote source="Ephesians 6:12" url="/ref/ephesians" >}}
 Our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms.
 {{< /quote >}}
 

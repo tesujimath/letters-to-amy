@@ -14,7 +14,7 @@ What's all this about predestination? Don't people have a right to choose for th
 
 As I swing in my hammock on that desert island, there's nothing much to do except read Ephesians 1. Here's what I find.
 
-{{< quote source="Ephesians 1:4-5, 11-12" >}}
+{{< quote source="Ephesians 1:4-5, 11-12" url="/ref/ephesians" >}}
 He chose us in him before the creation of the world to be holy and blameless in his sight. In love he predestined us to be adopted as his children through Jesus Christ, in accordance with his pleasure and will ...
 
 In him we were also chosen, having been predestined according to the plan of him who works out everything in conformity with the purpose of his will, in order that we, who were the first to hope in Christ, might be for the praise of his glory.
@@ -26,7 +26,7 @@ But there's more. He chose us to be holy and blameless in his sight. Partly that
 
 But what of evangelism? If people are chosen, where is repentance and belief? See what comes next in the passage.
 
-{{< quote source="Ephesians 1:13-14" >}}
+{{< quote source="Ephesians 1:13-14" url="/ref/ephesians" >}}
 And you also were included in Christ when you heard the message of truth, the gospel of your salvation. When you believed, you were marked in him with a seal, the promised Holy Spirit, who is a deposit guaranteeing our inheritance until the redemption of those who are God’s possession⸺to the praise of his glory.
 {{< /quote >}}
 

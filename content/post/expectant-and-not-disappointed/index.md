@@ -16,31 +16,31 @@ Living with high expectations of oneself and others is surely right, but can lea
 
 What should we expect of the Lord anyway?
 
-{{< quote source="John 10:10" >}}
+{{< quote source="John 10:10" url="/ref/john" >}}
 “I have come that they may have life, and have it to the full.”
 {{< /quote >}}
 
-{{< quote source="Psalm 27:13" >}}
+{{< quote source="Psalm 27:13" url="/ref/psalms" >}}
 I remain confident of this: I will see the goodness of the LORD in the land of the living.
 {{< /quote >}}
 
-{{< quote source="Mark 11:23" >}}
+{{< quote source="Mark 11:23" url="/ref/mark" >}}
 “Truly I tell you, if anyone says to this mountain, ‘Go, throw yourself into the sea,’ and does not doubt in their heart but believes that what they say will happen, it will be done for them.”
 {{< /quote >}}
 
-{{< quote source="James 5:14-15" >}}
+{{< quote source="James 5:14-15" url="/ref/james" >}}
 Is anyone among you sick? ... the prayer offered in faith will make the sick person well; the Lord will raise them up.
 {{< /quote >}}
 
-{{< quote source="Psalm 91:14" >}}
+{{< quote source="Psalm 91:14" url="/ref/psalms" >}}
 “Because he loves me,” says the LORD, “I will rescue him.”
 {{< /quote >}}
 
-{{< quote source="Joshua 23:14" >}}
+{{< quote source="Joshua 23:14" url="/ref/joshua" >}}
 “You know with all your heart and soul that not one of all the good promises the LORD your God gave you has failed. Every promise has been fulfilled; not one has failed.”
 {{< /quote >}}
 
-{{< quote source="Jeremiah 32:27" >}}
+{{< quote source="Jeremiah 32:27" url="/ref/jeremiah" >}}
 “I am the LORD, the God of all mankind. Is anything too hard for me?”
 {{< /quote >}}
 

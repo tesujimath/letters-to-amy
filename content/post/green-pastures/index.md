@@ -18,7 +18,7 @@ All I'm doing as I write to you is to remind you of things you already know. I a
 
 Oh Amy, know this, which is so familiar, and yet may be overlooked. Here is my gift of love and encouragement for you, this week.
 
-{{< quote source="Psalm 23:1-3" >}}
+{{< quote source="Psalm 23:1-3" url="/ref/psalms" >}}
 The LORD is my shepherd, I shall not be in want. He makes me lie down in green pastures, he leads me beside quiet waters, he restores my soul.
 {{< /quote >}}
 
@@ -28,7 +28,7 @@ He makes me lie down in green pastures. He knows what I need. Oh how he knows th
 
 Recall what I wrote to you right back in the beginning, when you had only just arrived in the village.
 
-{{< quote source="Jeremiah 17:7-8" >}}
+{{< quote source="Jeremiah 17:7-8" url="/ref/jeremiah" >}}
 “Blessed is the one who trusts in the LORD, whose confidence is in him. They will be like a tree planted by the water that sends out its roots by the stream. It does not fear when heat comes; its leaves are always green. It has no worries in a year of drought and never fails to bear fruit.”
 {{< /quote >}}
 

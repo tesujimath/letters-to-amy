@@ -12,17 +12,17 @@ Dear Amy,
 
 What is the breastplate of righteousness, exactly?
 
-{{< quote source="Ephesians 6:14" >}}
+{{< quote source="Ephesians 6:14" url="/ref/ephesians" >}}
 Stand firm then ... with the breastplate of righteousness in place ...
 {{< /quote >}}
 
 Obviously the function of the breastplate is to protect the torso, the heart and lungs, those vital organs without which we cannot live. But what is the nature of this righteousness without which we cannot live before the Lord? It is interesting to see how writers disagree about this, because there are two possible answers.
 
-{{< quote source="Romans 1:17" >}}
+{{< quote source="Romans 1:17" url="/ref/romans" >}}
 In the gospel a righteousness from God is revealed, a righteousness that is by faith from first to last.
 {{< /quote >}}
 
-{{< quote source="Romans 3:22" >}}
+{{< quote source="Romans 3:22" url="/ref/romans" >}}
 This righteousness from God comes through faith in Jesus Christ to all who believe.
 {{< /quote >}}
 
@@ -30,13 +30,13 @@ The first view is that the breastplate is Christ's righteousness imputed to us, 
 
 There is profound truth in this. But there is another view.
 
-{{< quote source="Romans 6:17-18" >}}
+{{< quote source="Romans 6:17-18" url="/ref/romans" >}}
 But thanks be to God that, though you used to be slaves to sin, you wholeheartedly obeyed the form of teaching to which you were entrusted. You have been set free from sin and have become slaves to righteousness.
 {{< /quote >}}
 
 Jesus said,
 
-{{< quote source="John 8:51" >}}
+{{< quote source="John 8:51" url="/ref/john" >}}
 “Very truly I tell you, whoever keeps my word will never see death.”
 {{< /quote >}}
 
@@ -51,7 +51,7 @@ heart.
 
 James takes up this very idea.
 
-{{< quote source="James 2:18" >}}
+{{< quote source="James 2:18" url="/ref/james" >}}
 Show me your faith without deeds, and I will show you my faith by my deeds.
 {{< /quote >}}
 

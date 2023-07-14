@@ -23,7 +23,7 @@ Could there be another way to see this?
 
 Peter tells us straightforwardly what we should expect.
 
-{{< quote source="2 Peter 3:8" >}}
+{{< quote source="2 Peter 3:8" url="/ref/2-peter" >}}
 But do not overlook this one fact, beloved, that with the Lord one day is as a thousand years, and a thousand years as one day.
 {{< /quote >}}
 
@@ -35,7 +35,7 @@ Firstly, let's notice that Peter addresses his readers as beloved. That's us! We
 
 Secondly, let's notice that Alexander the Great was in fact a brutal warlord who left in his wake death and destruction. Slicing through the knot in the way that he did reflects who he was. The Lord is so completely not like this. Consider the very next verse.
 
-{{< quote source="2 Peter 3:9" >}}
+{{< quote source="2 Peter 3:9" url="/ref/2-peter" >}}
 The Lord is not slow to fulfil his promise as some count slowness, but is patient toward you, not wishing that any should perish, but that all should reach repentance.
 {{< /quote >}}
 

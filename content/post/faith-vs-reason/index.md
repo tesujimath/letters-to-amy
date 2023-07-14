@@ -16,7 +16,7 @@ A dear friend of mine has been having what I would call a faith crisis. In the c
 
 I argue that in fact the opposite is true, and that I have brought all my intellect and understanding to bear in my faith situation. How so? And what does the Bible have to say about this?
 
-{{< quote source="Proverbs 9:10" >}}
+{{< quote source="Proverbs 9:10" url="/ref/proverbs" >}}
 The fear of the LORD is the beginning of wisdom, and knowledge of the Holy One is understanding.
 {{< /quote >}}
 

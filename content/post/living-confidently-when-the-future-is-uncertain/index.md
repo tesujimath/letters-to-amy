@@ -18,7 +18,7 @@ In general, the Lord does not tell us such things ahead of time, and nor should 
 
 Remember the first thing I wrote to you Amy, back in February.
 
-{{< quote source="Psalm 147:1" >}}
+{{< quote source="Psalm 147:1" url="/ref/psalms" >}}
 The LORD delights in those who fear him, who put their hope in his unfailing love.
 {{< /quote >}}
 

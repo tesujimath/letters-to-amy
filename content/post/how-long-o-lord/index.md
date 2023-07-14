@@ -12,7 +12,7 @@ Dear Amy,
 
 What is the most unanswered question in the Bible?
 
-{{< quote source="Psalm 13:1-2" >}}
+{{< quote source="Psalm 13:1-2" url="/ref/psalms" >}}
 How long, O LORD? Will you forget me forever?  
 How long will you hide your face from me?  
 How long must I take counsel in my soul and have sorrow in my heart all the day?  
@@ -27,7 +27,7 @@ Why does he not answer?
 
 Actually, this is not all that hard to understand. Paul points us at two reasons in his letter to the Ephesians.
 
-{{< quote source="Ephesians 1:4, 15-18" >}}
+{{< quote source="Ephesians 1:4, 15-18" url="/ref/ephesians" >}}
 ... he chose us in him before the foundation of the world, that we should be holy and blameless before him.
 
 For this reason, because I have heard of your faith in the Lord Jesus and your love toward all the saints, I do not cease to give thanks for you, remembering you in my prayers, that the God of our Lord Jesus Christ, the Father of glory, may give you the Spirit of wisdom and of revelation in the knowledge of him, having the eyes of your hearts enlightened, that you may know what is the hope to which he has called you, ...
@@ -41,13 +41,13 @@ The second reason is our holiness. We were chosen in Christ before the creation 
 
 Habbakuk also cries out with the same question.
 
-{{< quote source="Habakkuk 1:2" >}}
+{{< quote source="Habakkuk 1:2" url="/ref/habakkuk" >}}
 O LORD, how long shall I cry for help, and you will not hear?
 {{< /quote >}}
 
 In his particular case, the Lord answers, and praise him for that answer in which we also can rejoice.
 
-{{< quote source="Habakkuk 1:5" >}}
+{{< quote source="Habakkuk 1:5" url="/ref/habakkuk" >}}
 “Look among the nations, and see; wonder and be astounded. For I am doing a work in your days
 that you would not believe if told.”
 {{< /quote >}}

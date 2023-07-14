@@ -18,7 +18,7 @@ I don't mean that state of emptiness and exhaustion which I wrote about previous
 
 Jesus spoke into this.
 
-{{< quote source="Matthew 11:28-30" >}}
+{{< quote source="Matthew 11:28-30" url="/ref/matthew" >}}
 Come to me, all who labour and are heavy laden, and I will give you rest. Take my yoke upon you, and learn from me, for I am gentle and lowly in heart, and you will find rest for your souls. For my yoke is easy, and my burden is light.”
 {{< /quote >}}
 
@@ -30,7 +30,7 @@ Here is a major source of weariness: those many things in life that we are tempt
 
 Instead, what is Jesus' work for us? To live with humility, surrendered to the Father's will, to _his_ plans and purposes, pursuing love and holiness, caring for the outcast and the brokenhearted, bringing gentleness and kindness and light and grace and hope. This is the work that brings rest to our souls. And let's notice that a yoke is fastened over the necks of _two_ animals. Jesus himself walks alongside us in this work!
 
-{{< quote source="Mark 12:28b-31" >}}
+{{< quote source="Mark 12:28b-31" url="/ref/mark" >}}
 “Which commandment is the most important of all?”
 
 Jesus answered, “The most important is, ‘Hear, O Israel: The Lord our God, the Lord is one. And you shall love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.’ The second is this: ‘You shall love your neighbour as yourself.’ There is no other commandment greater than these.”

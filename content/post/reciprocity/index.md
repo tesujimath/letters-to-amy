@@ -13,7 +13,7 @@ Dear Amy,
 
 What is the principle of reciprocity in relationship?
 
-{{< quote source="Romans 1:11-12" >}}
+{{< quote source="Romans 1:11-12" url="/ref/romans" >}}
 For I long to see you, that I may impart to you some spiritual gift to strengthen you⸺that is, that we may be mutually encouraged by each other's faith, both yours and mine.
 {{< /quote >}}
 
@@ -29,13 +29,13 @@ Whenever Christians come together, however, there is a potential barrier to such
 
 Timothy was indeed young to be in Christian leadership, perhaps in his late 20s or early 30s, and there was a huge gulf between their levels of experience and capability. Paul was much older, was so much more highly educated, and ended up writing more than half of the New Testament, but see how highly he regarded Timothy.
 
-{{< quote source="Philippians 2:20-22" >}}
+{{< quote source="Philippians 2:20-22" url="/ref/philippians" >}}
 For I have no one like him, who will be genuinely concerned for your welfare. For they all seek their own interests, not those of Jesus Christ. But you know Timothy's proven worth, how as a son with a father he has served with me in the gospel.
 {{< /quote >}}
 
 And his charge to Timothy himself:
 
-{{< quote source="1 Timothy 4:12" >}}
+{{< quote source="1 Timothy 4:12" url="/ref/1-timothy" >}}
 Let no one despise you for your youth, but set the believers an example in speech, in conduct, in love, in faith, in purity.
 {{< /quote >}}
 

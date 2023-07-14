@@ -35,19 +35,19 @@ What a remarkably simple and straightforward and practical way to know how to li
 
 Ryle is quoting here from the letter to the Hebrews, just after the cloud of witnesses and running with perseverance and the Lord's discipline of his sons and daughters.
 
-{{< quote source="Hebrews 12:12-14" >}}
+{{< quote source="Hebrews 12:12-14" url="/ref/hebrews" >}}
 Therefore lift your drooping hands and strengthen your weak knees, and make straight paths for your feet, so that what is lame may not be put out of joint but rather be healed. Strive for peace with everyone, and for the holiness without which no one will see the Lord.
 {{< /quote >}}
 
 Beware the pernicious lie that lurks in our subconscious which we must deal with⸺that living with such holiness is entirely beyond us, and it is unrealistic to aspire to such a thing. Repudiate the lie! It is Satan's utmost desire that we swallow it. Jesus warns us.
 
-{{< quote source="John 8:44" >}}
+{{< quote source="John 8:44" url="/ref/john" >}}
 He was a murderer from the beginning, and does not stand in the truth, because there is no truth in him. When he lies, he speaks out of his own character, for he is a liar and the father of lies.
 {{< /quote >}}
 
 What then is the truth? Paul tells us.
 
-{{< quote source="Ephesians 1:3-4" >}}
+{{< quote source="Ephesians 1:3-4" url="/ref/ephesians" >}}
 Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly places, even as he chose us in him before the foundation of the world, that we should be holy and blameless before him.
 {{< /quote >}}
 

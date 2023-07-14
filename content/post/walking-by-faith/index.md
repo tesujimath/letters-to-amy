@@ -17,7 +17,7 @@ Perhaps the greatest example we have is Abraham. He didn't always get it right, 
 
 Paul's account in Romans 4 manages to overlook Abraham's shameful failure (oh the grace of God!), and we find this:
 
-{{< quote source="Romans 4:20-21" >}}
+{{< quote source="Romans 4:20-21" url="/ref/romans" >}}
 Yet Abraham did not waver through unbelief regarding the promise of God, but was strengthened in his faith and gave glory to God, being fully persuaded that God had power to do what he had promised.
 {{< /quote >}}
 
@@ -25,7 +25,7 @@ He believed again, and walked by faith. What then happened? He was strengthened 
 
 But the most striking consequence is found just before this.
 
-{{< quote source="Romans 4:18" >}}
+{{< quote source="Romans 4:18" url="/ref/romans" >}}
 Against all hope, Abraham in hope believed and so became the father of many nations.
 {{< /quote >}}
 

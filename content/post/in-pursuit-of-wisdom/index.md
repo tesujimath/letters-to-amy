@@ -15,7 +15,7 @@ Dear Amy,
 
 If this wisdom in the secret heart is so precious in the sight of the Lord then surely it is worth pursuing with zeal and determination. How exactly can we do that?
 
-{{< quote source="Psalm 119:9-16" >}}
+{{< quote source="Psalm 119:9-16" url="/ref/psalms" >}}
 How can a young man [or woman] keep his [or her] way pure? By guarding it according to your word.  
 With my whole heart I seek you; let me not wander from your commandments!  
 I have stored up your word in my heart, that I might not sin against you.  
@@ -46,13 +46,13 @@ _... and fix my eyes on your ways_ — every cyclist knows that you end up in th
 
 Ruthless consistency is required in pursuit of these things and we are not left alone in this. It is the heart-work of the Holy Spirit, his utmost desire for us, but we must not overlook how much discipline is required on our part, as Paul tells us.
 
-{{< quote source="1 Corinthians 9:24-25" >}}
+{{< quote source="1 Corinthians 9:24-25" url="/ref/1-corinthians" >}}
 Do you not know that in a race all the runners run, but only one receives the prize? So run that you may obtain it. Every athlete exercises self-control in all things. They do it to receive a perishable wreath, but we an imperishable.
 {{< /quote >}}
 
 And lest we forget what is at stake,
 
-{{< quote source="Matthew 5:8" >}}
+{{< quote source="Matthew 5:8" url="/ref/matthew" >}}
 “Blessed are the pure in heart, for they shall see God.”
 {{< /quote >}}
 

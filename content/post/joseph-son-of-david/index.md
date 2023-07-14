@@ -16,7 +16,7 @@ Now, have you ever been surprised to notice something afresh in a very familiar 
 
 And isn't the Bible truly amazing? I am continually finding such freshness, profound truths apparently plainly stated yet previously unnoticed or simply rediscovered. I came across one such only this week, in the oh-so-familiar Nativity story.
 
-{{< quote source="Matthew 1:18-23" >}}
+{{< quote source="Matthew 1:18-23" url="/ref/matthew" >}}
 When his mother Mary had been betrothed to Joseph, before they came together she was found to be with child from the Holy Spirit. And her husband Joseph, being a just man and unwilling to put her to shame, resolved to divorce her quietly. But as he considered these things, behold, an angel of the Lord appeared to him in a dream, saying, “Joseph, son of David, do not fear to take Mary as your wife, for that which is conceived in her is from the Holy Spirit. She will bear a son, and you shall call his name Jesus, for he will save his people from their sins.” All this took place to fulfil what the Lord had spoken by the prophet:
 
 “Behold, the virgin shall conceive and bear a son,
@@ -33,7 +33,7 @@ Parentage is important in the Bible. Notice throughout that characters are intro
 
 God's rescue mission in Christ was planned from the very beginning, in his glorious promise of defeat of Satan and rescue by Christ, the Son of God, and miraculously also a descendant of the first man and the first woman.
 
-{{< quote source="Genesis 3:14a, 15" >}}
+{{< quote source="Genesis 3:14a, 15" url="/ref/genesis" >}}
 The LORD God said to the serpent ...
 
 “I will put enmity between you and the woman,
@@ -45,7 +45,7 @@ By addressing Joseph as son of David the angel is reminding both him and us of j
 
 And it is not entirely dissimilar for us.
 
-{{< quote source="Psalm 139:13-16" >}}
+{{< quote source="Psalm 139:13-16" url="/ref/psalms" >}}
 For you formed my inward parts; you knitted me together in my mother's womb. I praise you, for I am fearfully and wonderfully made. Wonderful are your works; my soul knows it very well. My frame was not hidden from you, when I was being made in secret, intricately woven in the depths of the earth. Your eyes saw my unformed substance; in your book were written, every one of them, the days that were formed for me, when as yet there was none of them.
 {{< /quote >}}
 
