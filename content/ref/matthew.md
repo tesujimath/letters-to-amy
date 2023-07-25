@@ -9,6 +9,7 @@ description: "Scripture index"
 | 1:18-23 | [Joseph son of David]({{<relref "/post/joseph-son-of-david/index.md" >}}) |
 | 1:19 | [My soul magnifies the Lord]({{<relref "/post/my-soul-magnifies-the-lord/index.md" >}}) |
 | 2:1-2,9-12 | [The visit of the magi]({{<relref "/post/the-visit-of-the-magi/index.md" >}}) |
+| 5:3-9 | [The poor in spirit]({{<relref "/post/the-poor-in-spirit/index.md" >}}) |
 | 5:8 | [In pursuit of wisdom]({{<relref "/post/in-pursuit-of-wisdom/index.md" >}}) |
 | 5:8 | [The journey]({{<relref "/post/the-journey/index.md" >}}) |
 | 5:17 | [The grace-filled life]({{<relref "/post/the-grace-filled-life/index.md" >}}) |

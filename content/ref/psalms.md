@@ -28,6 +28,7 @@ description: "Scripture index"
 | 37:4 | [How to get what you want]({{<relref "/post/how-to-get-what-you-want/index.md" >}}) |
 | 46:2,6,9-10 | [Tranquility in the soul]({{<relref "/post/tranquility-in-the-soul/index.md" >}}) |
 | 51:6 | [Wisdom in the secret heart]({{<relref "/post/wisdom-in-the-secret-heart/index.md" >}}) |
+| 63:1,3-8 | [The poor in spirit]({{<relref "/post/the-poor-in-spirit/index.md" >}}) |
 | 69:30 | [Thankfulness that glorifies]({{<relref "/post/thankfulness-that-glorifies/index.md" >}}) |
 | 91:14 | [Expectant and not disappointed]({{<relref "/post/expectant-and-not-disappointed/index.md" >}}) |
 | 91:14 | [Rescue]({{<relref "/post/rescue/index.md" >}}) |
