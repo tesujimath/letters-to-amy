@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "But this I call to mind and therefore I have hope"
 date = "2023-01-04T08:30:00+13:00"
 description = "Wrath and mercy"
-tags = [ "judgment", "mercy", "faithfulness" ]
+tags = [ "apostasy", "judgment", "mercy", "faithfulness", "hope" ]
 image = "veit-hammer-YSnZqsF4DLQ-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Veit Hammer on Unsplash](https://unsplash.com/photos/YSnZqsF4DLQ)"
 +++
