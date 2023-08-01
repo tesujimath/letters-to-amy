@@ -11,6 +11,7 @@ description: "Scripture index"
 | 2:13 | [Thankfulness that glorifies]({{<relref "/post/thankfulness-that-glorifies/index.md" >}}) |
 | 2:20-22 | [Gentleness]({{<relref "/post/gentleness/index.md" >}}) |
 | 2:20-22 | [Reciprocity]({{<relref "/post/reciprocity/index.md" >}}) |
+| 3:4-6 | [Finding hope in the darkest times]({{<relref "/post/finding-hope-in-the-darkest-times/index.md" >}}) |
 | 3:4-6 | [The tar pit]({{<relref "/post/the-tar-pit/index.md" >}}) |
 | 3:4-6 | [The thorn in Paul's flesh]({{<relref "/post/the-thorn-in-pauls-flesh/index.md" >}}) |
 | 4:4,8 | [Joy]({{<relref "/post/joy/index.md" >}}) |
