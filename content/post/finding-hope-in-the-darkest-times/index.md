@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "Finding hope in the darkest times"
 date = "2023-08-02T06:25:00+12:00"
 description = "Knowing where to look"
-tags = [ "apostasy", "hope", "transformation" ]
+tags = [ "apostasy", "hope", "transformation", "light" ]
 image = "jongsun-lee-F-pSZO_jeE8-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Jongsun Lee on Unsplash](https://unsplash.com/photos/F-pSZO_jeE8)"
 +++
