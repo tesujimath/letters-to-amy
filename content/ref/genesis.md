@@ -6,6 +6,7 @@ description: "Scripture index"
 
 |  |  |
 | --- | --- |
+| 1:1-5 | [Creation]({{<relref "/post/creation/index.md" >}}) |
 | 1:31 | [Flood]({{<relref "/post/flood/index.md" >}}) |
 | 3:14-15 | [Joseph son of David]({{<relref "/post/joseph-son-of-david/index.md" >}}) |
 | 3:17 | [Uneven blessing]({{<relref "/post/uneven-blessing/index.md" >}}) |
