@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "Uneven blessing"
 date = "2022-09-21T06:24:00+12:00"
 description = "Does God play favourites?"
-tags = [ "sovereignty", "grace", "mercy" ]
+tags = [ "sovereignty", "grace", "mercy", "glory" ]
 image = "atul-pandey-0f3bZHXZSz8-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Atul Pandey on Unsplash](https://unsplash.com/photos/0f3bZHXZSz8)"
 +++

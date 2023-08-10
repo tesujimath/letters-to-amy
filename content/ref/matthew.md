@@ -12,6 +12,7 @@ description: "Scripture index"
 | 5:3-9 | [The poor in spirit]({{<relref "/post/the-poor-in-spirit/index.md" >}}) |
 | 5:8 | [In pursuit of wisdom]({{<relref "/post/in-pursuit-of-wisdom/index.md" >}}) |
 | 5:8 | [The journey]({{<relref "/post/the-journey/index.md" >}}) |
+| 5:14-16 | [A city on a hill]({{<relref "/post/a-city-on-a-hill/index.md" >}}) |
 | 5:17 | [The grace-filled life]({{<relref "/post/the-grace-filled-life/index.md" >}}) |
 | 5:20 | [The tar pit]({{<relref "/post/the-tar-pit/index.md" >}}) |
 | 6:12,14-15 | [Forgiving others]({{<relref "/post/forgiving-others/index.md" >}}) |
