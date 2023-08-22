@@ -37,6 +37,7 @@ description: "Scripture index"
 | 119:18 | [The shield of faith]({{<relref "/post/the-shield-of-faith/index.md" >}}) |
 | 119:30,32 | [Plain old fear]({{<relref "/post/plain-old-fear/index.md" >}}) |
 | 119:32 | [How to grow in reverent awe and wonder]({{<relref "/post/how-to-grow-in-reverent-awe-and-wonder/index.md" >}}) |
+| 119:49-50 | [O Lord, remember!]({{<relref "/post/o-lord-remember/index.md" >}}) |
 | 133:1 <br/> 135:3 | [Praise the Lord!]({{<relref "/post/praise-the-lord/index.md" >}}) |
 | 139 | [A great cloud of witnesses]({{<relref "/post/a-great-cloud-of-witnesses/index.md" >}}) |
 | 139:1-4,13-16 | [Fully known]({{<relref "/post/fully-known/index.md" >}}) |

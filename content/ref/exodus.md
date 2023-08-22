@@ -6,6 +6,7 @@ description: "Scripture index"
 
 |  |  |
 | --- | --- |
+| 2:23-25 | [O Lord, remember!]({{<relref "/post/o-lord-remember/index.md" >}}) |
 | 2:23-25 <br/> 3:7-8 | [What to pray for]({{<relref "/post/what-to-pray-for/index.md" >}}) |
 | 3:7-8 | [Dwelling in the land]({{<relref "/post/dwelling-in-the-land/index.md" >}}) |
 | 4:11-13 | [Biblical giants]({{<relref "/post/biblical-giants/index.md" >}}) |
