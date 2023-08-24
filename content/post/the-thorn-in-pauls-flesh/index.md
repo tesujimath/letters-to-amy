@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "The thorn in Paul's flesh"
 date = "2021-08-11T06:24:00+12:00"
 description = "And the grace in the thorn"
-tags = [ "shame", "redemption", "humility" ]
+tags = [ "shame", "redemption", "humility", "vulnerability" ]
 image = "jacqueline-day-krUUaZ4GvHk-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Jacqueline Day on Unsplash](https://unsplash.com/photos/krUUaZ4GvHk)"
 +++
