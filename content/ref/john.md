@@ -22,6 +22,7 @@ description: "Scripture index"
 | 13:34-35 | [Relational authenticity]({{<relref "/post/relational-authenticity/index.md" >}}) |
 | 14 | [Pray in the Spirit]({{<relref "/post/pray-in-the-spirit/index.md" >}}) |
 | 14:13-14 | [What to pray for]({{<relref "/post/what-to-pray-for/index.md" >}}) |
+| 14:14 | [The spiritual battle]({{<relref "/post/the-spiritual-battle/index.md" >}}) |
 | 14:14 | [The Symphony of Life]({{<relref "/post/the-symphony-of-life/index.md" >}}) |
 | 14:14 | [Throwing a mountain into the sea]({{<relref "/post/throwing-a-mountain-into-the-sea/index.md" >}}) |
 | 14:14 | [Unanswered prayer]({{<relref "/post/unanswered-prayer/index.md" >}}) |
