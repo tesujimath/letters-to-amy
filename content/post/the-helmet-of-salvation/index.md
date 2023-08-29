@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "The helmet of salvation"
 date = "2022-08-03T06:25:00+12:00"
 description = "It's all about hope"
-tags = [ "hope", "salvation" ]
+tags = [ "hope", "salvation", "spiritual warfare" ]
 image = "Cypraecassis_rufaGlobal.png"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Didier Descouens on Wikimedia Commons CC BY-SA 3.0](https://commons.m.wikimedia.org/wiki/File:Cypraecassis_rufaGlobal.png)"
 +++
