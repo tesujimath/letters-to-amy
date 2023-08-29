@@ -8,6 +8,7 @@ description: "Scripture index"
 | --- | --- |
 | 1:1-5,14 | [Creation]({{<relref "/post/creation/index.md" >}}) |
 | 1:5 | [Finding hope in the darkest times]({{<relref "/post/finding-hope-in-the-darkest-times/index.md" >}}) |
+| 2:1-10 | [Water into wine]({{<relref "/post/water-into-wine/index.md" >}}) |
 | 3:16 | [The disciple whom Jesus loved]({{<relref "/post/the-disciple-whom-jesus-loved/index.md" >}}) |
 | 6:28-29 | [What does the Lord want us to do?]({{<relref "/post/what-does-the-lord-want-us-to-do/index.md" >}}) |
 | 8:31-32 | [The truth will set you free]({{<relref "/post/the-truth-will-set-you-free/index.md" >}}) |
