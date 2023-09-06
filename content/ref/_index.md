@@ -17,8 +17,8 @@ menu:
 | [Deut]({{<relref "/ref/deuteronomy" >}}) | [Josh]({{<relref "/ref/joshua" >}}) | [Judg]({{<relref "/ref/judges" >}}) | [1 Sam]({{<relref "/ref/1-samuel" >}}) |
 | [2 Sam]({{<relref "/ref/2-samuel" >}}) | [1 Kgs]({{<relref "/ref/1-kings" >}}) | [2 Kgs]({{<relref "/ref/2-kings" >}}) | [1 Chr]({{<relref "/ref/1-chronicles" >}}) |
 | [Job]({{<relref "/ref/job" >}}) | [Ps]({{<relref "/ref/psalms" >}}) | [Prv]({{<relref "/ref/proverbs" >}}) | [Is]({{<relref "/ref/isaiah" >}}) |
-| [Jer]({{<relref "/ref/jeremiah" >}}) | [Lam]({{<relref "/ref/lamentations" >}}) | [Dan]({{<relref "/ref/daniel" >}}) | [Hab]({{<relref "/ref/habakkuk" >}}) |
-| [Zech]({{<relref "/ref/zechariah" >}}) | [Mal]({{<relref "/ref/malachi" >}}) |
+| [Jer]({{<relref "/ref/jeremiah" >}}) | [Lam]({{<relref "/ref/lamentations" >}}) | [Dan]({{<relref "/ref/daniel" >}}) | [Mic]({{<relref "/ref/micah" >}}) |
+| [Hab]({{<relref "/ref/habakkuk" >}}) | [Zech]({{<relref "/ref/zechariah" >}}) | [Mal]({{<relref "/ref/malachi" >}}) |
 
 **New Testament**
 |  |  |  |  |
