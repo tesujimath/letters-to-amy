@@ -36,7 +36,9 @@ Notice how it continues. The outcast and the alien are welcomed and invited in a
 Strangers shall stand and tend your flocks; foreigners shall be your plowmen and vinedressers; but you shall be called the priests of the LORD; they shall speak of you as the ministers of our God; you shall eat the wealth of the nations, and in their glory you shall boast.
 {{< /quote >}}
 
-The Lord's own people shall boast in the glory of these broken and vulnerable ones raised up. Why does the Lord set his love upon these who were not his people?
+The Lord's own people shall boast in the glory of these broken and vulnerable ones raised up.
+
+But why does the Lord set his love upon these who were not his people?
 
 {{< quote source="Isaiah 61:3" url="/ref/isaiah" >}}
 ... that they may be called oaks of righteousness, the planting of the LORD, that he may be glorified.
