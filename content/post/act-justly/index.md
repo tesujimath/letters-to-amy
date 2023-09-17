@@ -4,10 +4,8 @@ title = "Act justly"
 date = "2023-09-20T06:25:00+12:00"
 description = "An overlooked outworking of compassion"
 tags = [ "justice", "compassion", "forgiveness" ]
-image = "tingey-injury-law-firm-L4YGuSg0fxs-unsplash.jpg"
-image_position_list = "50% 38%"
-image_anchor = "Center"
-license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Tingey Injury Law Firm on Unsplash](https://unsplash.com/photos/L4YGuSg0fxs)"
+image = "tony-rojas-lk5MYKmGyFE-unsplash.jpg"
+license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Tony Rojas on Unsplash](https://unsplash.com/photos/lk5MYKmGyFE)"
 +++
 
 Dear Amy,
