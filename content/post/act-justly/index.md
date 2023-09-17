@@ -28,7 +28,7 @@ The Spirit of the Lord GOD is upon me, because the LORD has anointed me to bring
 
 (The opening of the prison to those who are bound could also be translated _the opening of the eyes to those who are blind_.)
 
-This is a justice which rescues and protects and defends and cares for the most vulnerable. It is a justice overflowing with compassion.
+This is a justice which rescues and protects and defends and cares for the most vulnerable. It is a justice overflowing with compassion. Are you beginning to see why “do justice” is a better translation than “act justly”?
 
 Notice how it continues. The outcast and the alien are welcomed and invited in and integrated. They receive blessing and protection from the Lord as ministered by his people. And his people in return are richly blessed as these vulnerable ones who are raised up and made whole become themselves the source of blessing.
 
