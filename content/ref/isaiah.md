@@ -12,3 +12,4 @@ description: "Scripture index"
 | 9:2 | [Finding hope in the darkest times]({{<relref "/post/finding-hope-in-the-darkest-times/index.md" >}}) |
 | 42:3 | [Gentleness]({{<relref "/post/gentleness/index.md" >}}) |
 | 43:16,18-19 | [Forgiving yourself]({{<relref "/post/forgiving-yourself/index.md" >}}) |
+| 61:1,3,5-6,8 | [Act justly]({{<relref "/post/act-justly/index.md" >}}) |
