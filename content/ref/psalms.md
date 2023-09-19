@@ -15,6 +15,7 @@ description: "Scripture index"
 | 23:1-3 | [Green pastures]({{<relref "/post/green-pastures/index.md" >}}) |
 | 25:8-9 | [He guides the humble in what is right]({{<relref "/post/he-guides-the-humble-in-what-is-right/index.md" >}}) |
 | 25:10 | [Faithfulness]({{<relref "/post/faithfulness/index.md" >}}) |
+| 25:10 | [Love mercy]({{<relref "/post/love-mercy/index.md" >}}) |
 | 25:12,14 | [Fear of the Lord is the beginning of wisdom]({{<relref "/post/fear-of-the-lord-is-the-beginning-of-wisdom/index.md" >}}) |
 | 25:21 | [Integrity and uprightness]({{<relref "/post/integrity-and-uprightness/index.md" >}}) |
 | 27:1,4-5,8-9,13-14 | [Living confidently in the Lord's love]({{<relref "/post/living-confidently-in-the-lords-love/index.md" >}}) |
@@ -37,6 +38,7 @@ description: "Scripture index"
 | 119:18 | [The shield of faith]({{<relref "/post/the-shield-of-faith/index.md" >}}) |
 | 119:30,32 | [Plain old fear]({{<relref "/post/plain-old-fear/index.md" >}}) |
 | 119:32 | [How to grow in reverent awe and wonder]({{<relref "/post/how-to-grow-in-reverent-awe-and-wonder/index.md" >}}) |
+| 119:41-42 | [Love mercy]({{<relref "/post/love-mercy/index.md" >}}) |
 | 119:49-50 | [O Lord, remember!]({{<relref "/post/o-lord-remember/index.md" >}}) |
 | 133:1 <br/> 135:3 | [Praise the Lord!]({{<relref "/post/praise-the-lord/index.md" >}}) |
 | 139 | [A great cloud of witnesses]({{<relref "/post/a-great-cloud-of-witnesses/index.md" >}}) |
@@ -46,4 +48,5 @@ description: "Scripture index"
 | 145 <br/> 147:1 | [Living confidently when the future is uncertain]({{<relref "/post/living-confidently-when-the-future-is-uncertain/index.md" >}}) |
 | 147:1,3 | [Comfort and healing]({{<relref "/post/comfort-and-healing/index.md" >}}) |
 | 147:1-6 | [Praise the Lord!]({{<relref "/post/praise-the-lord/index.md" >}}) |
+| 147:11 | [Love mercy]({{<relref "/post/love-mercy/index.md" >}}) |
 | 147:11 | [Peace and provision]({{<relref "/post/peace-and-provision/index.md" >}}) |
