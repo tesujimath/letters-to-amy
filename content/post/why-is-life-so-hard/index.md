@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "Why is life so hard?"
 date = "2021-05-12T06:48:00+12:00"
 description = "Longing for deliverance"
-tags = [ "pain", "waiting", "expectancy" ]
+tags = [ "pain", "waiting", "expectation" ]
 image = "hugo-jehanne-LOHVrTsdvzY-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Hugo Jehanne on Unsplash](https://unsplash.com/photos/LOHVrTsdvzY)"
 +++
