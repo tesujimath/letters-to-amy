@@ -29,5 +29,6 @@ description: "Scripture index"
 | 14:14 | [Unanswered prayer]({{<relref "/post/unanswered-prayer/index.md" >}}) |
 | 14:15 | [Love and holiness]({{<relref "/post/love-and-holiness/index.md" >}}) |
 | 14:27 | [Covid prayer]({{<relref "/post/covid-prayer/index.md" >}}) |
+| 15:9-11 | [With your God]({{<relref "/post/with-your-god/index.md" >}}) |
 | 19:30 | [Two victories]({{<relref "/post/two-victories/index.md" >}}) |
 | 19:26 <br/> 20:1-2 <br/> 21:20 | [The disciple whom Jesus loved]({{<relref "/post/the-disciple-whom-jesus-loved/index.md" >}}) |

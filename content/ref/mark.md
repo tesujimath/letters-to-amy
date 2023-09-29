@@ -14,4 +14,5 @@ description: "Scripture index"
 | 11:23-24 | [Impudent intercession]({{<relref "/post/impudence-in-intercession/index.md" >}}) |
 | 12:28-31 | [Love and holiness]({{<relref "/post/love-and-holiness/index.md" >}}) |
 | 12:28-31 | [The work which brings us rest]({{<relref "/post/the-work-which-brings-us-rest/index.md" >}}) |
+| 12:28-31 | [With your God]({{<relref "/post/with-your-god/index.md" >}}) |
 | 14:61-62 <br/> 15:22,24,34 | [Sacrifice]({{<relref "/post/sacrifice/index.md" >}}) |
