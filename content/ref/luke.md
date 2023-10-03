@@ -8,6 +8,7 @@ description: "Scripture index"
 | --- | --- |
 | 1:26-58 | [My soul magnifies the Lord]({{<relref "/post/my-soul-magnifies-the-lord/index.md" >}}) |
 | 4:1-13 | [The sword of the Spirit]({{<relref "/post/the-sword-of-the-spirit/index.md" >}}) |
+| 5:15-16 | [With your God]({{<relref "/post/with-your-god/index.md" >}}) |
 | 8:4-15 | [The desire of the sower]({{<relref "/post/the-desire-of-the-sower/index.md" >}}) |
 | 11:8-13 | [Impudent intercession]({{<relref "/post/impudence-in-intercession/index.md" >}}) |
 | 15:10 | [The love of God]({{<relref "/post/the-love-of-god/index.md" >}}) |
