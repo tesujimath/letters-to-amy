@@ -44,10 +44,10 @@ What would we expect in each case? A psalm which starts off with how pleasant it
 Instead, our psalm comprises an exposition of the Lord's character, of his nature, of his deeds. It is entirely about the Lord, the beautiful one. This is why we praise him!
 
 {{< quote source="Psalm 147:2-6" url="/ref/psalms" >}}
-The LORD builds up Jerusalem; he gathers the outcasts of Israel.  
-He heals the brokenhearted and binds up their wounds.  
-He determines the number of the stars; he gives to all of them their names.  
-Great is our Lord, and abundant in power; his understanding is beyond measure.  
+The LORD builds up Jerusalem; he gathers the outcasts of Israel.
+He heals the brokenhearted and binds up their wounds.
+He determines the number of the stars; he gives to all of them their names.
+Great is our Lord, and abundant in power; his understanding is beyond measure.
 The LORD lifts up the humble; he casts the wicked to the ground.
 {{< /quote >}}
 

@@ -16,13 +16,13 @@ Dear Amy,
 If this wisdom in the secret heart is so precious in the sight of the Lord then surely it is worth pursuing with zeal and determination. How exactly can we do that?
 
 {{< quote source="Psalm 119:9-16" url="/ref/psalms" >}}
-How can a young man [or woman] keep his [or her] way pure? By guarding it according to your word.  
-With my whole heart I seek you; let me not wander from your commandments!  
-I have stored up your word in my heart, that I might not sin against you.  
-Blessed are you, O LORD; teach me your statutes!  
-With my lips I declare all the rules of your mouth.  
-In the way of your testimonies I delight as much as in all riches.  
-I will meditate on your precepts and fix my eyes on your ways.  
+How can a young man [or woman] keep his [or her] way pure? By guarding it according to your word.
+With my whole heart I seek you; let me not wander from your commandments!
+I have stored up your word in my heart, that I might not sin against you.
+Blessed are you, O LORD; teach me your statutes!
+With my lips I declare all the rules of your mouth.
+In the way of your testimonies I delight as much as in all riches.
+I will meditate on your precepts and fix my eyes on your ways.
 I will delight in your statutes; I will not forget your word.
 {{< /quote >}}
 

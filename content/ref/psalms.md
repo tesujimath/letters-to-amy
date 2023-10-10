@@ -34,6 +34,7 @@ description: "Scripture index"
 | 91:14 | [Expectant and not disappointed<span style="font-size:smaller; padding-left:0.5em;">#24</span>]({{<relref "/post/expectant-and-not-disappointed/index.md" >}}) |
 | 91:14 | [Rescue<span style="font-size:smaller; padding-left:0.5em;">#38</span>]({{<relref "/post/rescue/index.md" >}}) |
 | 118:1,6,14,18-24,27 | [This is the day that the Lord has made<span style="font-size:smaller; padding-left:0.5em;">#115</span>]({{<relref "/post/this-is-the-day-that-the-Lord-has-made/index.md" >}}) |
+| 119:7,11-16 | [With an upright heart<span style="font-size:smaller; padding-left:0.5em;">#140</span>]({{<relref "/post/with-an-upright-heart/index.md" >}}) |
 | 119:9-16 | [In pursuit of wisdom<span style="font-size:smaller; padding-left:0.5em;">#106</span>]({{<relref "/post/in-pursuit-of-wisdom/index.md" >}}) |
 | 119:18 | [The shield of faith<span style="font-size:smaller; padding-left:0.5em;">#77</span>]({{<relref "/post/the-shield-of-faith/index.md" >}}) |
 | 119:30,32 | [Plain old fear<span style="font-size:smaller; padding-left:0.5em;">#9</span>]({{<relref "/post/plain-old-fear/index.md" >}}) |
