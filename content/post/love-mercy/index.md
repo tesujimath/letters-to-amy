@@ -23,7 +23,7 @@ And why love and not show? Why not “show mercy”? Wouldn't that go better wit
 
 The word translated mercy or kindness is _chêsêd_. Over the last couple of weeks or so I have been on a journey into _chêsêd_, mainly thanks to Jim McClure. It has been rich and deep. As we come to understand _chêsêd_ we come to understand something of the heart of God.
 
-{{< quote source="Adapted from Words of Life #5, Loyal Love — Chêsêd" author="Jim McClure" url="https://connectingwithyou.net/2016/12/12/words-of-life-5-loyal-love-chesed/" >}}
+{{< quote source="Words of Life #5, Loyal Love — Chêsêd" author="Adapted from Jim McClure" url="https://connectingwithyou.net/2016/12/12/words-of-life-5-loyal-love-chesed/" >}}
 The Hebrew _chêsêd_ has been translated by a variety of words including mercy, kindness, goodness, favour, pity and loving-kindness. Sometimes it has been translated as faithfulness, grace, leal-love, steadfast love and troth. The fact that so many words have been employed to translate _chêsêd_ reveals that it is extremely difficult to find an equivalent English word and every attempt is ultimately inadequate.
 
 _Chêsêd_ is love that is covenantal and it is about relationship. God's _chêsêd_ is wonderful, ever present, always surrounding, universal, superlative, quick to pardon, immense in its essence, immense in its duration, immense in its quantity, and, remarkably, can be understood.
