@@ -40,5 +40,6 @@ description: "Scripture index"
 | 11:33,36 | [Uneven blessing<span style="font-size:smaller; padding-left:0.5em;">#85</span>]({{<relref "/post/uneven-blessing/index.md" >}}) |
 | 12:1 | [Personal holiness<span style="font-size:smaller; padding-left:0.5em;">#83</span>]({{<relref "/post/personal-holiness/index.md" >}}) |
 | 12:2 | [Ruthless consistency<span style="font-size:smaller; padding-left:0.5em;">#68</span>]({{<relref "/post/ruthless-consistency/index.md" >}}) |
+| 12:2 | [With an upright heart<span style="font-size:smaller; padding-left:0.5em;">#140</span>]({{<relref "/post/with-an-upright-heart/index.md" >}}) |
 | 13:10 | [The grace-filled life<span style="font-size:smaller; padding-left:0.5em;">#89</span>]({{<relref "/post/the-grace-filled-life/index.md" >}}) |
 | 15:9 | [A melody made with the heart<span style="font-size:smaller; padding-left:0.5em;">#87</span>]({{<relref "/post/a-melody-made-with-the-heart/index.md" >}}) |
