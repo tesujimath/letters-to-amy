@@ -6,4 +6,4 @@ description: "Scripture index"
 
 |  |  |
 | --- | --- |
-| 9:9 | [Gentleness]({{<relref "/post/gentleness/index.md" >}}) |
+| 9:9 | [Gentleness<span style="font-size:smaller; padding-left:0.5em;">#41</span>]({{<relref "/post/gentleness/index.md" >}}) |
