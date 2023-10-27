@@ -7,6 +7,7 @@ description: "Scripture index"
 |  |  |
 | --- | --- |
 | 1:1-2,5-6 | [The next level of kindness<span style="font-size:smaller; padding-left:0.5em;">#142</span>]({{<relref "/post/the-next-level-of-kindness/index.md" >}}) |
+| 1:5 | [Courage and kindness<span style="font-size:smaller; padding-left:0.5em;">#143</span>]({{<relref "/post/courage-and-kindness/index.md" >}}) |
 | 1:18-23 | [Joseph son of David<span style="font-size:smaller; padding-left:0.5em;">#98</span>]({{<relref "/post/joseph-son-of-david/index.md" >}}) |
 | 1:19 | [My soul magnifies the Lord<span style="font-size:smaller; padding-left:0.5em;">#82</span>]({{<relref "/post/my-soul-magnifies-the-lord/index.md" >}}) |
 | 2:1-2,9-12 | [The visit of the magi<span style="font-size:smaller; padding-left:0.5em;">#99</span>]({{<relref "/post/the-visit-of-the-magi/index.md" >}}) |

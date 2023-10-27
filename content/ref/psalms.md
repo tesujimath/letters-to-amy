@@ -49,5 +49,6 @@ description: "Scripture index"
 | 145 <br/> 147:1 | [Living confidently when the future is uncertain<span style="font-size:smaller; padding-left:0.5em;">#18</span>]({{<relref "/post/living-confidently-when-the-future-is-uncertain/index.md" >}}) |
 | 147:1,3 | [Comfort and healing<span style="font-size:smaller; padding-left:0.5em;">#111</span>]({{<relref "/post/comfort-and-healing/index.md" >}}) |
 | 147:1-6 | [Praise the Lord!<span style="font-size:smaller; padding-left:0.5em;">#103</span>]({{<relref "/post/praise-the-lord/index.md" >}}) |
+| 147:5-6 | [Courage and kindness<span style="font-size:smaller; padding-left:0.5em;">#143</span>]({{<relref "/post/courage-and-kindness/index.md" >}}) |
 | 147:11 | [Love mercy<span style="font-size:smaller; padding-left:0.5em;">#138</span>]({{<relref "/post/love-mercy/index.md" >}}) |
 | 147:11 | [Peace and provision<span style="font-size:smaller; padding-left:0.5em;">#1</span>]({{<relref "/post/peace-and-provision/index.md" >}}) |
