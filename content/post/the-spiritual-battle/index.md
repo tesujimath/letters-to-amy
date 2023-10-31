@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "The spiritual battle"
 date = "2023-09-06T06:25:00+12:00"
 description = "Praying and waiting and greatly loved"
-tags = [ "spiritual warfare", "prayer", "waiting" ]
+tags = [ "spiritual warfare", "prayer", "waiting", "courage" ]
 image = "cade-roberts-EpIUbeFrqwQ-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Cade Roberts on Unsplash](https://unsplash.com/photos/EpIUbeFrqwQ)"
 +++
