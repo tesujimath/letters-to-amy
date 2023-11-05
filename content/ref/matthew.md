@@ -6,6 +6,7 @@ description: "Scripture index"
 
 |  |  |
 | --- | --- |
+| 1:1,5-6 | [Humiliation and grace<span style="font-size:smaller; padding-left:0.5em;">#144</span>]({{<relref "/post/humiliation-and-grace/index.md" >}}) |
 | 1:1-2,5-6 | [The next level of kindness<span style="font-size:smaller; padding-left:0.5em;">#142</span>]({{<relref "/post/the-next-level-of-kindness/index.md" >}}) |
 | 1:5 | [Courage and kindness<span style="font-size:smaller; padding-left:0.5em;">#143</span>]({{<relref "/post/courage-and-kindness/index.md" >}}) |
 | 1:18-23 | [Joseph son of David<span style="font-size:smaller; padding-left:0.5em;">#98</span>]({{<relref "/post/joseph-son-of-david/index.md" >}}) |
