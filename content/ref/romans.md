@@ -10,6 +10,7 @@ description: "Scripture index"
 | 1:11-12 | [Reciprocity<span style="font-size:smaller; padding-left:0.5em;">#126</span>]({{<relref "/post/reciprocity/index.md" >}}) |
 | 1:17 <br/> 3:22 | [The breastplate of righteousness<span style="font-size:smaller; padding-left:0.5em;">#75</span>]({{<relref "/post/the-breastplate-of-righteousness/index.md" >}}) |
 | 3:21-22,27 | [Personal holiness<span style="font-size:smaller; padding-left:0.5em;">#83</span>]({{<relref "/post/personal-holiness/index.md" >}}) |
+| 3:22-23 | [Humiliation and grace<span style="font-size:smaller; padding-left:0.5em;">#144</span>]({{<relref "/post/humiliation-and-grace/index.md" >}}) |
 | 3:22-24 | [Relational authenticity<span style="font-size:smaller; padding-left:0.5em;">#50</span>]({{<relref "/post/relational-authenticity/index.md" >}}) |
 | 3:22-24 | [The belt of truth<span style="font-size:smaller; padding-left:0.5em;">#74</span>]({{<relref "/post/the-belt-of-truth/index.md" >}}) |
 | 3:22-24 | [The tar pit<span style="font-size:smaller; padding-left:0.5em;">#71</span>]({{<relref "/post/the-tar-pit/index.md" >}}) |
