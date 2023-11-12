@@ -18,4 +18,5 @@ description: "Scripture index"
 | 17:1 | [Personal holiness<span style="font-size:smaller; padding-left:0.5em;">#83</span>]({{<relref "/post/personal-holiness/index.md" >}}) |
 | 17:1 | [Walking by faith<span style="font-size:smaller; padding-left:0.5em;">#19</span>]({{<relref "/post/walking-by-faith/index.md" >}}) |
 | 25 <br/> 35:9-12 | [The God of Jacob<span style="font-size:smaller; padding-left:0.5em;">#101</span>]({{<relref "/post/the-god-of-jacob/index.md" >}}) |
+| 38:7,10,13-16 | [Hope for the hopeless<span style="font-size:smaller; padding-left:0.5em;">#145</span>]({{<relref "/post/hope-for-the-hopeless/index.md" >}}) |
 | 47:27 | [What to pray for<span style="font-size:smaller; padding-left:0.5em;">#90</span>]({{<relref "/post/what-to-pray-for/index.md" >}}) |
