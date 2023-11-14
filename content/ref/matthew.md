@@ -8,6 +8,7 @@ description: "Scripture index"
 | --- | --- |
 | 1:1,5-6 | [Humiliation and grace<span style="font-size:smaller; padding-left:0.5em;">#144</span>]({{<relref "/post/humiliation-and-grace/index.md" >}}) |
 | 1:1-2,5-6 | [The next level of kindness<span style="font-size:smaller; padding-left:0.5em;">#142</span>]({{<relref "/post/the-next-level-of-kindness/index.md" >}}) |
+| 1:2-3 | [Hope for the hopeless<span style="font-size:smaller; padding-left:0.5em;">#145</span>]({{<relref "/post/hope-for-the-hopeless/index.md" >}}) |
 | 1:5 | [Courage and kindness<span style="font-size:smaller; padding-left:0.5em;">#143</span>]({{<relref "/post/courage-and-kindness/index.md" >}}) |
 | 1:18-23 | [Joseph son of David<span style="font-size:smaller; padding-left:0.5em;">#98</span>]({{<relref "/post/joseph-son-of-david/index.md" >}}) |
 | 1:19 | [My soul magnifies the Lord<span style="font-size:smaller; padding-left:0.5em;">#82</span>]({{<relref "/post/my-soul-magnifies-the-lord/index.md" >}}) |
@@ -23,6 +24,7 @@ description: "Scripture index"
 | 6:33 | [The shield of faith<span style="font-size:smaller; padding-left:0.5em;">#77</span>]({{<relref "/post/the-shield-of-faith/index.md" >}}) |
 | 7:7,11 | [Unanswered prayer<span style="font-size:smaller; padding-left:0.5em;">#36</span>]({{<relref "/post/unanswered-prayer/index.md" >}}) |
 | 7:7-8 | [The desire of the sower<span style="font-size:smaller; padding-left:0.5em;">#119</span>]({{<relref "/post/the-desire-of-the-sower/index.md" >}}) |
+| 9:13 | [Hope for the hopeless<span style="font-size:smaller; padding-left:0.5em;">#145</span>]({{<relref "/post/hope-for-the-hopeless/index.md" >}}) |
 | 11:28-30 | [Gentleness<span style="font-size:smaller; padding-left:0.5em;">#41</span>]({{<relref "/post/gentleness/index.md" >}}) |
 | 11:28-30 | [The work which brings us rest<span style="font-size:smaller; padding-left:0.5em;">#110</span>]({{<relref "/post/the-work-which-brings-us-rest/index.md" >}}) |
 | 12:6-8 | [Black and white?<span style="font-size:smaller; padding-left:0.5em;">#88</span>]({{<relref "/post/black-and-white/index.md" >}}) |
