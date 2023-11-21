@@ -34,6 +34,7 @@ description: "Scripture index"
 | 8:18-27 | [Why is life so hard?<span style="font-size:smaller; padding-left:0.5em;">#14</span>]({{<relref "/post/why-is-life-so-hard/index.md" >}}) |
 | 8:26 | [Pray in the Spirit<span style="font-size:smaller; padding-left:0.5em;">#80</span>]({{<relref "/post/pray-in-the-spirit/index.md" >}}) |
 | 8:28 | [Experiencing grace<span style="font-size:smaller; padding-left:0.5em;">#20</span>]({{<relref "/post/experiencing-grace/index.md" >}}) |
+| 8:31-32 | [Soaring on wings like an eagle<span style="font-size:smaller; padding-left:0.5em;">#146</span>]({{<relref "/post/soaring-on-wings-like-an-eagle/index.md" >}}) |
 | 8:32 | [The master craftsman<span style="font-size:smaller; padding-left:0.5em;">#61</span>]({{<relref "/post/the-master-craftsman/index.md" >}}) |
 | 8:33-34 | [Forgiving yourself<span style="font-size:smaller; padding-left:0.5em;">#73</span>]({{<relref "/post/forgiving-yourself/index.md" >}}) |
 | 9:2-3,14-15,21-23 <br/> 10:1 | [Uneven blessing<span style="font-size:smaller; padding-left:0.5em;">#85</span>]({{<relref "/post/uneven-blessing/index.md" >}}) |
