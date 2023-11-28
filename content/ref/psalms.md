@@ -41,12 +41,13 @@ description: "Scripture index"
 | 119:32 | [How to grow in reverent awe and wonder<span style="font-size:smaller; padding-left:0.5em;">#6</span>]({{<relref "/post/how-to-grow-in-reverent-awe-and-wonder/index.md" >}}) |
 | 119:41-42 | [Love mercy<span style="font-size:smaller; padding-left:0.5em;">#138</span>]({{<relref "/post/love-mercy/index.md" >}}) |
 | 119:49-50 | [O Lord, remember!<span style="font-size:smaller; padding-left:0.5em;">#133</span>]({{<relref "/post/o-lord-remember/index.md" >}}) |
+| 130:1,5-8 | [Soaring through waiting<span style="font-size:smaller; padding-left:0.5em;">#147</span>]({{<relref "/post/soaring-through-waiting/index.md" >}}) |
 | 133:1 <br/> 135:3 | [Praise the Lord!<span style="font-size:smaller; padding-left:0.5em;">#103</span>]({{<relref "/post/praise-the-lord/index.md" >}}) |
 | 139 | [A great cloud of witnesses<span style="font-size:smaller; padding-left:0.5em;">#52</span>]({{<relref "/post/a-great-cloud-of-witnesses/index.md" >}}) |
 | 139:1-4,13-16 | [Fully known<span style="font-size:smaller; padding-left:0.5em;">#91</span>]({{<relref "/post/fully-known/index.md" >}}) |
 | 139:13-16 | [Joseph son of David<span style="font-size:smaller; padding-left:0.5em;">#98</span>]({{<relref "/post/joseph-son-of-david/index.md" >}}) |
 | 145:2-3,5,8-9,13-14,17-21 | [How can we love the Lord this much?<span style="font-size:smaller; padding-left:0.5em;">#13</span>]({{<relref "/post/how-can-we-love-the-lord-this-much/index.md" >}}) |
-| 145 <br/> 147:1 | [Living confidently when the future is uncertain<span style="font-size:smaller; padding-left:0.5em;">#18</span>]({{<relref "/post/living-confidently-when-the-future-is-uncertain/index.md" >}}) |
+| 145 <br/> 147:11 | [Living confidently when the future is uncertain<span style="font-size:smaller; padding-left:0.5em;">#18</span>]({{<relref "/post/living-confidently-when-the-future-is-uncertain/index.md" >}}) |
 | 147:1,3 | [Comfort and healing<span style="font-size:smaller; padding-left:0.5em;">#111</span>]({{<relref "/post/comfort-and-healing/index.md" >}}) |
 | 147:1-6 | [Praise the Lord!<span style="font-size:smaller; padding-left:0.5em;">#103</span>]({{<relref "/post/praise-the-lord/index.md" >}}) |
 | 147:5-6 | [Courage and kindness<span style="font-size:smaller; padding-left:0.5em;">#143</span>]({{<relref "/post/courage-and-kindness/index.md" >}}) |
