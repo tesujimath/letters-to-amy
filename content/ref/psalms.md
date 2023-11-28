@@ -47,7 +47,7 @@ description: "Scripture index"
 | 139:1-4,13-16 | [Fully known<span style="font-size:smaller; padding-left:0.5em;">#91</span>]({{<relref "/post/fully-known/index.md" >}}) |
 | 139:13-16 | [Joseph son of David<span style="font-size:smaller; padding-left:0.5em;">#98</span>]({{<relref "/post/joseph-son-of-david/index.md" >}}) |
 | 145:2-3,5,8-9,13-14,17-21 | [How can we love the Lord this much?<span style="font-size:smaller; padding-left:0.5em;">#13</span>]({{<relref "/post/how-can-we-love-the-lord-this-much/index.md" >}}) |
-| 145 <br/> 147:1 | [Living confidently when the future is uncertain<span style="font-size:smaller; padding-left:0.5em;">#18</span>]({{<relref "/post/living-confidently-when-the-future-is-uncertain/index.md" >}}) |
+| 145 <br/> 147:11 | [Living confidently when the future is uncertain<span style="font-size:smaller; padding-left:0.5em;">#18</span>]({{<relref "/post/living-confidently-when-the-future-is-uncertain/index.md" >}}) |
 | 147:1,3 | [Comfort and healing<span style="font-size:smaller; padding-left:0.5em;">#111</span>]({{<relref "/post/comfort-and-healing/index.md" >}}) |
 | 147:1-6 | [Praise the Lord!<span style="font-size:smaller; padding-left:0.5em;">#103</span>]({{<relref "/post/praise-the-lord/index.md" >}}) |
 | 147:5-6 | [Courage and kindness<span style="font-size:smaller; padding-left:0.5em;">#143</span>]({{<relref "/post/courage-and-kindness/index.md" >}}) |
