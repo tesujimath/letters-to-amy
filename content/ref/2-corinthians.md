@@ -8,6 +8,7 @@ description: "Scripture index"
 | --- | --- |
 | 1:3-4 | [Comfort and healing<span style="font-size:smaller; padding-left:0.5em;">#111</span>]({{<relref "/post/comfort-and-healing/index.md" >}}) |
 | 1:3-5 | [The God of all comfort<span style="font-size:smaller; padding-left:0.5em;">#66</span>]({{<relref "/post/the-god-of-all-comfort/index.md" >}}) |
+| 1:8-11 | [Answered prayer<span style="font-size:smaller; padding-left:0.5em;">#148</span>]({{<relref "/post/answered-prayer/index.md" >}}) |
 | 3:3,7-18 | [From glory to glory<span style="font-size:smaller; padding-left:0.5em;">#125</span>]({{<relref "/post/from-glory-to-glory/index.md" >}}) |
 | 4:6-7 | [A city on a hill<span style="font-size:smaller; padding-left:0.5em;">#132</span>]({{<relref "/post/a-city-on-a-hill/index.md" >}}) |
 | 5:7 | [Blinded by seeing <span style="font-size:smaller; padding-left:0.5em;">#93</span>]({{<relref "/post/blinded-by-seeing/index.md" >}}) |

@@ -12,3 +12,4 @@ description: "Scripture index"
 | 2:1-3 | [Discouragement<span style="font-size:smaller; padding-left:0.5em;">#128</span>]({{<relref "/post/discouragement/index.md" >}}) |
 | 3:3 | [On being vulnerable<span style="font-size:smaller; padding-left:0.5em;">#17</span>]({{<relref "/post/on-being-vulnerable/index.md" >}}) |
 | 3:12 | [Kindness<span style="font-size:smaller; padding-left:0.5em;">#45</span>]({{<relref "/post/kindness/index.md" >}}) |
+| 4:2 | [Answered prayer<span style="font-size:smaller; padding-left:0.5em;">#148</span>]({{<relref "/post/answered-prayer/index.md" >}}) |

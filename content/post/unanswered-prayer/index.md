@@ -4,6 +4,7 @@ title = "Unanswered prayer"
 date = "2021-10-13T06:31:00+13:00"
 description = "An invitation"
 tags = [ "prayer", "trust", "pain", "waiting" ]
+related = [ "/post/answered-prayer/index.md" ]
 image = "sasha-freemind-nXo2ZsKHTHg-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Sasha Freemind on Unsplash](https://unsplash.com/photos/nXo2ZsKHTHg)"
 +++
