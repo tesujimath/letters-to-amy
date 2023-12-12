@@ -13,6 +13,7 @@ description: "Scripture index"
 | 19 | [The heavens declare the glory of God<span style="font-size:smaller; padding-left:0.5em;">#21</span>]({{<relref "/post/the-heavens-declare-the-glory-of-god/index.md" >}}) |
 | 23:1,3-5 | [He is with you<span style="font-size:smaller; padding-left:0.5em;">#70</span>]({{<relref "/post/he-is-with-you/index.md" >}}) |
 | 23:1-3 | [Green pastures<span style="font-size:smaller; padding-left:0.5em;">#69</span>]({{<relref "/post/green-pastures/index.md" >}}) |
+| 23:6 | [Expectation in unsolicited blessing<span style="font-size:smaller; padding-left:0.5em;">#149</span>]({{<relref "/post/expectation-in-unsolicited-blessing/index.md" >}}) |
 | 25:8-9 | [He guides the humble in what is right<span style="font-size:smaller; padding-left:0.5em;">#4</span>]({{<relref "/post/he-guides-the-humble-in-what-is-right/index.md" >}}) |
 | 25:10 | [Faithfulness<span style="font-size:smaller; padding-left:0.5em;">#48</span>]({{<relref "/post/faithfulness/index.md" >}}) |
 | 25:10 | [Love mercy<span style="font-size:smaller; padding-left:0.5em;">#138</span>]({{<relref "/post/love-mercy/index.md" >}}) |
