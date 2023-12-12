@@ -16,6 +16,7 @@ description: "Scripture index"
 | 8:44 | [The way to holiness<span style="font-size:smaller; padding-left:0.5em;">#122</span>]({{<relref "/post/the-way-to-holiness/index.md" >}}) |
 | 8:51 | [The breastplate of righteousness<span style="font-size:smaller; padding-left:0.5em;">#75</span>]({{<relref "/post/the-breastplate-of-righteousness/index.md" >}}) |
 | 10:10 | [Expectant and not disappointed<span style="font-size:smaller; padding-left:0.5em;">#24</span>]({{<relref "/post/expectant-and-not-disappointed/index.md" >}}) |
+| 10:10 | [Expectation in unsolicited blessing<span style="font-size:smaller; padding-left:0.5em;">#149</span>]({{<relref "/post/expectation-in-unsolicited-blessing/index.md" >}}) |
 | 10:10 | [Forgiving yourself<span style="font-size:smaller; padding-left:0.5em;">#73</span>]({{<relref "/post/forgiving-yourself/index.md" >}}) |
 | 10:10 | [This is the day that the Lord has made<span style="font-size:smaller; padding-left:0.5em;">#115</span>]({{<relref "/post/this-is-the-day-that-the-Lord-has-made/index.md" >}}) |
 | 11:1,3,5-6,17,21 | [Perfect timing<span style="font-size:smaller; padding-left:0.5em;">#59</span>]({{<relref "/post/perfect-timing/index.md" >}}) |

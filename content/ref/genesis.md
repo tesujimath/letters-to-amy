@@ -7,6 +7,7 @@ description: "Scripture index"
 |  |  |
 | --- | --- |
 | 1:1-5 | [Creation<span style="font-size:smaller; padding-left:0.5em;">#131</span>]({{<relref "/post/creation/index.md" >}}) |
+| 1:27-28 | [Expectation in unsolicited blessing<span style="font-size:smaller; padding-left:0.5em;">#149</span>]({{<relref "/post/expectation-in-unsolicited-blessing/index.md" >}}) |
 | 1:31 | [Flood<span style="font-size:smaller; padding-left:0.5em;">#108</span>]({{<relref "/post/flood/index.md" >}}) |
 | 3:14-15 | [Joseph son of David<span style="font-size:smaller; padding-left:0.5em;">#98</span>]({{<relref "/post/joseph-son-of-david/index.md" >}}) |
 | 3:17 | [Uneven blessing<span style="font-size:smaller; padding-left:0.5em;">#85</span>]({{<relref "/post/uneven-blessing/index.md" >}}) |
