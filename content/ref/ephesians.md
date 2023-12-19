@@ -10,6 +10,7 @@ description: "Scripture index"
 | 1:3,13-14 | [A deposit guaranteeing our inheritance<span style="font-size:smaller; padding-left:0.5em;">#35</span>]({{<relref "/post/a-deposit-guaranteeing-our-inheritance/index.md" >}}) |
 | 1:3,18-20 | [The eyes of your heart<span style="font-size:smaller; padding-left:0.5em;">#33</span>]({{<relref "/post/the-eyes-of-your-heart/index.md" >}}) |
 | 1:3-4 | [The way to holiness<span style="font-size:smaller; padding-left:0.5em;">#122</span>]({{<relref "/post/the-way-to-holiness/index.md" >}}) |
+| 1:4 | [What if?<span style="font-size:smaller; padding-left:0.5em;">#150</span>]({{<relref "/post/what-if/index.md" >}}) |
 | 1:4,15-18 | [How long, O Lord?<span style="font-size:smaller; padding-left:0.5em;">#102</span>]({{<relref "/post/how-long-o-lord/index.md" >}}) |
 | 1:4-5,11-14 | [Predestination<span style="font-size:smaller; padding-left:0.5em;">#32</span>]({{<relref "/post/predestination/index.md" >}}) |
 | 1:7-9 | [A mystery revealed<span style="font-size:smaller; padding-left:0.5em;">#34</span>]({{<relref "/post/a-mystery-revealed/index.md" >}}) |
