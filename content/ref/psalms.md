@@ -17,6 +17,7 @@ description: "Scripture index"
 | 25:8-9 | [He guides the humble in what is right<span style="font-size:smaller; padding-left:0.5em;">#4</span>]({{<relref "/post/he-guides-the-humble-in-what-is-right/index.md" >}}) |
 | 25:10 | [Faithfulness<span style="font-size:smaller; padding-left:0.5em;">#48</span>]({{<relref "/post/faithfulness/index.md" >}}) |
 | 25:10 | [Love mercy<span style="font-size:smaller; padding-left:0.5em;">#138</span>]({{<relref "/post/love-mercy/index.md" >}}) |
+| 25:10 | [What if?<span style="font-size:smaller; padding-left:0.5em;">#150</span>]({{<relref "/post/what-if/index.md" >}}) |
 | 25:12,14 | [Fear of the Lord is the beginning of wisdom<span style="font-size:smaller; padding-left:0.5em;">#5</span>]({{<relref "/post/fear-of-the-lord-is-the-beginning-of-wisdom/index.md" >}}) |
 | 25:21 | [Integrity and uprightness<span style="font-size:smaller; padding-left:0.5em;">#46</span>]({{<relref "/post/integrity-and-uprightness/index.md" >}}) |
 | 27:1,4-5,8-9,13-14 | [Living confidently in the Lord's love<span style="font-size:smaller; padding-left:0.5em;">#23</span>]({{<relref "/post/living-confidently-in-the-lords-love/index.md" >}}) |

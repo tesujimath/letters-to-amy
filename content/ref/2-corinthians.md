@@ -10,6 +10,7 @@ description: "Scripture index"
 | 1:3-5 | [The God of all comfort<span style="font-size:smaller; padding-left:0.5em;">#66</span>]({{<relref "/post/the-god-of-all-comfort/index.md" >}}) |
 | 1:8-11 | [Answered prayer<span style="font-size:smaller; padding-left:0.5em;">#148</span>]({{<relref "/post/answered-prayer/index.md" >}}) |
 | 3:3,7-18 | [From glory to glory<span style="font-size:smaller; padding-left:0.5em;">#125</span>]({{<relref "/post/from-glory-to-glory/index.md" >}}) |
+| 3:18 | [What if?<span style="font-size:smaller; padding-left:0.5em;">#150</span>]({{<relref "/post/what-if/index.md" >}}) |
 | 4:6-7 | [A city on a hill<span style="font-size:smaller; padding-left:0.5em;">#132</span>]({{<relref "/post/a-city-on-a-hill/index.md" >}}) |
 | 5:7 | [Blinded by seeing <span style="font-size:smaller; padding-left:0.5em;">#93</span>]({{<relref "/post/blinded-by-seeing/index.md" >}}) |
 | 5:17 | [On being vulnerable<span style="font-size:smaller; padding-left:0.5em;">#17</span>]({{<relref "/post/on-being-vulnerable/index.md" >}}) |

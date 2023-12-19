@@ -21,6 +21,7 @@ description: "Scripture index"
 | 5:17 | [The grace-filled life<span style="font-size:smaller; padding-left:0.5em;">#89</span>]({{<relref "/post/the-grace-filled-life/index.md" >}}) |
 | 5:20 | [The tar pit<span style="font-size:smaller; padding-left:0.5em;">#71</span>]({{<relref "/post/the-tar-pit/index.md" >}}) |
 | 6:12,14-15 | [Forgiving others<span style="font-size:smaller; padding-left:0.5em;">#72</span>]({{<relref "/post/forgiving-others/index.md" >}}) |
+| 6:21,25 | [What if?<span style="font-size:smaller; padding-left:0.5em;">#150</span>]({{<relref "/post/what-if/index.md" >}}) |
 | 6:33 | [The shield of faith<span style="font-size:smaller; padding-left:0.5em;">#77</span>]({{<relref "/post/the-shield-of-faith/index.md" >}}) |
 | 7:7,11 | [Unanswered prayer<span style="font-size:smaller; padding-left:0.5em;">#36</span>]({{<relref "/post/unanswered-prayer/index.md" >}}) |
 | 7:7-8 | [The desire of the sower<span style="font-size:smaller; padding-left:0.5em;">#119</span>]({{<relref "/post/the-desire-of-the-sower/index.md" >}}) |
