@@ -43,6 +43,7 @@ description: "Scripture index"
 | 119:32 | [How to grow in reverent awe and wonder<span style="font-size:smaller; padding-left:0.5em;">#6</span>]({{<relref "/post/how-to-grow-in-reverent-awe-and-wonder/index.md" >}}) |
 | 119:41-42 | [Love mercy<span style="font-size:smaller; padding-left:0.5em;">#138</span>]({{<relref "/post/love-mercy/index.md" >}}) |
 | 119:49-50 | [O Lord, remember!<span style="font-size:smaller; padding-left:0.5em;">#133</span>]({{<relref "/post/o-lord-remember/index.md" >}}) |
+| 119:65-72,75 | [The goodness of God<span style="font-size:smaller; padding-left:0.5em;">#151</span>]({{<relref "/post/the-goodness-of-god/index.md" >}}) |
 | 130:1,5-8 | [Soaring through waiting<span style="font-size:smaller; padding-left:0.5em;">#147</span>]({{<relref "/post/soaring-through-waiting/index.md" >}}) |
 | 133:1 <br/> 135:3 | [Praise the Lord!<span style="font-size:smaller; padding-left:0.5em;">#103</span>]({{<relref "/post/praise-the-lord/index.md" >}}) |
 | 139 | [A great cloud of witnesses<span style="font-size:smaller; padding-left:0.5em;">#52</span>]({{<relref "/post/a-great-cloud-of-witnesses/index.md" >}}) |
