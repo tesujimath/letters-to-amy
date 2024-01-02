@@ -20,6 +20,7 @@ description: "Scripture index"
 | 25:10 | [What if?<span style="font-size:smaller; padding-left:0.5em;">#150</span>]({{<relref "/post/what-if/index.md" >}}) |
 | 25:12,14 | [Fear of the Lord is the beginning of wisdom<span style="font-size:smaller; padding-left:0.5em;">#5</span>]({{<relref "/post/fear-of-the-lord-is-the-beginning-of-wisdom/index.md" >}}) |
 | 25:21 | [Integrity and uprightness<span style="font-size:smaller; padding-left:0.5em;">#46</span>]({{<relref "/post/integrity-and-uprightness/index.md" >}}) |
+| 26:1-3 | [What now?<span style="font-size:smaller; padding-left:0.5em;">#152</span>]({{<relref "/post/what-now/index.md" >}}) |
 | 27:1,4-5,8-9,13-14 | [Living confidently in the Lord's love<span style="font-size:smaller; padding-left:0.5em;">#23</span>]({{<relref "/post/living-confidently-in-the-lords-love/index.md" >}}) |
 | 27:13 | [Expectant and not disappointed<span style="font-size:smaller; padding-left:0.5em;">#24</span>]({{<relref "/post/expectant-and-not-disappointed/index.md" >}}) |
 | 33:4 | [Faithfulness<span style="font-size:smaller; padding-left:0.5em;">#48</span>]({{<relref "/post/faithfulness/index.md" >}}) |
@@ -56,3 +57,4 @@ description: "Scripture index"
 | 147:5-6 | [Courage and kindness<span style="font-size:smaller; padding-left:0.5em;">#143</span>]({{<relref "/post/courage-and-kindness/index.md" >}}) |
 | 147:11 | [Love mercy<span style="font-size:smaller; padding-left:0.5em;">#138</span>]({{<relref "/post/love-mercy/index.md" >}}) |
 | 147:11 | [Peace and provision<span style="font-size:smaller; padding-left:0.5em;">#1</span>]({{<relref "/post/peace-and-provision/index.md" >}}) |
+| 147:11 | [What now?<span style="font-size:smaller; padding-left:0.5em;">#152</span>]({{<relref "/post/what-now/index.md" >}}) |
