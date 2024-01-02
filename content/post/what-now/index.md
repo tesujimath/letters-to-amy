@@ -1,7 +1,7 @@
 +++
 author = "Simon Guest"
 title = "What now?"
-date = "2024-01-03T08:30:00+13:00"
+date = "2024-01-03T08:01:00+13:00"
 description = "Walk in your integrity and his faithfulness"
 tags = [ "humility", "integrity", "faithfulness", "mercy" ]
 image = "nathan-trampe-oOmwruKXv5U-unsplash.jpg"
