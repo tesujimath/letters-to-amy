@@ -18,6 +18,7 @@
             nativeBuildInputs = [
               hugo
               just
+              nushell
               static-web-server
             ];
           };
