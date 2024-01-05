@@ -1,6 +1,6 @@
 ---
 title: Topics
-layout: "tags"
+type: "topic-index"
 menu:
     main:
         weight: -62
