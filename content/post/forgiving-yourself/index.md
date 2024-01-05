@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "Forgiving yourself"
 date = "2022-06-29T06:25:00+12:00"
 description = "And banishing regret"
-tags = [ "forgiveness", "rescue", "present" ]
+tags = [ "forgiveness", "rescue", "present", "righteousness" ]
 image = "stephen-leonardi-TvzRUkSlCy4-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Stephen Leonardi on Unsplash](https://unsplash.com/photos/TvzRUkSlCy4)"
 +++

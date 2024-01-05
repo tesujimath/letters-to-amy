@@ -47,7 +47,7 @@
   <section class="article-footer">
     <section class="article-tags">
       {{ range .Pages.ByTitle }}
-      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}{{ if $.Site.Params.tagCount }} ({{ .Pages | len }}){{ end }}</a>
       {{ end }}
     </section>
   </section>

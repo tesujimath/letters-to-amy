@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "Unanswered prayer"
 date = "2021-10-13T06:31:00+13:00"
 description = "An invitation"
-tags = [ "prayer", "trust", "pain", "waiting" ]
+tags = [ "prayer", "trust", "pain", "waiting", "healing" ]
 related = [ "/post/answered-prayer/index.md" ]
 image = "sasha-freemind-nXo2ZsKHTHg-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Sasha Freemind on Unsplash](https://unsplash.com/photos/nXo2ZsKHTHg)"
@@ -23,7 +23,7 @@ How can we relate to our Heavenly Father when he leaves our most earnest and des
 “You may ask me for anything in my name, and I will do it.”
 {{< /quote >}}
 
-But unanswered prayer is a real thing. How can we deal with it? Many have grappled with this, and much has been written. Some have said, the Lord always answers prayer: sometimes yes; sometimes no; sometimes not yet. I find this glib and unhelpful. Because sometimes there is silence. 
+But unanswered prayer is a real thing. How can we deal with it? Many have grappled with this, and much has been written. Some have said, the Lord always answers prayer: sometimes yes; sometimes no; sometimes not yet. I find this glib and unhelpful. Because sometimes there is silence.
 
 Imagine a husband and father, let's call him Mark, a faithful servant of the Lord, suffering with severe health issues for so many years, for whom we have been faithfully, earnestly praying, confident that the Lord hears and is powerful to heal. Except he doesn't, and this man dies, leaving his grieving wife, Grace, and their eight-year-old son, Callum. And from the Lord, only silence. What kind of answer to prayer is that? How is that a reasonable response to desperate prayers offered from a broken heart?
 

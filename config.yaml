@@ -44,6 +44,8 @@ params:
             enabled: true
             default: Licensed under CC BY-NC-ND 4.0
 
+    #tagCount: true
+
     comments:
         enabled: false
 

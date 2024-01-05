@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "A life worthy of our calling"
 date = "2022-02-16T06:25:00+13:00"
 description = "The importance of reading in context"
-tags = [ "humility" ]
+tags = [ "humility", "unity" ]
 image = "vidar-nordli-mathisen-K4c8RymNeu8-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Vidar Nordli-Mathisen on Unsplash](https://unsplash.com/photos/K4c8RymNeu8)"
 +++

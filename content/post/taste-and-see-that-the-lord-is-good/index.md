@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "Taste and see that the Lord is good"
 date = "2021-10-20T06:33:00+13:00"
 description = "How to do that?"
-tags = [ "trust", "dependence", "understanding" ]
+tags = [ "trust", "dependence", "goodness" ]
 image = "joyful-vT5xrj3z1OE-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Joyful on Unsplash](https://unsplash.com/photos/vT5xrj3z1OE)"
 +++

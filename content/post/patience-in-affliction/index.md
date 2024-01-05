@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "Patience in affliction"
 date = "2021-12-01T06:25:00+13:00"
 description = "A reason to endure"
-tags = [ "patience", "suffering", "faith" ]
+tags = [ "patience", "pain", "faith" ]
 image = "zac-durant-_6HzPU9Hyfg-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Zac Durant on Unsplash](https://unsplash.com/photos/_6HzPU9Hyfg)"
 +++
@@ -13,8 +13,8 @@ Dear Amy,
 Is there any more to patience than waiting well?
 
 {{< quote source="Oxford Dictionary of English" >}}
-patience /ˈpeɪʃ(ə)ns/  
-▸ noun [mass noun]  
+patience /ˈpeɪʃ(ə)ns/
+▸ noun [mass noun]
 the capacity to accept or tolerate delay, problems, or suffering without becoming annoyed or anxious
 {{< /quote >}}
 

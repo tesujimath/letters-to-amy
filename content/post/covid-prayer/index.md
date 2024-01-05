@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "Covid prayer"
 date = "2021-03-31T06:47:00+13:00"
 description = "Do not let your hearts be troubled"
-tags = [ "peace", "prayer" ]
+tags = [ "fear", "peace", "prayer" ]
 image = "yannis-h-zpSXcUpmhNc-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Yannis H on Unsplash](https://unsplash.com/photos/zpSXcUpmhNc)"
 +++

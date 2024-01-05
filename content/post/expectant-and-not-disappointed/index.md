@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "Expectant and not disappointed"
 date = "2021-07-21T06:45:00+12:00"
 description = "What should we expect of the Lord?"
-tags = [ "expectation", "disappointment", "vulnerability", "grace" ]
+tags = [ "expectation", "disappointment", "vulnerability", "grace", "healing" ]
 image = "patrick-fore-T2S4CatGdfQ-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Patrick Fore on Unsplash](https://unsplash.com/photos/T2S4CatGdfQ)"
 +++

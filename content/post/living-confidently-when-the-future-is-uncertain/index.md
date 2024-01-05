@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "Living confidently when the future is uncertain"
 date = "2021-06-09T06:48:00+12:00"
 description = "The Lord delights in those who fear him"
-tags = [ "faith", "trust", "commitment" ]
+tags = [ "faith", "trust", "revelation" ]
 image = "arthur-ogleznev-rWDumHFt8E8-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Arthur Ogleznev on Unsplash](https://unsplash.com/photos/rWDumHFt8E8)"
 +++

@@ -3,7 +3,7 @@ author = "Simon Guest"
 title = "The eyes of your heart"
 date = "2021-09-22T06:31:00+12:00"
 description = "Enlightened to know"
-tags = [ "hope", "power" ]
+tags = [ "hope", "power", "knowing God" ]
 image = "javardh-FC59Au36moM-unsplash.jpg"
 license = "Text by Simon Guest CC BY-NC-ND 4.0, Photo by [Javardh on Unsplash](https://unsplash.com/photos/FC59Au36moM)"
 +++
