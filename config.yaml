@@ -39,6 +39,7 @@ params:
         math: false
         toc: true
         readingTime: false
+        nextRelated: true
         license:
             enabled: true
             default: Licensed under CC BY-NC-ND 4.0
