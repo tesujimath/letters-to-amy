@@ -4,7 +4,7 @@ description: Letters to Amy
 date: "2021-07-21"
 image: "river.jpg"
 license: Text by Simon Guest CC BY-NC-ND 4.0, Photo by Amy, Avatar by [John Jennings on Unsplash](https://unsplash.com/photos/I_kGNSAqD-8)
-lastmod: "2021-07-21"
+lastmod: "2024-01-05T16:15:00+13:00"
 menu:
     main:
         weight: -90
@@ -12,8 +12,19 @@ menu:
             icon: user
 ---
 
-Amy is a young woman faithfully serving the Lord through a teaching ministry in a jungle village in Papua New Guinea.
-A letter to Amy is sent each week to bless and encourage, to remind her that she is remembered in prayer, and to encourage others to do the same.
-Feel free to share them with anyone for these reasons.
+Amy is a young woman who faithfully served the Lord for three years through a teaching ministry in a jungle village in Papua New Guinea.  She has since returned to New Zealand where she continues to serve the Lord in other contexts.
 
-Please pray for Amy, for her ministry, and for those for whom she is devoting this period of her life.  May the Lord she loves and serves bless her richly.
+A letter to Amy was sent each week to bless and encourage, to remind her that she was remembered in prayer, and to encourage others to do the same.
+
+The letters remain here equally to bless and encourage anyone who, like Amy, seeks to live wholeheartedly for the Lord, holding nothing back.  There are various ways in.
+
+- the [scripture index](/ref/)
+- the [topic index](/tags/)
+- the [search page](/search/)
+- start at [the beginning](/peace-and-provision/) and read everything in sequence
+
+As this letter-writing ministry grew, so too did the length of the letters.
+
+May the Lord bless you richly through these letters, which are my own offering of worship to the one whose name is Faithful and True.
+
+And please continue to pray for Amy and others like her.
