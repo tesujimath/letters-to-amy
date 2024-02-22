@@ -24,7 +24,7 @@ Notwithstanding Jezebel's threat to kill him, how does “he was afraid” make 
 
 I read a fascinating paper about this.
 
-{{< quote author="Ronald Barclay Allen" source="Elijah the Broken Prophet, Journal of the Evangelical Theological Society 22/3" url="https://www.etsjets.org/files/JETS-PDFs/22/22-3/22-3-pp193-202_JETS.pdf" >}}
+{{< quote author="Ronald Barclay Allen" source="Elijah the Broken Prophet, Journal of the Evangelical Theological Society 22/3" url="https://etsjets.org/wp-content/uploads/2010/08/files_JETS-PDFs_22_22-3_22-3-pp193-202_JETS.pdf" >}}
 The pivotal term in our text is the Hebrew word _wayyarʼ_, the first word in verse three. This common verbal form should be translated “then he saw” (from _rāʼâ_). ... Virtually all of the more recent translations of the Bible have opted for another reading, the Hebrew _wayyîrāʼ_, “and he was afraid” (from _yārēʼ_ ).
 
 Against this ... most Hebrew manuscripts read “and he saw”.
