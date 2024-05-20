@@ -27,4 +27,6 @@ As this letter-writing ministry grew, so too did the length of the letters.
 
 May the Lord bless you richly through these letters, which are my own offering of worship to the one whose name is Faithful and True.
 
+If you are blessed by what you read here, know that I decided to continue writing at [O my Soul](https://omysoul.faith).
+
 And please continue to pray for Amy and others like her.
