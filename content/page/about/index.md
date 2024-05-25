@@ -30,3 +30,5 @@ May the Lord bless you richly through these letters, which are my own offering o
 If you are blessed by what you read here, know that I decided to continue writing at [O my Soul](https://omysoul.faith).
 
 And please continue to pray for Amy and others like her.
+
+Scripture references are quoted from the NIV in letters up to and including 14 Sep 2022, and subsequently from the ESV, unless otherwise indicated.
