@@ -28,7 +28,7 @@ What a rescue! What a Saviour! Praise him!
 
 So, with grateful, praising hearts, in fear and trembling, let us dare to ask again, how is it that God's blessing is quite so unevenly distributed?
 
-Paul grappled with such a question in relation to the election of the gentiles and God's apparent rejection of the nation of Israel (Romans 9-11). That he takes three chapters over this shows us that such questions are no small matter.
+Paul grappled with such a question in relation to the election of the Gentiles and God's apparent rejection of the nation of Israel (Romans 9-11). That he takes three chapters over this shows us that such questions are no small matter.
 
 Let's take some of his arguments and apply them to the more general question of uneven blessing.
 
