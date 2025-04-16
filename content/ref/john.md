@@ -6,7 +6,7 @@ description: "Scripture index"
 
 |  |  |
 | --- | --- |
-| 1:1-5,14 | [Creation<span style="font-size:smaller; padding-left:0.5em;">#131</span>]({{<relref "/post/creation/index.md" >}}) |
+| 1:1-5, 14 | [Creation<span style="font-size:smaller; padding-left:0.5em;">#131</span>]({{<relref "/post/creation/index.md" >}}) |
 | 1:5 | [Finding hope in the darkest times<span style="font-size:smaller; padding-left:0.5em;">#130</span>]({{<relref "/post/finding-hope-in-the-darkest-times/index.md" >}}) |
 | 2:1-10 | [Water into wine<span style="font-size:smaller; padding-left:0.5em;">#134</span>]({{<relref "/post/water-into-wine/index.md" >}}) |
 | 3:16 | [The disciple whom Jesus loved<span style="font-size:smaller; padding-left:0.5em;">#96</span>]({{<relref "/post/the-disciple-whom-jesus-loved/index.md" >}}) |
@@ -19,8 +19,8 @@ description: "Scripture index"
 | 10:10 | [Expectation in unsolicited blessing<span style="font-size:smaller; padding-left:0.5em;">#149</span>]({{<relref "/post/expectation-in-unsolicited-blessing/index.md" >}}) |
 | 10:10 | [Forgiving yourself<span style="font-size:smaller; padding-left:0.5em;">#73</span>]({{<relref "/post/forgiving-yourself/index.md" >}}) |
 | 10:10 | [This is the day that the Lord has made<span style="font-size:smaller; padding-left:0.5em;">#115</span>]({{<relref "/post/this-is-the-day-that-the-Lord-has-made/index.md" >}}) |
-| 11:1,3,5-6,17,21 | [Perfect timing<span style="font-size:smaller; padding-left:0.5em;">#59</span>]({{<relref "/post/perfect-timing/index.md" >}}) |
-| 11:5,36 <br/> 13:23,34-35 | [The disciple whom Jesus loved<span style="font-size:smaller; padding-left:0.5em;">#96</span>]({{<relref "/post/the-disciple-whom-jesus-loved/index.md" >}}) |
+| 11:1, 3, 5-6, 17, 21 | [Perfect timing<span style="font-size:smaller; padding-left:0.5em;">#59</span>]({{<relref "/post/perfect-timing/index.md" >}}) |
+| 11:5, 36 <br/> 13:23, 34-35 | [The disciple whom Jesus loved<span style="font-size:smaller; padding-left:0.5em;">#96</span>]({{<relref "/post/the-disciple-whom-jesus-loved/index.md" >}}) |
 | 13:34-35 | [Relational authenticity<span style="font-size:smaller; padding-left:0.5em;">#50</span>]({{<relref "/post/relational-authenticity/index.md" >}}) |
 | 14 | [Pray in the Spirit<span style="font-size:smaller; padding-left:0.5em;">#80</span>]({{<relref "/post/pray-in-the-spirit/index.md" >}}) |
 | 14:13-14 | [What to pray for<span style="font-size:smaller; padding-left:0.5em;">#90</span>]({{<relref "/post/what-to-pray-for/index.md" >}}) |

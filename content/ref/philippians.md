@@ -15,7 +15,7 @@ description: "Scripture index"
 | 3:4-6 | [Finding hope in the darkest times<span style="font-size:smaller; padding-left:0.5em;">#130</span>]({{<relref "/post/finding-hope-in-the-darkest-times/index.md" >}}) |
 | 3:4-6 | [The tar pit<span style="font-size:smaller; padding-left:0.5em;">#71</span>]({{<relref "/post/the-tar-pit/index.md" >}}) |
 | 3:4-6 | [The thorn in Paul's flesh<span style="font-size:smaller; padding-left:0.5em;">#27</span>]({{<relref "/post/the-thorn-in-pauls-flesh/index.md" >}}) |
-| 4:4,8 | [Joy<span style="font-size:smaller; padding-left:0.5em;">#47</span>]({{<relref "/post/joy/index.md" >}}) |
+| 4:4, 8 | [Joy<span style="font-size:smaller; padding-left:0.5em;">#47</span>]({{<relref "/post/joy/index.md" >}}) |
 | 4:4-5 | [Gentleness<span style="font-size:smaller; padding-left:0.5em;">#41</span>]({{<relref "/post/gentleness/index.md" >}}) |
 | 4:6-7 | [What if?<span style="font-size:smaller; padding-left:0.5em;">#150</span>]({{<relref "/post/what-if/index.md" >}}) |
 | 4:10-20 | [The provision of God<span style="font-size:smaller; padding-left:0.5em;">#107</span>]({{<relref "/post/the-provision-of-god/index.md" >}}) |

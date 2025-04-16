@@ -14,5 +14,5 @@ description: "Scripture index"
 | 20:5-6 | [Love mercy<span style="font-size:smaller; padding-left:0.5em;">#138</span>]({{<relref "/post/love-mercy/index.md" >}}) |
 | 34:5-8 | [A melody made with the heart<span style="font-size:smaller; padding-left:0.5em;">#87</span>]({{<relref "/post/a-melody-made-with-the-heart/index.md" >}}) |
 | 34:6-7 | [Faithfulness<span style="font-size:smaller; padding-left:0.5em;">#48</span>]({{<relref "/post/faithfulness/index.md" >}}) |
-| 34:6-7,14 | [The elephant in the room<span style="font-size:smaller; padding-left:0.5em;">#118</span>]({{<relref "/post/the-elephant-in-the-room/index.md" >}}) |
+| 34:6-7, 14 | [The elephant in the room<span style="font-size:smaller; padding-left:0.5em;">#118</span>]({{<relref "/post/the-elephant-in-the-room/index.md" >}}) |
 | 34:29-35 | [From glory to glory<span style="font-size:smaller; padding-left:0.5em;">#125</span>]({{<relref "/post/from-glory-to-glory/index.md" >}}) |

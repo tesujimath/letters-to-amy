@@ -16,5 +16,5 @@ description: "Scripture index"
 | 18:10-14 | [The tar pit<span style="font-size:smaller; padding-left:0.5em;">#71</span>]({{<relref "/post/the-tar-pit/index.md" >}}) |
 | 18:17 | [Receiving the kingdom of God like a little child<span style="font-size:smaller; padding-left:0.5em;">#28</span>]({{<relref "/post/receiving-the-kingdom-of-god-like-a-little-child/index.md" >}}) |
 | 20:17 | [This is the day that the Lord has made<span style="font-size:smaller; padding-left:0.5em;">#115</span>]({{<relref "/post/this-is-the-day-that-the-Lord-has-made/index.md" >}}) |
-| 22:31-34,55-62 | [Denial<span style="font-size:smaller; padding-left:0.5em;">#113</span>]({{<relref "/post/denial/index.md" >}}) |
+| 22:31-34, 55-62 | [Denial<span style="font-size:smaller; padding-left:0.5em;">#113</span>]({{<relref "/post/denial/index.md" >}}) |
 | 23:33-34 | [Forgiving others<span style="font-size:smaller; padding-left:0.5em;">#72</span>]({{<relref "/post/forgiving-others/index.md" >}}) |
